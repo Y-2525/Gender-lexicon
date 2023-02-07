@@ -1,0 +1,1430 @@
+﻿Gender words in Chinese,Gender words in English,Gender scores
+先生,sir,2
+男员工,male employees,2
+男生,boy,2
+男人,man,2
+男孩,boy,2
+爸爸,father,2
+父亲节,Father's Day,1.50601833
+工程施工,engineering construction,1.463687151
+理工科,science and engineering,1.245762712
+力度,intensity,1.223463687
+工地,construction site,1.161016949
+武术,martial arts,1.150837989
+工程部,engineering department,1.150837989
+汽配,auto parts,1.140495868
+大叔,uncle,1.1059741
+建筑,architecture,1.09039548
+教官,instructor,1.033898305
+机械加工,mechanical processing,1.008474576
+电路设计,circuit design,0.977653631
+浇注,pour,0.94398847
+力量,power,0.927374302
+焊接,weld,0.916201117
+加气,refill,0.89434031
+建筑行业,construction industry,0.89430592
+跆拳道,taekwondo,0.877094972
+建材行业,building materials industry,0.849162011
+硬性,rigid,0.826815642
+装机,install an equipment,0.813559322
+承压,under pressure,0.80017436
+承建,undertake construction,0.79619928
+电控,electric control,0.79338843
+学徒工,apprentice,0.788135593
+领导力,leadership,0.776859504
+企业家,entrepreneur,0.776536313
+技术部,technology department,0.771186441
+前端开发,front-end development,0.765363128
+犯罪,crime,0.765363128
+接盘,take over,0.75496923
+油费,oil fee,0.754237288
+勘测,survey,0.754189944
+建筑业,construction industry,0.75274658
+化工行业,chemical industry,0.7424582
+创业精神,entrepreneurship,0.73643684
+压铸,die-casting,0.73444623
+焊装,weld,0.73103216
+抢修,rush to repair,0.727272727
+起重,lift,0.72198001
+刮削,scrape,0.71318622
+校长,principal,0.709497207
+能源行业,energy industry,0.70870344
+总经理,general manager,0.698324022
+工程师,engineer,0.69565828
+制造业,manufacturing,0.6875
+接电,power on,0.68632939
+大力,vigorous,0.681818182
+安防,security,0.681564246
+装卸工,stevedore,0.68083358
+敢打敢拼,dare to fight,0.67957538
+冲劲,momentum,0.672316384
+打爆,explode,0.66677062
+竣工,complete,0.661016949
+配送,distribute,0.659217877
+围护,surround to guard,0.65728314
+勇敢,brave,0.652892562
+高层,high-level,0.649717514
+机械行业,machinery industry,0.64947876
+软件测试,software test,0.648044693
+工程预算,project budget,0.644067797
+建造,build,0.63271204
+抢险,emergency rescue,0.62670665
+接卸,unload,0.6256967
+汽车产业,automobile industry,0.61672742
+组队,organize a team,0.61452514
+商务,business affairs,0.611570248
+混炼,mix,0.61049997
+逆变,inversion,0.60525676
+高手,past master,0.597765363
+排烟,smoke exhaust,0.59406887
+巡视,patrol,0.593220339
+健身,bodybuilding,0.590909091
+拳击,boxing,0.59040813
+爆炸,blast,0.59036546
+装配工,fitter,0.59028771
+切削,cut,0.58932543
+拼搏,struggle hard,0.58753646
+野外,field,0.585227273
+力劲,strength,0.58273192
+奋战,fight hard,0.58118609
+激烈,fierce,0.581005587
+涉密,classified,0.57967092
+混日子,muddle along,0.576271186
+房地产,real estate,0.576271186
+减薄,thin,0.57255044
+协同作战,combined action,0.57217171
+逻辑性,logic,0.570621469
+院长,dean,0.569832402
+聚能,gather energy,0.56877493
+监理员,supervisor,0.56585751
+节能,energy conservation,0.56427883
+驻守,stationed,0.56424581
+开展业务,conduct business,0.56424581
+操作能力,operational ability,0.56424581
+铸造,mold,0.56299402
+不畏,fearless,0.56079469
+承揽,undertake,0.56045389
+打垮,defeat,0.55858465
+爆破,blast,0.55775362
+锻造,forging,0.55568393
+管理者,manager,0.553719008
+闪展,flash show,0.55350319
+高薪,high salary,0.553072626
+强大,powerful,0.55263152
+停车,parking,0.548022599
+挖掘,tap,0.547486034
+体罚,corporal punishment,0.547486034
+软件设计,software design,0.547486034
+魄力,boldness,0.5462547
+安全员,safety officer,0.54527979
+依仗,rely on,0.54502968
+强劲,strong,0.53997825
+股东,shareholder,0.536723164
+拼博,go all out in work,0.53472624
+照明设计,lighting design,0.533898305
+排污,drain sewage,0.53350318
+地勘,geological survey,0.53155701
+外勤,work done outside the office or in the field,0.52892562
+外派,expatriate,0.525423729
+艰巨,difficult,0.5254069
+程序员,programmer,0.52263606
+主动,initiative,0.519553073
+刻蚀,etch,0.51927586
+开拓精神,pioneering spirit,0.517045455
+干劲,enthusiasm,0.517045455
+供暖,heating,0.51700521
+筹建,prepare to build,0.516949153
+焊工,welder,0.51431923
+拦截,intercept,0.5138683
+数学,math,0.511363636
+驻扎,stationed,0.51093482
+坠落,fall,0.51050218
+电力行业,power industry,0.50968544
+血气方刚,vigorous,0.50893195
+筑造,build,0.50360629
+气浮,air flotation,0.50356368
+巡逻,patrol,0.50293392
+荣誉感,sense of honor,0.50229463
+喷射,inject,0.50224915
+驾驶,drive,0.49843842
+架子鼓,drum kit,0.497206704
+财富,wealth,0.494318182
+回佣,rebate,0.49425769
+值班员,watchman,0.49314033
+禁运,embargo,0.49185988
+超强,extremely strong,0.491525424
+厮杀,fight,0.49069109
+组装,assemble,0.48889331
+拖欠,in arrears,0.487603306
+求败,seek defeat,0.48715402
+熔化,melt,0.48545567
+夯实,tamp,0.48526559
+好手,adept,0.48389853
+监理,supervise and manage,0.483050847
+权利,right,0.482954545
+装卸,load and unload,0.48239561
+地勤,ground crew,0.4808467
+可靠性,reliability,0.480225989
+依靠,rely on,0.47785872
+壮大,grow,0.47705592
+航天事业,aerospace industry,0.47601269
+灵活机动,flexible,0.47580811
+精英,elites,0.474860335
+强悍,intrepid,0.47475956
+健身房,gym,0.474576271
+户外,outdoor,0.474576271
+耗损,consume,0.47451252
+探测,detect,0.47409236
+创造性,creativity,0.47107438
+涂装,paint,0.46906106
+加固,reinforce,0.4680716
+接地,grounding,0.46614972
+持股,shareholding,0.466101695
+自动化,automation,0.465909091
+律师,lawyer,0.465909091
+很强,very strong,0.465909091
+回收,recycle,0.46462053
+开发,develop,0.463687151
+管理人员,manager,0.463687151
+技术支持,technical support,0.463276836
+接头,meet up,0.46230269
+勇闯,go bravely,0.46228889
+羽毛球馆,badminton court,0.46220746
+机务,maintenance personnel,0.45896427
+违规,violate the rules,0.458100559
+负责人,principal,0.458100559
+操作技能,operational skills,0.458100559
+拆装,disassemble,0.457627119
+厉行节约,practicing thrift,0.4570066
+击穿,breakdown,0.45686033
+探伤,flaw detection,0.45648537
+攀爬,climb,0.45446637
+决心,determination,0.45283836
+人工智能,artificial intelligence,0.452513966
+家电业,home appliances industry,0.45111835
+耗用,consume,0.44876016
+提拔,promote to a higher job,0.446327684
+兴达,mastery,0.44628774
+技术工,technician,0.44622937
+修理,repair,0.44613053
+扑救,save,0.44228779
+迅捷,quick,0.44079542
+破冰,break the ice,0.44077938
+接货,pick up,0.44072647
+人才,talents,0.44047446
+检举,report,0.44013141
+劈开,split,0.43826272
+研发部门,r & d department,0.43812749
+创新能力,creativity,0.438016529
+反应力,reaction,0.43789147
+带领,lead,0.4375
+烟草行业,tobacco industry,0.4372643
+群雄,warlords,0.43692213
+严控,strict control,0.43445193
+卸货,unload,0.43282273
+抛光,polish,0.43220339
+动漫,cartoon,0.429752066
+减速,slow down,0.42763371
+决策,make a decision,0.426136364
+招商,attract investment in business,0.424581006
+应付,handle,0.424581006
+降噪,reduce noise,0.4244737
+争辩,argue,0.42441021
+挑战,challenge,0.421487603
+燃烧,burn,0.42103839
+拼得,struggle,0.42081327
+积极合作,actively cooperate,0.41974832
+建仓,open a position,0.41947558
+畏惧,fear,0.41922767
+模具设计,mold design,0.418994413
+磨炼,hone,0.41781547
+迫降,forced landing,0.41755788
+自主化,autonomy,0.41700771
+深挖,dig deep,0.41580238
+野心,ambition,0.41563633
+回转,turn around,0.41528232
+服务业,service industry,0.41387932
+销售主管,sales executive,0.41322314
+有权,have the right to,0.412429379
+加热,heating,0.41194611
+维修,repair,0.4112089
+轰炸,bombing,0.40991652
+士气,morale,0.40988605
+数据处理,data processing,0.407821229
+韧劲,tenacity,0.40682034
+突出者,capable person,0.406779661
+极强,extremely strong,0.406779661
+巡防,patrol,0.40616924
+精馏,distillation,0.40537795
+电子行业,IT,0.40418697
+纠偏,correct,0.40375547
+部署,deploy,0.403409091
+故障诊断,troubleshooting,0.402234637
+承受力,capability of adapting oneself to,0.40103568
+采购,purchase,0.40020839
+巨大,huge,0.40014972
+强抗,strong resistance,0.39995307
+破坏,destroy,0.3982331
+取证,obtain evidence,0.39620303
+依托,rely on,0.39588847
+责任感,sense of responsibility,0.395480226
+派驻,accredit,0.39460534
+整改,rectify and reform,0.39368769
+涉嫌,be a suspect,0.39337059
+减员,attrition,0.3927448
+艰苦,hard,0.3926781
+就位,in place,0.39245843
+对接,dock,0.3923285
+拼劲,work hard,0.39205588
+商业,business,0.391061453
+配混,compound,0.39098471
+治理,govern,0.39079319
+获利,profit,0.38983401
+执行力,execution,0.389830508
+豪华,luxury,0.389830508
+毅力,perseverance,0.38869375
+派遣,send,0.38768751
+极大,great,0.38731106
+指挥,command,0.38700936
+预算员,budget clerk,0.38623976
+装配,assemble,0.38623109
+逃生,escape,0.38579955
+潜能,potential,0.38547486
+庞大,huge,0.38547486
+创新,innovation,0.38459348
+作风正派,be upright in daily behavior,0.384180791
+伺服,servo,0.38371613
+贯通,run through,0.38322376
+破解,uncover,0.38295728
+散热,cooling,0.38266257
+卷绕,roll up,0.38237753
+后勤部门,logistics department,0.3815014
+思维,thinking,0.381355932
+授权,authorize,0.381355932
+刺激,stimulate,0.381355932
+工艺员,craftsman,0.3807154
+风控,risk control,0.379888268
+推卸责任,shirk responsibility,0.37974407
+固化,solidify,0.37948462
+打捞,salvage,0.3777436
+计取,calculate,0.37491229
+恶劣,bad,0.37470914
+搬移,move,0.37457653
+腐蚀,corrode,0.37448445
+家电,home appliances,0.374301676
+排放,discharge,0.37423493
+配载,stowage,0.37408905
+查勘,survey,0.37369225
+操作电脑,operate computer,0.372881356
+缺编,missing,0.37277672
+激励,excitation,0.37181632
+作业员,operator,0.37080333
+率领,lead,0.37070544
+获悉,learned,0.37040224
+对抗,confront,0.37000055
+高涨,upsurge,0.369726
+广阔,broad,0.36960375
+违反,violate,0.369318182
+青年,youth,0.368715084
+进攻性,aggressiveness,0.36858394
+逆袭,counterattack,0.36701668
+领航者,leader,0.36649554
+消防员,firemen,0.365618
+创办,found,0.36440678
+体能,physical fitness,0.36386822
+处理,deal with,0.363636364
+取决,depends on,0.36056898
+遏制,curb,0.36026986
+规避,avoid,0.36018002
+优异,excellent,0.35880483
+考察,study,0.357541899
+跑道,runway,0.35739953
+号召,call for,0.35713883
+进驻,stationed,0.35712541
+发展壮大,develop and grow,0.355932203
+威猛,mighty,0.35549043
+降低,reduce,0.35410474
+灵活性,flexibility,0.35392937
+精密,precision,0.35384562
+篮球场,basketball court,0.35275083
+骚扰,harass,0.35230177
+广进,broad,0.35176137
+优秀人才,outstanding talents,0.351562
+开拓,open up,0.35097464
+交于,delivered to,0.35052678
+勇于,dare to,0.35044077
+驾御,control,0.35028567
+轮滑,roller skating,0.350282486
+挤压,extrude,0.34968126
+切磋,learn from each other,0.34963769
+克制,restraint from,0.34945609
+排水,drain,0.34915419
+推动,promote,0.34870865
+拼命,desperately,0.3482611
+接好,pick up,0.34814916
+快速,fast,0.347107438
+排产,schedule,0.34704662
+欲望,desire,0.346368715
+解封,unblock,0.34619176
+获益,benefit from,0.34546072
+分拨,allocate,0.3449494
+飞跃,leap,0.34491913
+巡察,inspect,0.34480407
+散装,bulk,0.34445168
+紧抓,hold tight,0.34364395
+截至,up to,0.34305596
+肯干,willing to work,0.34298405
+搬运,carry,0.34185891
+完好性,integrity,0.34179557
+家具行业,furniture industry,0.34175289
+加工能力,processing capacity,0.33977096
+自满,complacent,0.33941204
+闯荡,break out,0.33870824
+拿到,got,0.33838324
+敏捷,agile,0.33750436
+韧性,toughness,0.33710154
+抱负,ambition,0.33707546
+联营,joint venture,0.33600076
+举起,lift,0.33549517
+指派,assign,0.335195531
+放逐,exile,0.3341604
+强制,force,0.33393891
+团队精神,team spirit,0.33352955
+滚动,scroll,0.33350083
+众志成城,unite as one,0.33343223
+较快,faster,0.33337432
+切割,cut,0.33319104
+质检员,quality inspector,0.33191869
+激化,intensify,0.33132123
+狂奔,run about wildly,0.33078235
+工人,worker,0.33012901
+集聚,agglomerate,0.33012617
+进网,into the net,0.32990154
+危机,crisis,0.329608939
+快速增长,rapid growth,0.329608939
+闹事,make trouble,0.32955212
+申诉,appeal,0.32945433
+上牌,register,0.32923981
+践行,practice,0.32915317
+朝阳产业,uprising industry,0.3289055
+承接,undertake,0.32880248
+派出,send,0.32872069
+进有,into there,0.32768831
+头脑灵活,smart,0.327683616
+降职,demote,0.32704869
+查封,close down,0.32655364
+排名,rank,0.3256647
+应对,respond,0.324022346
+实际操作,actual operation,0.324022346
+激情,passion,0.324022346
+督导,supervise and manage,0.324022346
+游泳馆,swimming pool,0.32308917
+饲料行业,feed industry,0.32295378
+浩瀚,vast,0.32266281
+进军,march into,0.32251799
+追究,held accountable,0.322094
+业务主管,business executives,0.322033898
+施展,display,0.322033898
+配置,configure,0.322033898
+保修,guarantee to keep in good repair,0.32177887
+抢占,seize,0.32060777
+克服,overcome,0.32038206
+上船,get on board,0.32036089
+敬业精神,professionalism,0.32007325
+进取心,enterprising spirit,0.31992036
+解聘,fire,0.31984564
+驰骋,gallop,0.31983377
+保险业,insurance,0.31892299
+离心,be at odds with the leadership,0.31882834
+崛起,rise,0.31824045
+征战,go on an expedition,0.31679924
+操纵,manipulate,0.31664518
+预警,early warning,0.316384181
+副校长,vice-chancellor,0.316384181
+卸载,uninstall,0.31624661
+盈亏,profit and loss,0.314049587
+逃脱,escape,0.31331595
+截止,cut off,0.3131379
+意志力,willpower,0.3129277
+设施,facility,0.312849162
+空调,air conditioner,0.312849162
+企图心,intentions,0.3125
+接驳,connect,0.3119793
+操控,control,0.31125389
+泄露,divulge,0.3109543
+爬行,crawl,0.30857902
+埋没,bury,0.3080102
+供应,supply,0.30726257
+跟踪,track,0.30726257
+减低,reduce,0.30695033
+虎将,a brave general,0.30604459
+思辨,speculative,0.30584663
+集散,collect and distribute,0.30577656
+组建,set up,0.30542551
+操作员,operator,0.305084746
+奋斗,struggle,0.30492109
+受挫,frustrated,0.30448614
+服装行业,garment industry,0.30383101
+修缮,repair,0.30110896
+危害,harm,0.299435028
+泄气,discouraged,0.29908908
+坚守岗位,stick to the post,0.29868046
+警示,warning,0.29812809
+救生,life-saving,0.29791859
+事业心,professionalism,0.29737413
+接连,one after another,0.29709845
+掉队,fall behind,0.29651705
+领袖,leader,0.29466067
+获取,obtain,0.29458792
+奔腾,surge forward,0.29446573
+攻破,break through,0.29423616
+浩大,vast,0.29416822
+销售业,sales industry,0.29408952
+签署,sign,0.293785311
+正义,justice,0.29367764
+搭建,build,0.29271102
+拖动,drag,0.29232946
+犯错,make a mistake,0.29210019
+展览业,exhibition industry,0.2916425
+便利,convenient,0.29078726
+市场营销,marketing,0.290502793
+拿下,win,0.28977978
+错开,stagger,0.28812565
+较低,lower,0.28710864
+上涨,rise,0.28649803
+判断力,judgment,0.286464
+会展业,exhibition industry,0.28610953
+要强,be anxious to outdo other,0.2858655
+悠久,long,0.28537822
+奋进,forge ahead,0.28495911
+精通,master,0.284916201
+拔尖,top,0.28468522
+搬迁,move,0.28459259
+足球场,football field,0.28425217
+水电工,electrician,0.28368556
+驾驭,control,0.28173938
+接车,pick up,0.28143264
+通报,inform,0.279661017
+求知欲,curiosity,0.279661017
+人才资源,human resources,0.27944986
+策划者,planner,0.27936705
+加薪,increase sb's wages,0.279329609
+丰厚,rich,0.279329609
+开辟,open up,0.27924444
+挤出,extrude,0.27895761
+超越,go beyond,0.27858777
+帅气,handsome,0.27842366
+拖延,procrastinate,0.27839484
+吃苦,endure hardship,0.27798692
+淘汰,disuse,0.27787536
+承受,bear,0.27782339
+先进,advanced,0.27774543
+老大,boss,0.27769824
+压榨,press,0.27734041
+刻苦,work hard,0.2763546
+当兵,be a soldier,0.27609733
+疲劳,tired,0.27512037
+明锐,bright and sharp,0.27504028
+申明,declare,0.27441054
+振翅,flap wings,0.27434048
+接手,take over,0.27394139
+疯狂,crazy,0.27387442
+接到,receive,0.27386074
+冗余,redundant,0.27380038
+筹划,plan,0.273743017
+沉淀,settle out,0.273743017
+激进,radical,0.27337886
+打拼,work hard,0.27306324
+战士,warrior,0.27280723
+熟练,skilled,0.27254039
+退缩,flinch,0.2720732
+履约,performance,0.2718412
+押运员,fulfill the agreement,0.27166628
+围棋,Go,0.27159537
+跨部门,cross-departmental,0.271186441
+激发,arouse,0.271186441
+携行,travel with,0.27073169
+清除,clear,0.27042787
+排出,discharge,0.26991673
+追逐,chase,0.26937405
+签批,sign off,0.26905299
+壮阔,magnificent,0.26895999
+参谋,give advice,0.26835138
+进入,enter,0.2682497
+监测员,monitor,0.26749831
+管理工作,management work,0.267045455
+扎实,solid,0.26669426
+侵权,infringe on a person's rights ,0.2663098
+炼制,refine,0.26429851
+聚合,aggregate,0.26362896
+安卫,security,0.26284376
+保卫处,security office,0.262774
+稳固,stable,0.26272361
+筹措,raise money,0.26269607
+重大,major,0.26253977
+借助,with the help of,0.26218195
+监视,monitor,0.26195989
+排除,exclude,0.26155349
+征兵,conscription,0.25914217
+复用,reuse,0.25887598
+巡检,patrol inspection,0.25882569
+求实,realistic,0.25873661
+乒乓球桌,table tennis table,0.25847685
+精修,refine,0.25802148
+厉害,awesome,0.25774665
+剥削,exploit,0.2565951
+自由,freedom,0.25614491
+强化,strengthen,0.25592205
+谋求,seek,0.25569748
+经受,withstand,0.25512435
+竞聘,to compete a position,0.2549266
+前进,go ahead,0.254237288
+迁移,migrate,0.25362303
+起飞,take off,0.25322652
+启发,inspire,0.25319032
+调度员,dispatcher,0.2526537
+牢固,firm,0.25194987
+接转,transfer,0.25174297
+精熟,proficient,0.25142869
+管辖,have jurisdiction over,0.251396648
+商办,business,0.251302
+优越,superior,0.25130036
+不务正业,be derelict in duty and run irrelevant business,0.25113434
+勤杂,handy-man,0.25098617
+盲目,blindly,0.24914989
+运动场,playground,0.24867431
+练手,practice,0.2483388
+摸索,grope,0.24792027
+攻克,capture,0.24741991
+勤奋,diligent,0.24715764
+捍卫,defend,0.2469379
+质疑,doubt,0.24667713
+碰撞,collision,0.24627036
+资源管理,resource management,0.245810056
+工商管理,business management,0.245810056
+接替,succeed,0.244994
+辉煌,brilliant,0.2446347
+精耕,intensive farming,0.24422729
+便捷,convenient,0.2437861
+精进,sophistication,0.24364716
+拒收,refuse to accept,0.24363079
+沉下,sink,0.24307443
+战友,comrade,0.24300291
+高效,efficient,0.242937853
+勤政,the industrious administration,0.24272889
+奔波,run around,0.24197007
+绕行,bypass,0.24194665
+使命,mission,0.24138733
+教育界,education,0.24042122
+技术员,technician,0.24006848
+较强,stronger,0.23982488
+举报,tip-off,0.2396763
+深化,deepen,0.239669421
+才华,talent,0.239669421
+上报,report,0.23951639
+划付,transfer,0.23946521
+销毁,destroy,0.23922857
+弯曲,bend,0.23892176
+取货,pick up,0.23891926
+检定,test,0.23867254
+划走,scratch away,0.23795933
+伟大,great,0.237288136
+商谈,discuss,0.237288136
+妨碍,get in the way,0.23681026
+充裕,ample,0.23563894
+倾斜,tilt,0.23561625
+敞开大门,open the door,0.23544267
+膨化,puffed,0.2349711
+上升,rise,0.234636872
+竞争机制,competitive mechanism,0.234636872
+审价,appraisal,0.23443535
+虚心学习,learn from,0.23441874
+担保,guarantee,0.2342318
+奔跑,run,0.23407973
+闯关,break through,0.2339536
+杰出,outstanding,0.23379768
+发扬,carry forward,0.23359383
+年轻有为,young and promising,0.23258601
+排错,troubleshoot,0.23257531
+锐利,sharp,0.23226956
+牛人,awesome people,0.23217547
+雄鹰,eagle,0.23194939
+潜心研究,dive into research,0.23165242
+森严,strict,0.23083642
+牵引,traction,0.23031562
+参天大树,towering trees,0.23010435
+联手,team up,0.2297186
+纯熟,proficient,0.22963589
+审计师,auditor,0.22942795
+增值,increase your own value,0.229050279
+累积,accumulate,0.229050279
+交付,deliver,0.229050279
+贯彻,implement,0.229050279
+新生力量,young blood,0.22881671
+沸腾,boiling,0.22869147
+开盘,opening,0.2285454
+过失,fault,0.22800134
+涉足,set foot in,0.22769402
+捐款,donate,0.227345
+较高,higher,0.22728688
+严格控制,strict control,0.227272727
+开展,carry out,0.227272727
+取回,retrieve,0.22668154
+上载,upload,0.22576884
+上缴,turn in,0.22547465
+接合,join,0.22475389
+警卫,the guard,0.22474643
+哀嚎,howling,0.22445848
+研讨,seminar,0.223463687
+采取,take,0.223463687
+荣誉,honor,0.223140496
+食品行业,food industry,0.22279475
+毁损,damage,0.22233682
+觉悟,consciousness,0.22210456
+批发业,wholesale industry,0.22174189
+擂台,ring (for martial contests),0.22167121
+打球,to play,0.22135175
+回报,return,0.22123662
+探知,detect,0.22110959
+鉴定,identification,0.220338983
+较大,bigger,0.21992998
+羽毛球场,badminton court,0.21979841
+自立,stand on one's own feet,0.21964574
+推理,infer,0.21947589
+履职,perform duties,0.21848002
+感知力,perception,0.21823978
+办学,start a school,0.217877095
+较短,shorter,0.21786684
+开创,create,0.21706006
+教书育人,teach and educate people,0.21696573
+迁改,relocate,0.21638855
+鼓舞,inspire,0.21624656
+起伏,ups and downs,0.21575175
+侵入,invade,0.21556826
+争取,strive for,0.214876033
+作风严谨,rigorous style,0.214689266
+质押,pledge,0.21468205
+致远,achieve lofty ideals,0.21454793
+自负,conceited,0.21326952
+勤杂工,handy-man,0.21325353
+深造,further study,0.21258328
+外出,go out,0.21225572
+运筹,logistics,0.21209803
+思辩,debate,0.21192048
+自信心,self-confidence,0.211864407
+市场部,marketing department,0.211864407
+上进,motivated,0.2117147
+孤身,alone,0.21128892
+锻炼,exercise,0.21123849
+培新,train,0.21120456
+信心,confidence,0.21109686
+判定,determination,0.21109298
+付费,pay for,0.210227273
+借鉴,learn from,0.20993863
+拧紧,tighten,0.20928017
+伸展,stretch,0.20904919
+踏实,dependable,0.209039548
+精湛,superb,0.209039548
+分拣,sort,0.209039548
+强加,impose,0.20899221
+旅行家,traveler,0.20886557
+紧邻,next to,0.2084328
+划船,boat,0.2082104
+筹集,raise,0.20804097
+逻辑,logic,0.20803314
+切入,cut in,0.20778489
+开拓者,pioneer,0.20770248
+采样,take samples,0.20711936
+天马行空,a powerful and unconstrained style,0.206703911
+签约,sign the contract,0.20661157
+破碎,broken,0.20646768
+保卫,defend,0.2064546
+量变,quantitative change,0.20623515
+刻苦钻研,study hard,0.20579936
+上浮,float up,0.20571513
+深耕,deep plowing,0.20499896
+破损,damaged,0.20484454
+签订,sign,0.20470821
+筑起,build up,0.20469469
+起航,set sail,0.20408267
+环绕,surround,0.20405038
+高大,tall,0.20404614
+拥护,support,0.20375601
+深远,profound,0.20371891
+严密,tight,0.20334732
+探索,explore,0.20278238
+降到,down to,0.20237817
+乐助,be happy to help others,0.20218085
+组织协调,organization and coordination,0.201117318
+聚集,gather,0.20099768
+精算,actuarial,0.20088871
+签定,sign,0.20073787
+暗访,unannounced visit,0.20022063
+贸易业,trade industry,0.19864331
+审计员,auditor,0.19796368
+求事,ask for help,0.19790366
+理赔,settlement of claim,0.197740113
+办事,work,0.197740113
+隐蔽,hidden,0.19758972
+中计,be trapped,0.19729694
+肯吃苦,willing to endure hardship,0.19650536
+敬业,dedicated,0.19650508
+象棋,chess,0.19642578
+勤奋学习,hardworking,0.19639334
+稳居,retain its position,0.19615353
+中央空调,central air conditioning,0.19595097
+夸大,exaggerate,0.1959069
+配套,matching,0.194915254
+开阔,open,0.194915254
+精准,precise,0.194915254
+肯上,willing to go,0.19446478
+批核,approve,0.19444834
+发财,get rich,0.19413806
+批示,give instructions,0.19324604
+欠缺,lack,0.19284482
+进仓,enter warehouse,0.19243686
+排布,arrange,0.19223169
+市场需求,market demand,0.192090395
+老兵,veteran,0.19206844
+汇集,collection,0.19201561
+解决困难,resolve issues,0.19152797
+觉醒,wake up,0.19136987
+上调,raise,0.19129715
+安治,security,0.19104982
+忠义,loyal,0.19094898
+纠缠,entangle,0.19088599
+大胆,bold,0.19087231
+回笼,withdrawal,0.19026383
+与时俱进,keep pace with the times,0.189944134
+国内外,domestic and foreign,0.189944134
+关键,essential,0.189944134
+高级顾问,senior consultant,0.189944134
+著名,famous,0.18762325
+大牛,awesome people,0.18758422
+很快,soon,0.1875
+胆大,bold,0.18673763
+引荐,recommend,0.18645624
+整合,integrate,0.186440678
+无限,unlimited,0.186440678
+随意,random,0.186440678
+聘任,hire,0.186440678
+变动,change,0.186440678
+判读,to read and discriminate,0.18630606
+泳池,swimming pool,0.18585784
+骑行,ride,0.18558142
+上交,hand in,0.18534306
+配备,be equipped with,0.18517092
+畅通,unimpeded,0.1848729
+完备,complete,0.184357542
+供给,supply,0.184357542
+上锁,be locked,0.18401731
+批发,wholesale,0.18374261
+积极支持,actively support,0.18355115
+绕道,detour,0.18315608
+质询,challenge,0.18292172
+赔偿,compensation,0.18276054
+坐享,sit back and enjoy,0.18232639
+餐饮业,catering,0.18232382
+减持,reduce holdings,0.18196343
+打磨,polished,0.18156451
+精良,excellent,0.18123499
+落实,carry out,0.18079096
+缴交,hand over,0.18066722
+自强,self-improvement,0.18065173
+有志气,ambitious,0.17957315
+行销,marketing,0.17877095
+俯瞰,overlooking,0.17845711
+游学,study tour,0.177966102
+捕捉,capture,0.177966102
+减轻,reduce,0.17793817
+热忱,enthusiasm,0.17789993
+骑士,knight,0.17769575
+潜心,concentrate on,0.17751601
+减少,reduce,0.17694676
+杀毒,antivirus,0.17690318
+派送,delivery,0.17688095
+求购,buy,0.17565521
+裸露,exposed,0.1756449
+落脚,settle down,0.17464108
+结交,make friends with,0.1744335
+搞钱,make money,0.17434937
+拍卖,auction,0.17428594
+危急,critical,0.17425645
+接班,take over,0.1742463
+耐性,patience,0.17405534
+喷绘,inkjet,0.17393955
+弹性,elasticity,0.17365481
+大神,god,0.17322835
+凝聚,cohesion,0.17317314
+显赫,prominent,0.17310654
+坚守,hold one's ground,0.17261742
+优厚,generous,0.17256382
+欠佳,poor,0.17219441
+上渡,get on the ferry,0.17196581
+服从安排,obey the arrangement,0.17174444
+静待,wait,0.1716585
+涉猎,dabble,0.17136974
+积淀,accumulation,0.17027967
+艰难,difficult,0.17010301
+转变,change,0.169491525
+领悟力,comprehension,0.169491525
+共创,co-create,0.169491525
+诚意,sincerity,0.169491525
+包吃,free food,0.169491525
+恶臭,stench,0.16913407
+交涉,negotiate,0.16904449
+交行,bank of communications,0.16901287
+上图,above picture,0.16855815
+移交,transfer,0.167597765
+集中,concentrated,0.16747452
+惧怕,fear,0.16732409
+掏钱,to pay,0.16645245
+讲课,lecture,0.16621048
+理货员,tally clerk,0.16591965
+抛洒,sprinkle,0.16559287
+前行,forward,0.16556837
+计划性,planned,0.16537127
+正气,righteousness,0.16519622
+烧录,burning,0.1651732
+构造,structure,0.16477679
+丰沛,plentiful,0.16431304
+清洗,to clean,0.1630752
+烘干,drying,0.1628342
+考取,pass the exam,0.1622449
+冷暖空调,heating and air conditioning,0.162011173
+朝气,vigorous,0.162011173
+门外汉,layman,0.16170218
+有名,famous,0.16127306
+强烈,strong,0.16070474
+征服,conquer,0.16068152
+起薪,starting salary,0.16042843
+领取,receive,0.1603032
+汲取,absorb,0.1589298
+较广,wider,0.15892962
+空降,parachute,0.15872991
+交接,handover,0.15847147
+完成,finish,0.15819209
+密集,dense,0.15819209
+廉洁,incorruptible,0.15797886
+履行,fulfill,0.15779776
+推导,derive,0.1577561
+受气,be bullied,0.1576683
+责任心,sense of responsibility,0.1576426
+拔擢,promote,0.15761131
+深入,in-depth,0.15706659
+任务分配,task assignment,0.157024793
+品检,quality inspection,0.15664343
+抵制,resist,0.15644705
+上门服务,door-to-door service,0.156424581
+稽核,audit,0.156424581
+佼佼者,the best,0.15454065
+缺陷,defect,0.15432836
+询证,inquire,0.15430377
+拖泥带水,do things sloppily,0.15425464
+清缴,clear,0.15398056
+谋生,make a living,0.15395726
+回签,check back,0.15391501
+登高,climb,0.15382346
+批准,approve,0.153409091
+可行性,feasibility,0.153409091
+财产,property,0.153409091
+上网,go online,0.1532534
+上手,get started,0.15312841
+牵头,take the lead,0.15260372
+进取,enterprising,0.152542373
+合法,legitimate,0.152542373
+挥洒,sway,0.15239432
+飞扬,fly upward,0.1518971
+忠诚,loyal,0.1516728
+评定,assess,0.15131721
+深究,go into (a matter) seriously,0.15125016
+斡旋,mediate,0.15090924
+新锐,young and vigorous,0.1508843
+推出,roll out,0.150837989
+试制,prototype,0.150837989
+梦想,dream,0.150837989
+留学,study abroad,0.150837989
+耐受,tolerate,0.15003375
+平稳,smooth,0.14982601
+极高,very high,0.14941718
+紧急,urgent,0.14938168
+不甘,unwilling,0.14935243
+妥善解决,settle properly,0.14914071
+审批,approval,0.148760331
+高福利,high welfare,0.148760331
+想象力,imagination,0.14826054
+创新性,innovative,0.14798131
+酗酒,alcoholism,0.14787292
+司机,driver,0.14755942
+拼接,put together,0.14729178
+业务人员,business people,0.1469855
+编译,compile,0.14692506
+合规性,compliance,0.146892655
+参考,refer to,0.146892655
+签呈,sign,0.14667551
+求学,go to school,0.14608485
+赚大钱,make a fortune,0.14602152
+拣选,choose,0.14589837
+雏鹰,young eagle,0.14576226
+毗邻,next to,0.14536728
+洞察,insight,0.145251397
+解除,relieve,0.14473768
+退伍军人,veteran,0.14426555
+吃亏,suffer,0.14413209
+协作,cooperate,0.14352566
+取酬,get paid,0.14328183
+服务行业,service industry,0.14290587
+健儿,athletes,0.14231436
+深厚,deep,0.1421352
+排版,typeset,0.14184124
+上推,push up,0.14172483
+解放,liberate,0.14171181
+知名,famous,0.141242938
+管理学,management,0.141242938
+分析,analyze,0.141242938
+搓手,rub one's hands together,0.14009395
+直达,direct,0.139664804
+接入,access,0.139664804
+确保,make sure,0.13850007
+守信,trustworthy,0.13827961
+退伍,be discharged from military service,0.1380496
+构想,idea,0.13796816
+严苛,harsh,0.13740769
+健行,hiking,0.13733625
+启示,enlightenment,0.13695712
+维护,maintain,0.136363636
+轻易,easily,0.13623673
+追踪,track,0.13595293
+运营,operate,0.13559322
+额外,additional,0.13559322
+信赖,trust,0.13551255
+进退,advance and retreat,0.13470455
+启航,set sail,0.13460775
+混入,mix in,0.13417286
+准则,guideline,0.134078212
+紧跟,follow closely,0.13403075
+便宜,cheap,0.13387785
+骑手,the rider,0.13352694
+后勤工作,logistics,0.13352502
+低廉,low,0.13349996
+核准,approve,0.132231405
+思考,think,0.13168337
+反思,reflect,0.13155837
+接洽,contact,0.1312217
+敦促,urge,0.1311738
+条理性,organized,0.130681818
+关闭,close,0.130681818
+严守,strictly observe,0.13007049
+制作,make,0.129943503
+寄送,send,0.129943503
+合作,cooperate,0.129943503
+见解,opinion,0.12934538
+扛得住,bear it,0.12923416
+厚实,thick,0.12894056
+外教,foreign teacher,0.12849162
+思路,train of thought,0.12849162
+期望,expect,0.12849162
+构成,constitute,0.12849162
+公费旅游,incentive travel,0.12849162
+牵开,retract,0.12816051
+苛刻,harsh,0.12776088
+深刻理解,deep understanding,0.127118644
+救生员,lifeguard,0.12604445
+品行优良,have good conduct,0.12502
+招募,recruit,0.125
+严防,take precautions against,0.12453134
+积极主动,active,0.124293785
+碰壁,run head against a stone wall,0.1236648
+秉承,uphold,0.12366056
+流动,flow,0.122905028
+估算,estimate,0.122905028
+更新,renew,0.122905028
+出色,outstanding,0.122905028
+精诚,sincerely,0.1224613
+虚假,fake,0.12236581
+使劲,exert all one's strength,0.12231
+目击,witnessed,0.12219722
+核发,issued,0.12189842
+回退,go back,0.12151041
+披露,disclosure,0.12096775
+尽职,due diligence,0.12074555
+繁重,heavy,0.12068534
+平庸,mediocre,0.12061863
+现役军人,active duty military,0.11943297
+排斥,repel,0.11918636
+扶持,support,0.11889517
+租售,lease and sale,0.118644068
+自学能力,self-study ability,0.118644068
+情报,intelligence,0.118644068
+采用,use,0.118644068
+整编,reorganization,0.11856173
+接见,interview,0.11852487
+护航,convoy,0.11849983
+派生,derived,0.11848397
+逃避,escape,0.11788236
+集采,collect,0.11787445
+划拨,transfer,0.11733114
+正规,regular,0.117318436
+理解力,understanding,0.117318436
+调配,deploy,0.117318436
+询价,inquiry,0.11719828
+清廉,honest,0.11706036
+银行业,banking,0.11690834
+取样,sampling,0.1163501
+感应,induction,0.11603764
+嘈杂,noisy,0.11559685
+精炼,refine,0.11512988
+揽收,collect,0.11511616
+独立,independent,0.114076
+涉及,involve,0.11356623
+跳出,jump out,0.11301297
+实务,practice,0.11299435
+传授,teach,0.11299435
+拔高,pull up,0.11290083
+种植,plant,0.11272461
+交互,interact,0.11255455
+贤人,sage,0.11246532
+纠纷,dispute,0.111731844
+伙伴,partner,0.111731844
+朝阳,have a sunny exposure,0.111731844
+天才,genius,0.11167489
+盘问,cross-examination,0.111381
+环境优美,nice environment,0.11105539
+交替,alternately,0.11083466
+聚齐,get together,0.11078938
+妥当,appropriate,0.110169492
+调查,investigation,0.110169492
+勤于,diligent,0.10948946
+成功,success,0.10936967
+隐匿,hide,0.10923446
+上阵,go into battle,0.10900532
+汇成,converge into,0.10890214
+激活,activate,0.10861933
+塌实,steady and sure,0.10815244
+签发,issued,0.10797207
+争创,create,0.10730831
+满足,satisfy,0.10725035
+复杂,complex,0.10642694
+餐饮行业,food industry,0.1062725
+明确,clear,0.106145251
+骄傲,pride,0.106145251
+严谨,rigorous,0.10607225
+清算,liquidate,0.10554134
+衡量,measure,0.10553023
+良好,good,0.10546701
+纺纱工,spinner,0.10539348
+凝练,concise,0.10508361
+吸毒,drug,0.10456761
+计划,plan,0.10427034
+保护,protect,0.10422815
+仓管员,warehouse clerk,0.10421095
+教改,education reform,0.10413683
+旺盛,exuberant,0.10407211
+法医,forensic,0.10395268
+健全,sound,0.10306893
+模糊,vague,0.10294255
+稳健,steady,0.10293092
+申办,apply to host,0.10262335
+较远,farther away,0.10231249
+检讨,review,0.10212653
+解释,explain,0.10192936
+进货,purchase,0.10191455
+坚持,persist in,0.1018554
+探寻,explore,0.10180896
+安检,security check,0.10174025
+灵活处理,flexible handling,0.101694915
+充足,adequate,0.101694915
+先锋,pioneer,0.1012248
+亲临,in person,0.10111422
+划定,delineate,0.10102522
+共享,shared,0.10102337
+巩固,consolidate,0.10083419
+自主,independent,0.10067892
+省内外,inside and outside the province,0.100558659
+自发,spontaneous,0.10047674
+打破,break in,0.10046348
+法律,law,0.10023589
+特殊,special,0.1001476
+稳妥,safe,0.09994941
+培植,cultivate,0.09958183
+蹉跎,wasted,0.09948869
+后勤保障,logistic support,0.09935853
+抢购,snap up,0.09905416
+理性,reason,0.09823892
+坚定,firm,0.09770987
+争执,dispute,0.09746504
+交纳,pay,0.09714208
+探讨,explore,0.09699046
+积累,accumulation,0.096045198
+共同完成,complete together,0.096045198
+秘书长,secretary general,0.09586534
+确属,indeed belong,0.09543487
+小组长,group leader,0.09537839
+弥补,make up,0.09526105
+主宰,dominate,0.09519952
+坚韧,tenacity,0.09496642
+画师,painter,0.09466441
+拖沓,procrastination,0.09431904
+急促,rapid,0.09322581
+展望,outlook,0.09209999
+硬朗,tough,0.09128494
+携带,carry,0.09094248
+重要,important,0.090909091
+荣获,awarded,0.090909091
+吹牛皮,brag,0.09050968
+促成,contributed to,0.09039548
+优胜,winning,0.09035764
+广告业,advertising,0.08984137
+具备,have,0.08964482
+确立,establish,0.0895689
+明白,clear,0.089385475
+坚毅,perseverance,0.08913715
+审核员,auditor,0.08895759
+值班,on duty,0.08846294
+勇毅,courage,0.08836647
+方便,convenient,0.08834736
+驯化,domesticated,0.08834142
+耐劳,endurance,0.08785092
+可靠,reliable,0.08775426
+配发,allotment,0.08754181
+成败,success or failure,0.08741518
+进销,restocking and selling,0.08714592
+粗犷,rough,0.08679859
+简练,concise,0.08679194
+清退,clear out,0.08669561
+抗拒,resist,0.08632856
+军人,soldier,0.0862781
+游泳池,swimming pool,0.08619572
+繁忙,busy,0.08520885
+宽阔,wide,0.0848185
+促销员,promoter,0.08464295
+强健,strong,0.08391502
+积极态度,positive attitude,0.0838154
+广告投放,advertising,0.082644628
+守诺,keep promise,0.08260394
+消极,negative,0.08259575
+游泳场,swimming pool,0.0821817
+引流,drainage,0.08213636
+迁徙,migrate,0.08193342
+容忍,tolerate,0.08160564
+喧哗,the noise,0.08045801
+歧视,discriminate,0.0799529
+浸泡,soak,0.07984724
+勤恳,diligent,0.07971642
+坚信,firmly believe,0.07923935
+成功人士,successful people,0.07919854
+诚实,honest,0.079096045
+摈弃,abandon,0.07748526
+消除,eliminate,0.07669809
+紧密,close,0.07655973
+贯穿,run through,0.07654514
+忠于, be loyal to,0.076271186
+充满活力,energetic,0.076271186
+勾心斗角,intrigue against each other,0.07620709
+抉择,choose,0.07482081
+灵通,well-informed,0.07390033
+电子商务,e-commerce,0.073446328
+诱惑,tempt,0.07337677
+诞生,be born,0.07300056
+喧嚣,noisy,0.07269274
+擅于,be good at,0.072625698
+血气,hot-blooded,0.07181162
+查核,check,0.06983786
+透彻,lucid,0.06929205
+审计,audit,0.06888578
+话务员,operator,0.06873359
+决算,final accounts,0.06840847
+洽谈,negotiate,0.06823662
+秉持,uphold,0.06820745
+贤才,talent,0.06717663
+坚强,strong,0.06625992
+专任教师,full-time teachers,0.06585037
+怀揣,carry,0.06566548
+理清,sort out,0.06539873
+辛勤工作,work hard,0.06476658
+勤苦,industrious and hardworking,0.06458742
+抛开,put aside,0.06449509
+才子,wit,0.06339098
+奉献,dedicate,0.06333078
+迫切,urgent,0.06213887
+划算,worthwhile,0.06211443
+盛名,famous,0.06175484
+摇摆,swing,0.06150597
+正派,upright,0.06146898
+协同工作,collaborative work,0.061452514
+盘存,take inventory,0.061452514
+缓存,cache,0.061452514
+承诺,promise,0.06074933
+忍受,bear,0.06059988
+稀缺,scarce,0.06030605
+纯粹,pure,0.05912966
+吹风,blow,0.05887288
+辜负,let down,0.05821281
+户外工作,work outdoors,0.05753539
+接招,take it,0.05685396
+徘徊,wander,0.05674863
+奋斗者,struggler,0.05671361
+刻盘,record,0.05644162
+关连,relevance,0.05475898
+见识,experience,0.05433208
+编制,compile,0.05355937
+遴选,select,0.05338339
+呐喊,shout,0.05317207
+初心,original intention,0.05211076
+扶贫,poverty alleviation,0.05190492
+灵活运用,flexible application,0.05189626
+记载,record,0.05169281
+受骗,be deceived,0.05108976
+广告行业,advertising industry,0.05101762
+汇编,compile,0.05091152
+支付,to pay,0.050847458
+玩转,have fun,0.05076453
+真实有效,true and effective,0.05027933
+伙食,food,0.05027933
+通畅,unobstructed,0.049586777
+启用,enable,0.0490492
+渴望,eager,0.04897746
+商讨,discuss,0.04688169
+讲评,comment and appraise,0.04656213
+国王,king,0.04648971
+推断,infer,0.04636766
+沉闷,boring,0.04588201
+联想,connect in the mind,0.04560244
+理解能力,comprehension,0.045454545
+开具,issued,0.045454545
+分析师,analyst,0.045454545
+医疗险,medical insurance,0.04519774
+态度端正,correct attitude,0.044692737
+积极,positive,0.044692737
+弥合,to bridge,0.04251331
+阐述,explain,0.041322314
+条理分明,organized,0.04042079
+传承,inherited,0.03982212
+知晓,know,0.039772727
+公平,fair,0.03953244
+社会保障,social security,0.039106145
+规划师,planner,0.039106145
+短暂,short,0.03828932
+身体力行,set an example by personally taking part,0.03823652
+优秀,excellent,0.03778542
+执著,persistent,0.03692208
+散漫,undisciplined,0.03641636
+忠实,loyal,0.03637376
+赞赏,appreciate,0.03568655
+乐趣,pleasure,0.0353497
+虚伪,hypocritical,0.03534881
+服从,obey,0.03490186
+自检,self-test,0.033898305
+分配,distribute,0.033898305
+自觉遵守,consciously obey,0.033519553
+担负,take on,0.03337272
+敬职,dedicated,0.03332112
+君子,gentleman,0.03317896
+理顺,straighten out,0.03259192
+敞开,wide open,0.03230312
+出国,go abroad,0.03225785
+郁闷,depressed,0.03224858
+交换,exchange,0.03196514
+精确,accurate,0.03025629
+孵化,incubate,0.02947801
+涉税,tax related,0.02942283
+传播,spread,0.028248588
+擦肩,rub shoulders,0.0280753
+纠正,correct,0.027932961
+经纪人,broker,0.027932961
+多样,diverse,0.027932961
+卖力,work hard,0.02790223
+翻新,renovate,0.02783658
+汇缴,remittance,0.02672654
+组接,assemble,0.02658185
+轰动,sensation,0.02602525
+高尚,noble,0.025423729
+出国游,travel abroad,0.0249003
+沉着,calm,0.02458336
+交办,hand over,0.02453696
+匹配,match,0.02449641
+录取,admission,0.02413607
+松弛,relaxed,0.02385539
+称兄道弟,address/treat each other as brothers,0.02365841
+挽回,redeem,0.02307208
+有条理,organized,0.02259887
+小组活动,group activity,0.02259887
+预订,booking,0.022346369
+隐含,implied,0.02209231
+邀请,invite,0.02150433
+配伍,compatibility,0.02108636
+业务员,clerk,0.02093088
+划分,divide,0.02089122
+检验员,inspectors,0.02079438
+烧烤,barbecue,0.02033969
+揭示,reveal,0.01973658
+简化,simplify,0.01971889
+拜访,visit,0.01951208
+枯燥,dull,0.01949183
+尽责,conscientious,0.01946101
+复员军人,demobilized soldiers,0.01945395
+畅游,swim,0.0183227
+浓厚,strong,0.01825085
+据说,reputedly,0.01815477
+建制,establishment,0.01784585
+归纳,induction,0.01769036
+正确,correct,0.017045455
+统计数据,statistical data,0.017045455
+住校,board at school,0.016949153
+上传下达,upload and release,0.016949153
+流程,process,0.016949153
+缴费,pay the fees,0.016949153
+编制工作,preparation work,0.016949153
+繁荣,prosperous,0.01607869
+抽烟,smoke,0.01607177
+抱怨,complain,0.01598451
+感悟力,perception,0.01597813
+筹备,prepare,0.01567508
+签报,signed report,0.01525816
+让步,compromise,0.01481834
+吃香,popular,0.01453052
+化解,resolve,0.01401733
+追梦,chase dreams,0.01349653
+追求,pursue,0.01327762
+帮扶,help,0.01300794
+乐于,be glad to,0.01220244
+翻身,turn over,0.01213556
+转业军人,demobilized soldiers,0.01193093
+控制情绪,control emotion,0.01148116
+复核,review,0.011363636
+缓解,ease,0.01082948
+摆脱,get rid of,0.00999293
+吸引,attract,0.00973126
+共勉,mutual encouragement,0.0095919
+吸烟,smoke,0.00922607
+谦虚,modest,0.00884226
+丰盛,rich,0.008474576
+颠覆,subvert,0.00831745
+国内,domestic,0.008264463
+真实感,realism,0.0081195
+归拢,gather together,0.00810431
+至尊,supreme,0.00800336
+精于,be proficient in,0.00776565
+强调,emphasize,0.00743025
+高发,high incidence,0.00667166
+奉行,pursue,0.00606935
+解冻,thaw,0.00601765
+签名,sign,0.00581962
+接收,take over,0.00580739
+合格,qualified,0.005649718
+营业部,sales department,0.005586592
+执着,persistent,0.00531186
+抛弃,abandon,0.00504762
+繁华,bustling,0.00381338
+求变,seek change,0.00377432
+苦闷,depressed,0.00353993
+协助,assist,0.00346447
+烦扰,bother,0.00345083
+庆幸,rejoice,0.00300427
+煮熟,cooked,0.00224406
+上课,attend class,0.00221433
+慎密,careful,0.00193476
+捐献,donate,0.00178595
+顾及,take into account,0.00176602
+休养,recuperate,0.0007404
+倡导,advocate,0.00030856
