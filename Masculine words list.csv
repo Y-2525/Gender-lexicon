@@ -1,1430 +1,1430 @@
 ﻿Gender words in Chinese,Gender words in English,Gender scores,Part of speech
-先生,sir,2,Noun
-男员工,male employees,2,Noun
-男生,boy,2,Noun
-男人,man,2,Noun
-男孩,boy,2,Noun
-爸爸,father,2,Noun
-父亲节,Father's Day,1.50601833,Noun
-工程施工,engineering construction,1.463687151,Verb
-理工科,science and engineering,1.245762712,Noun
-力度,intensity,1.223463687,Noun
-工地,construction site,1.161016949,Noun
-武术,martial arts,1.150837989,Noun
-工程部,engineering department,1.150837989,Noun
-汽配,auto parts,1.140495868,Noun
-大叔,uncle,1.1059741,Noun
-建筑,architecture,1.09039548,Noun
-教官,instructor,1.033898305,Noun
-机械加工,mechanical processing,1.008474576,Verb
-电路设计,circuit design,0.977653631,Verb
-浇注,pour,0.94398847,Verb
-力量,power,0.927374302,Noun
-焊接,weld,0.916201117,Verb
-加气,refill,0.89434031,Verb
-建筑行业,construction industry,0.89430592,Noun
-跆拳道,taekwondo,0.877094972,Noun
-建材行业,building materials industry,0.849162011,Noun
-硬性,rigid,0.826815642,Adjective
-装机,install an equipment,0.813559322,Verb
-承压,under pressure,0.80017436,Verb
-承建,undertake construction,0.79619928,Verb
-电控,electric control,0.79338843,Noun
-学徒工,apprentice,0.788135593,Noun
-领导力,leadership,0.776859504,Noun
-企业家,entrepreneur,0.776536313,Noun
-技术部,technology department,0.771186441,Noun
-前端开发,front-end development,0.765363128,Noun
-犯罪,crime,0.765363128,Verb
-接盘,take over,0.75496923,Verb
-油费,oil fee,0.754237288,Noun
-勘测,survey,0.754189944,Verb
-建筑业,construction industry,0.75274658,Noun
-化工行业,chemical industry,0.7424582,Noun
-创业精神,entrepreneurship,0.73643684,Noun
-压铸,die-casting,0.73444623,Verb
-焊装,weld,0.73103216,Verb
-抢修,rush to repair,0.727272727,Verb
-起重,lift,0.72198001,Verb
-刮削,scrape,0.71318622,Verb
-校长,principal,0.709497207,Noun
-能源行业,energy industry,0.70870344,Noun
-总经理,general manager,0.698324022,Noun
-工程师,engineer,0.69565828,Noun
-制造业,manufacturing,0.6875,Noun
-接电,power on,0.68632939,Verb
-大力,vigorous,0.681818182,Adjective
-安防,security,0.681564246,Noun
-装卸工,stevedore,0.68083358,Noun
-敢打敢拼,dare to fight,0.67957538,Adjective
-冲劲,aggressive,0.672316384,Adjective
-打爆,explode,0.66677062,Verb
-竣工,complete,0.661016949,Verb
-配送,distribute,0.659217877,Verb
-围护,surround to guard,0.65728314,Verb
-勇敢,brave,0.652892562,Adjective
-高层,high-level,0.649717514,Noun
-机械行业,machinery industry,0.64947876,Noun
-软件测试,software test,0.648044693,Verb
-工程预算,project budget,0.644067797,Noun
-建造,build,0.63271204,Verb
-抢险,emergency rescue,0.62670665,Verb
-接卸,unload,0.6256967,Verb
-汽车产业,automobile industry,0.61672742,Noun
-组队,organize a team,0.61452514,Verb
-商务,business affairs,0.611570248,Noun
-混炼,mix,0.61049997,Verb
-逆变,inversion,0.60525676,Noun
-高手,past master,0.597765363,Noun
-排烟,smoke exhaust,0.59406887,Verb
-巡视,patrol,0.593220339,Verb
-健身,bodybuilding,0.590909091,Verb
-拳击,box,0.59040813,Verb
-爆炸,blast,0.59036546,Verb
-装配工,fitter,0.59028771,Noun
-切削,cut,0.58932543,Verb
-拼搏,struggle hard,0.58753646,Verb
-野外,field,0.585227273,Noun
-力劲,strength,0.58273192,Noun
-奋战,fight hard,0.58118609,Verb
-激烈,fierce,0.581005587,Adjective
-涉密,classified,0.57967092,Adjective
-混日子,muddle along,0.576271186,Verb
-房地产,real estate,0.576271186,Noun
-减薄,thin,0.57255044,Verb
-协同作战,combined action,0.57217171,Verb
-逻辑性,logic,0.570621469,Adjective
-院长,dean,0.569832402,Noun
-聚能,gather energy,0.56877493,Verb
-监理员,supervisor,0.56585751,Noun
-节能,energy conservation,0.56427883,Verb
-驻守,station,0.56424581,Verb
-开展业务,conduct business,0.56424581,Verb
-操作能力,operational ability,0.56424581,Noun
-铸造,mold,0.56299402,Verb
-不畏,fearless,0.56079469,Adjective
-承揽,undertake,0.56045389,Verb
-打垮,defeat,0.55858465,Verb
-爆破,blast,0.55775362,Verb
-锻造,forging,0.55568393,Verb
-管理者,manager,0.553719008,Noun
-闪展,flash show,0.55350319,Verb
-高薪,high salary,0.553072626,Noun
-强大,powerful,0.55263152,Adjective
-停车,parking,0.548022599,Verb
-挖掘,tap,0.547486034,Verb
-体罚,corporal punishment,0.547486034,Noun
-软件设计,software design,0.547486034,Noun
-魄力,boldness,0.5462547,Noun
-安全员,safety officer,0.54527979,Noun
-依仗,rely on,0.54502968,Verb
-强劲,strong,0.53997825,Adjective
-股东,shareholder,0.536723164,Noun
-拼博,go all out in work,0.53472624,Verb
-照明设计,lighting design,0.533898305,Noun
-排污,drain sewage,0.53350318,Verb
-地勘,geological survey,0.53155701,Verb
-外勤,work done outside the office or in the field,0.52892562,Verb
-外派,expatriate,0.525423729,Verb
-艰巨,difficult,0.5254069,Adjective
-程序员,programmer,0.52263606,Noun
-主动,initiative,0.519553073,Adjective
-刻蚀,etch,0.51927586,Verb
-干劲,enthusiasm,0.517045455,Adjective
-开拓精神,pioneering spirit,0.517045455,Noun
-供暖,heating,0.51700521,Verb
-筹建,prepare to build,0.516949153,Verb
-焊工,welder,0.51431923,Noun
-拦截,intercept,0.5138683,Verb
-数学,math,0.511363636,Noun
-驻扎,stationed,0.51093482,Verb
-坠落,fall,0.51050218,Verb
-电力行业,power industry,0.50968544,Noun
-血气方刚,vigorous,0.50893195,Adjective
-筑造,build,0.50360629,Verb
-气浮,air flotation,0.50356368,Verb
-巡逻,patrol,0.50293392,Verb
-荣誉感,sense of honor,0.50229463,Noun
-喷射,inject,0.50224915,Verb
-驾驶,drive,0.49843842,Verb
-架子鼓,drum kit,0.497206704,Noun
-财富,wealth,0.494318182,Noun
-回佣,rebate,0.49425769,Verb
-值班员,watchman,0.49314033,Noun
-禁运,embargo,0.49185988,Verb
-超强,extremely strong,0.491525424,Noun
-厮杀,fight,0.49069109,Verb
-组装,assemble,0.48889331,Verb
-拖欠,in arrears,0.487603306,Verb
-求败,seek defeat,0.48715402,Verb
-熔化,melt,0.48545567,Verb
-夯实,tamp,0.48526559,Verb
-好手,adept,0.48389853,Noun
-监理,supervise and manage,0.483050847,Noun
-权利,right,0.482954545,Noun
-装卸,load and unload,0.48239561,Verb
-地勤,ground crew,0.4808467,Noun
-可靠性,reliability,0.480225989,Noun
-依靠,rely on,0.47785872,Verb
-壮大,grow,0.47705592,Verb
-航天事业,aerospace industry,0.47601269,Noun
-灵活机动,flexible,0.47580811,Adjective
-精英,elites,0.474860335,Noun
-强悍,intrepid,0.47475956,Adjective
-健身房,gym,0.474576271,Noun
-户外,outdoor,0.474576271,Adjective
-耗损,consume,0.47451252,Verb
-探测,detect,0.47409236,Verb
-创造性,creativity,0.47107438,Noun
-涂装,paint,0.46906106,Verb
-加固,reinforce,0.4680716,Verb
-接地,grounding,0.46614972,Verb
-持股,shareholding,0.466101695,Noun
-很强,very strong,0.465909091,Adjective
-自动化,automation,0.465909091,Noun
-律师,lawyer,0.465909091,Noun
-回收,recycle,0.46462053,Verb
-开发,develop,0.463687151,Verb
-管理人员,manager,0.463687151,Noun
-技术支持,technical support,0.463276836,Noun
-接头,meet up,0.46230269,Verb
-勇闯,go bravely,0.46228889,Verb
-羽毛球馆,badminton court,0.46220746,Noun
-机务,maintenance personnel,0.45896427,Noun
-违规,violate the rules,0.458100559,Verb
-负责人,principal,0.458100559,Noun
-操作技能,operational skills,0.458100559,Noun
-拆装,disassemble,0.457627119,Verb
-厉行节约,economize,0.4570066,Verb
-击穿,breakdown,0.45686033,Verb
-探伤,flaw detection,0.45648537,Verb
-攀爬,climb,0.45446637,Verb
-决心,determination,0.45283836,Noun
-人工智能,artificial intelligence,0.452513966,Noun
-家电业,home appliances industry,0.45111835,Noun
-耗用,consume,0.44876016,Verb
-提拔,promote to a higher job,0.446327684,Verb
-兴达,mastery,0.44628774,Noun
-技术工,technician,0.44622937,Noun
-修理,repair,0.44613053,Verb
-扑救,save,0.44228779,Verb
-迅捷,quick,0.44079542,Adjective
-破冰,break the ice,0.44077938,Verb
-接货,pick up,0.44072647,Verb
-人才,talents,0.44047446,Noun
-检举,report,0.44013141,Verb
-劈开,split,0.43826272,Verb
-研发部门,r & d department,0.43812749,Noun
-创新能力,creativity,0.438016529,Noun
-反应力,reaction,0.43789147,Noun
-带领,lead,0.4375,Verb
-烟草行业,tobacco industry,0.4372643,Noun
-群雄,warlords,0.43692213,Noun
-严控,strict control,0.43445193,Verb
-卸货,unload,0.43282273,Verb
-抛光,polish,0.43220339,Verb
-动漫,cartoon,0.429752066,Noun
-减速,slow down,0.42763371,Verb
-决策,make a decision,0.426136364,Verb
-招商,attract investment in business,0.424581006,Verb
-应付,handle,0.424581006,Verb
-降噪,reduce noise,0.4244737,Verb
-争辩,argue,0.42441021,Verb
-挑战,challenge,0.421487603,Verb
-燃烧,burn,0.42103839,Verb
-拼得,struggle,0.42081327,Verb
-积极合作,actively cooperate,0.41974832,Verb
-建仓,open a position,0.41947558,Verb
-畏惧,fear,0.41922767,Verb
-模具设计,mold design,0.418994413,Noun
-磨炼,hone,0.41781547,Verb
-迫降,forced landing,0.41755788,Verb
-自主化,autonomy,0.41700771,Noun
-深挖,dig deep,0.41580238,Verb
-野心,ambition,0.41563633,Noun
-回转,turn around,0.41528232,Verb
-服务业,service industry,0.41387932,Noun
-销售主管,sales executive,0.41322314,Noun
-有权,have the right to,0.412429379,Verb
-加热,heating,0.41194611,Verb
-维修,repair,0.4112089,Verb
-轰炸,bombing,0.40991652,Verb
-士气,morale,0.40988605,Noun
-数据处理,data processing,0.407821229,Noun
-韧劲,tenacity,0.40682034,Noun
-极强,extremely strong,0.406779661,Adjective
-突出者,capable person,0.406779661,Noun
-巡防,patrol,0.40616924,Verb
-精馏,distillation,0.40537795,Verb
-电子行业,IT,0.40418697,Noun
-纠偏,correct,0.40375547,Verb
-部署,deploy,0.403409091,Verb
-故障诊断,troubleshooting,0.402234637,Noun
-承受力,capability of adapting oneself to,0.40103568,Noun
-采购,purchase,0.40020839,Verb
-巨大,huge,0.40014972,Adjective
-强抗,strong resistance,0.39995307,Verb
-破坏,destroy,0.3982331,Verb
-取证,obtain evidence,0.39620303,Verb
-依托,rely on,0.39588847,Verb
-责任感,sense of responsibility,0.395480226,Noun
-派驻,accredit,0.39460534,Verb
-整改,rectify and reform,0.39368769,Verb
-涉嫌,be a suspect,0.39337059,Verb
-减员,depletion of numbers,0.3927448,Verb
-艰苦,hard,0.3926781,Adjective
-就位,in place,0.39245843,Verb
-对接,dock,0.3923285,Verb
-拼劲,work hard,0.39205588,Verb
-商业,business,0.391061453,Noun
-配混,compound,0.39098471,Verb
-治理,govern,0.39079319,Verb
-获利,profit,0.38983401,Verb
-豪华,luxury,0.389830508,Adjective
-执行力,execution,0.389830508,Noun
-毅力,perseverance,0.38869375,Noun
-派遣,send,0.38768751,Verb
-极大,great,0.38731106,Adjective
-指挥,command,0.38700936,Verb
-预算员,budget clerk,0.38623976,Noun
-装配,assemble,0.38623109,Verb
-逃生,escape,0.38579955,Verb
-潜能,potential,0.38547486,Noun
-庞大,huge,0.38547486,Adjective
-创新,innovation,0.38459348,Noun
-作风正派,be upright in daily behavior,0.384180791,Adjective
-伺服,servo,0.38371613,Verb
-贯通,run through,0.38322376,Verb
-破解,uncover,0.38295728,Verb
-散热,cooling,0.38266257,Verb
-卷绕,roll up,0.38237753,Verb
-后勤部门,logistics department,0.3815014,Noun
-授权,authorize,0.381355932,Verb
-刺激,stimulate,0.381355932,Verb
-思维,thinking,0.381355932,Noun
-工艺员,craftsman,0.3807154,Noun
-风控,risk control,0.379888268,Noun
-推卸责任,shirk responsibility,0.37974407,Verb
-固化,solidify,0.37948462,Verb
-打捞,salvage,0.3777436,Verb
-计取,calculate,0.37491229,Verb
-恶劣,bad,0.37470914,Adjective
-搬移,move,0.37457653,Verb
-腐蚀,corrode,0.37448445,Verb
-家电,home appliances,0.374301676,Noun
-排放,discharge,0.37423493,Verb
-配载,stowage,0.37408905,Verb
-查勘,survey,0.37369225,Verb
-操作电脑,operate computer,0.372881356,Verb
-缺编,missing,0.37277672,Verb
-激励,excitation,0.37181632,Verb
-作业员,operator,0.37080333,Noun
-率领,lead,0.37070544,Verb
-获悉,learned,0.37040224,Verb
-对抗,confront,0.37000055,Verb
-高涨,upsurge,0.369726,Verb
-广阔,broad,0.36960375,Adjective
-违反,violate,0.369318182,Verb
-青年,youth,0.368715084,Noun
-进攻性,aggressiveness,0.36858394,Noun
-逆袭,counterattack,0.36701668,Verb
-领航者,leader,0.36649554,Noun
-消防员,firemen,0.365618,Noun
-创办,found,0.36440678,Verb
-体能,physical fitness,0.36386822,Noun
-处理,deal with,0.363636364,Verb
-取决,depends on,0.36056898,Verb
-遏制,curb,0.36026986,Verb
-规避,avoid,0.36018002,Verb
-优异,excellent,0.35880483,Adjective
-考察,study,0.357541899,Verb
-跑道,runway,0.35739953,Noun
-号召,call for,0.35713883,Verb
-进驻,stationed,0.35712541,Verb
-发展壮大,develop and grow,0.355932203,Noun
-威猛,mighty,0.35549043,Adjective
-降低,reduce,0.35410474,Verb
-灵活性,flexibility,0.35392937,Noun
-精密,precise,0.35384562,Adjective
-篮球场,basketball court,0.35275083,Noun
-骚扰,harass,0.35230177,Verb
-广进,broad,0.35176137,Adjective
-优秀人才,outstanding talents,0.351562,Noun
-开拓,open up,0.35097464,Verb
-交于,delivered to,0.35052678,Verb
-勇于,dare to,0.35044077,Verb
-驾御,control,0.35028567,Verb
-轮滑,roller skating,0.350282486,Noun
-挤压,extrude,0.34968126,Verb
-切磋,learn from each other,0.34963769,Verb
-克制,restraint from,0.34945609,Verb
-排水,drain,0.34915419,Verb
-推动,promote,0.34870865,Verb
-拼命,desperately,0.3482611,Verb
-接好,pick up,0.34814916,Verb
-快速,fast,0.347107438,Noun
-排产,schedule,0.34704662,Verb
-欲望,desire,0.346368715,Noun
-解封,unblock,0.34619176,Verb
-获益,benefit from,0.34546072,Verb
-分拨,allocate,0.3449494,Verb
-飞跃,leap,0.34491913,Verb
-巡察,inspect,0.34480407,Verb
-散装,bulk,0.34445168,Verb
-紧抓,hold tight,0.34364395,Verb
-截至,up to,0.34305596,Verb
-肯干,willing to work,0.34298405,Verb
-搬运,carry,0.34185891,Verb
-完好性,integrity,0.34179557,Noun
-家具行业,furniture industry,0.34175289,Noun
-加工能力,processing capacity,0.33977096,Noun
-自满,complacent,0.33941204,Adjective
-闯荡,break out,0.33870824,Verb
-拿到,got,0.33838324,Verb
-敏捷,agile,0.33750436,Adjective
-韧性,toughness,0.33710154,Noun
-抱负,ambition,0.33707546,Noun
-联营,joint venture,0.33600076,Verb
-举起,lift,0.33549517,Verb
-指派,assign,0.335195531,Noun
-放逐,exile,0.3341604,Verb
-强制,force,0.33393891,Verb
-团队精神,team spirit,0.33352955,Noun
-滚动,scroll,0.33350083,Verb
-众志成城,unite as one,0.33343223,Adjective
-较快,faster,0.33337432,Adjective
-切割,cut,0.33319104,Verb
-质检员,quality inspector,0.33191869,Noun
-激化,intensify,0.33132123,Verb
-狂奔,run about wildly,0.33078235,Verb
-工人,worker,0.33012901,Noun
-集聚,agglomerate,0.33012617,Verb
-进网,into the net,0.32990154,Verb
-危机,crisis,0.329608939,Noun
-快速增长,rapid growth,0.329608939,Noun
-闹事,make trouble,0.32955212,Verb
-申诉,appeal,0.32945433,Verb
-上牌,register,0.32923981,Verb
-践行,practice,0.32915317,Verb
-朝阳产业,uprising industry,0.3289055,Noun
-承接,undertake,0.32880248,Verb
-派出,send,0.32872069,Verb
-进有,into there,0.32768831,Verb
-头脑灵活,smart,0.327683616,Adjective
-降职,demote,0.32704869,Verb
-查封,close down,0.32655364,Verb
-排名,rank,0.3256647,Verb
-应对,respond,0.324022346,Verb
-实际操作,actual operation,0.324022346,Noun
-激情,passion,0.324022346,Noun
-督导,supervise and manage,0.324022346,Noun
-游泳馆,swimming pool,0.32308917,Noun
-饲料行业,feed industry,0.32295378,Noun
-浩瀚,vast,0.32266281,Adjective
-进军,march into,0.32251799,Verb
-追究,held accountable,0.322094,Verb
-配置,configure,0.322033898,Verb
-业务主管,business executives,0.322033898,Noun
-施展,display,0.322033898,Noun
-保修,guarantee to keep in good repair,0.32177887,Verb
-抢占,seize,0.32060777,Verb
-克服,overcome,0.32038206,Verb
-上船,get on board,0.32036089,Verb
-敬业精神,professionalism,0.32007325,Noun
-进取心,enterprising spirit,0.31992036,Noun
-解聘,fire,0.31984564,Verb
-驰骋,gallop,0.31983377,Verb
-保险业,insurance,0.31892299,Noun
-离心,be at odds with the leadership,0.31882834,Verb
-崛起,rise,0.31824045,Verb
-征战,go on an expedition,0.31679924,Verb
-操纵,manipulate,0.31664518,Verb
-预警,early warning,0.316384181,Noun
-副校长,vice-chancellor,0.316384181,Noun
-卸载,uninstall,0.31624661,Verb
-盈亏,profit and loss,0.314049587,Noun
-逃脱,escape,0.31331595,Verb
-截止,cut off,0.3131379,Verb
-意志力,willpower,0.3129277,Noun
-设施,facility,0.312849162,Noun
-空调,air conditioner,0.312849162,Noun
-企图心,intentions,0.3125,Noun
-接驳,connect,0.3119793,Verb
-操控,control,0.31125389,Verb
-泄露,divulge,0.3109543,Verb
-爬行,crawl,0.30857902,Verb
-埋没,bury,0.3080102,Verb
-跟踪,track,0.30726257,Verb
-供应,supply,0.30726257,Verb
-减低,reduce,0.30695033,Verb
-虎将,a brave general,0.30604459,Noun
-思辨,speculative,0.30584663,Verb
-集散,collect and distribute,0.30577656,Verb
-组建,set up,0.30542551,Verb
-操作员,operator,0.305084746,Noun
-奋斗,struggle,0.30492109,Verb
-受挫,frustrated,0.30448614,Verb
-服装行业,garment industry,0.30383101,Noun
-修缮,repair,0.30110896,Verb
-危害,harm,0.299435028,Verb
-泄气,discouraged,0.29908908,Verb
-坚守岗位,stick to the post,0.29868046,Verb
-警示,warning,0.29812809,Verb
-救生,life-saving,0.29791859,Verb
-事业心,professionalism,0.29737413,Noun
-接连,one after another,0.29709845,Verb
-掉队,fall behind,0.29651705,Verb
-领袖,leader,0.29466067,Noun
-获取,obtain,0.29458792,Verb
-奔腾,surge forward,0.29446573,Verb
-攻破,break through,0.29423616,Verb
-浩大,vast,0.29416822,Adjective
-销售业,sales industry,0.29408952,Noun
-签署,sign,0.293785311,Verb
-正义,justice,0.29367764,Noun
-搭建,build,0.29271102,Verb
-拖动,drag,0.29232946,Verb
-犯错,make a mistake,0.29210019,Verb
-展览业,exhibition industry,0.2916425,Noun
-便利,convenient,0.29078726,Adjective
-市场营销,marketing,0.290502793,Noun
-拿下,win,0.28977978,Verb
-错开,stagger,0.28812565,Verb
-较低,lower,0.28710864,Adjective
-上涨,rise,0.28649803,Verb
-判断力,judgment,0.286464,Noun
-会展业,exhibition industry,0.28610953,Noun
-要强,be anxious to outdo other,0.2858655,Adjective
-悠久,long,0.28537822,Adjective
-奋进,forge ahead,0.28495911,Verb
-精通,master,0.284916201,Verb
-拔尖,top,0.28468522,Adjective
-搬迁,move,0.28459259,Verb
-足球场,football field,0.28425217,Noun
-水电工,electrician,0.28368556,Noun
-驾驭,control,0.28173938,Verb
-接车,pick up,0.28143264,Verb
-通报,inform,0.279661017,Verb
-求知欲,curiosity,0.279661017,Noun
-人才资源,human resources,0.27944986,Noun
-策划者,planner,0.27936705,Noun
-丰厚,rich,0.279329609,Adjective
-加薪,increase sb's wages,0.279329609,Verb
-开辟,open up,0.27924444,Verb
-挤出,extrude,0.27895761,Verb
-超越,go beyond,0.27858777,Verb
-帅气,handsome,0.27842366,Adjective
-拖延,procrastinate,0.27839484,Verb
-吃苦,endure hardship,0.27798692,Verb
-淘汰,disuse,0.27787536,Verb
-承受,bear,0.27782339,Verb
-先进,advanced,0.27774543,Adjective
-老大,boss,0.27769824,Noun
-压榨,press,0.27734041,Verb
-刻苦,work hard,0.2763546,Verb
-当兵,be a soldier,0.27609733,Verb
-疲劳,tired,0.27512037,Adjective
-明锐,bright and sharp,0.27504028,Adjective
-申明,declare,0.27441054,Verb
-振翅,flap wings,0.27434048,Verb
-接手,take over,0.27394139,Verb
-疯狂,crazy,0.27387442,Adjective
-接到,receive,0.27386074,Verb
-冗余,redundant,0.27380038,Adjective
-沉淀,settle out,0.273743017,Verb
-筹划,plan,0.273743017,Verb
-激进,radical,0.27337886,Verb
-打拼,work hard,0.27306324,Verb
-战士,warrior,0.27280723,Noun
-熟练,skilled,0.27254039,Adjective
-退缩,flinch,0.2720732,Verb
-履约,performance,0.2718412,Verb
-押运员,fulfill the agreement,0.27166628,Noun
-围棋,Go,0.27159537,Noun
-激发,arouse,0.271186441,Verb
-跨部门,cross-departmental,0.271186441,Adjective
-携行,travel with,0.27073169,Verb
-清除,clear,0.27042787,Verb
-排出,discharge,0.26991673,Verb
-追逐,chase,0.26937405,Verb
-签批,sign off,0.26905299,Verb
-壮阔,magnificent,0.26895999,Adjective
-参谋,give advice,0.26835138,Verb
-进入,enter,0.2682497,Verb
-监测员,monitor,0.26749831,Noun
-管理工作,management work,0.267045455,Noun
-扎实,solid,0.26669426,Adjective
-侵权,infringe on a person's rights ,0.2663098,Verb
-炼制,refine,0.26429851,Verb
-聚合,aggregate,0.26362896,Verb
-安卫,security,0.26284376,Noun
-保卫处,security office,0.262774,Noun
-稳固,stable,0.26272361,Adjective
-筹措,raise money,0.26269607,Verb
-重大,major,0.26253977,Adjective
-借助,with the help of,0.26218195,Verb
-监视,monitor,0.26195989,Verb
-排除,exclude,0.26155349,Verb
-征兵,conscription,0.25914217,Verb
-复用,reuse,0.25887598,Verb
-巡检,patrol inspection,0.25882569,Verb
-求实,realistic,0.25873661,Verb
-乒乓球桌,table tennis table,0.25847685,Noun
-精修,refine,0.25802148,Verb
-厉害,awesome,0.25774665,Adjective
-剥削,exploit,0.2565951,Verb
-自由,free,0.25614491,Adjective
-强化,strengthen,0.25592205,Verb
-谋求,seek,0.25569748,Verb
-经受,withstand,0.25512435,Verb
-竞聘,to compete a position,0.2549266,Verb
-前进,go ahead,0.254237288,Verb
-迁移,migrate,0.25362303,Verb
-起飞,take off,0.25322652,Verb
-启发,inspire,0.25319032,Verb
-调度员,dispatcher,0.2526537,Noun
-牢固,firm,0.25194987,Verb
-接转,transfer,0.25174297,Verb
-精熟,proficient,0.25142869,Adjective
-管辖,have jurisdiction over,0.251396648,Verb
-商办,business,0.251302,Verb
-优越,superior,0.25130036,Adjective
-不务正业,be derelict in duty and run irrelevant business,0.25113434,Verb
-勤杂,handy-man,0.25098617,Noun
-盲目,blindly,0.24914989,Adjective
-运动场,playground,0.24867431,Noun
-练手,practice,0.2483388,Verb
-摸索,grope,0.24792027,Verb
-攻克,capture,0.24741991,Verb
-勤奋,diligent,0.24715764,Adjective
-捍卫,defend,0.2469379,Verb
-质疑,doubt,0.24667713,Verb
-碰撞,collision,0.24627036,Verb
-资源管理,resource management,0.245810056,Noun
-工商管理,business management,0.245810056,Noun
-接替,succeed,0.244994,Verb
-辉煌,brilliant,0.2446347,Adjective
-精耕,intensive farming,0.24422729,Verb
-便捷,convenient,0.2437861,Adjective
-精进,sophisticate,0.24364716,Adjective
-拒收,refuse to accept,0.24363079,Verb
-沉下,sink,0.24307443,Verb
-战友,comrade,0.24300291,Noun
-高效,efficient,0.242937853,Adjective
-勤政,the industrious administration,0.24272889,Noun
-奔波,run around,0.24197007,Verb
-绕行,bypass,0.24194665,Verb
-使命,mission,0.24138733,Noun
-教育界,education,0.24042122,Noun
-技术员,technician,0.24006848,Noun
-较强,stronger,0.23982488,Adjective
-举报,tip-off,0.2396763,Verb
-深化,deepen,0.239669421,Verb
-才华,talent,0.239669421,Noun
-上报,report,0.23951639,Verb
-划付,transfer,0.23946521,Verb
-销毁,destroy,0.23922857,Verb
-弯曲,bend,0.23892176,Verb
-取货,pick up,0.23891926,Verb
-检定,test,0.23867254,Verb
-划走,scratch away,0.23795933,Verb
-商谈,discuss,0.237288136,Verb
-伟大,great,0.237288136,Noun
-妨碍,get in the way,0.23681026,Verb
-充裕,ample,0.23563894,Adjective
-倾斜,tilt,0.23561625,Verb
-敞开大门,open the door,0.23544267,Verb
-膨化,puffed,0.2349711,Adjective
-上升,rise,0.234636872,Verb
-竞争机制,competitive mechanism,0.234636872,Noun
-审价,appraisal,0.23443535,Verb
-虚心学习,learn from,0.23441874,Verb
-担保,guarantee,0.2342318,Verb
-奔跑,run,0.23407973,Verb
-闯关,break through,0.2339536,Verb
-杰出,outstanding,0.23379768,Adjective
-发扬,carry forward,0.23359383,Verb
-年轻有为,young and promising,0.23258601,Adjective
-排错,troubleshoot,0.23257531,Verb
-锐利,sharp,0.23226956,Adjective
-牛人,awesome people,0.23217547,Noun
-雄鹰,eagle,0.23194939,Noun
-潜心研究,dive into research,0.23165242,Verb
-森严,strict,0.23083642,Adjective
-牵引,traction,0.23031562,Verb
-参天大树,towering trees,0.23010435,Noun
-联手,team up,0.2297186,Verb
-纯熟,proficient,0.22963589,Adjective
-审计师,auditor,0.22942795,Noun
-增值,increase your own value,0.229050279,Verb
-累积,accumulate,0.229050279,Verb
-交付,deliver,0.229050279,Verb
-贯彻,implement,0.229050279,Verb
-新生力量,young blood,0.22881671,Noun
-沸腾,boiling,0.22869147,Verb
-开盘,opening,0.2285454,Verb
-过失,fault,0.22800134,Verb
-涉足,set foot in,0.22769402,Verb
-捐款,donate,0.227345,Verb
-较高,higher,0.22728688,Adjective
-开展,carry out,0.227272727,Verb
-严格控制,strict control,0.227272727,Verb
-取回,retrieve,0.22668154,Verb
-上载,upload,0.22576884,Verb
-上缴,turn in,0.22547465,Verb
-接合,join,0.22475389,Verb
-警卫,the guard,0.22474643,Noun
-哀嚎,howling,0.22445848,Verb
-采取,take,0.223463687,Verb
-研讨,seminar,0.223463687,Verb
-荣誉,honor,0.223140496,Noun
-食品行业,food industry,0.22279475,Noun
-毁损,damage,0.22233682,Verb
-觉悟,consciousness,0.22210456,Verb
-批发业,wholesale industry,0.22174189,Noun
-擂台,ring (for martial contests),0.22167121,Noun
-打球,to play,0.22135175,Verb
-回报,return,0.22123662,Noun
-探知,detect,0.22110959,Verb
-鉴定,identify,0.220338983,Verb
-较大,bigger,0.21992998,Adjective
-羽毛球场,badminton court,0.21979841,Noun
-自立,stand on one's own feet,0.21964574,Adjective
-推理,infer,0.21947589,Verb
-履职,perform duties,0.21848002,Verb
-感知力,perception,0.21823978,Noun
-办学,start a school,0.217877095,Verb
-较短,shorter,0.21786684,Adjective
-开创,create,0.21706006,Verb
-教书育人,teach and educate people,0.21696573,Verb
-迁改,relocate,0.21638855,Verb
-鼓舞,inspire,0.21624656,Verb
-起伏,ups and downs,0.21575175,Verb
-侵入,invade,0.21556826,Verb
-争取,strive for,0.214876033,Verb
-作风严谨,rigorous style,0.214689266,Noun
-质押,pledge,0.21468205,Verb
-致远,achieve lofty ideals,0.21454793,Adjective
-自负,conceited,0.21326952,Adjective
-勤杂工,handy-man,0.21325353,Noun
-深造,further study,0.21258328,Verb
-外出,go out,0.21225572,Verb
-运筹,logistics,0.21209803,Verb
-思辩,debate,0.21192048,Verb
-自信心,self-confidence,0.211864407,Noun
-市场部,marketing department,0.211864407,Noun
-上进,motivated,0.2117147,Verb
-孤身,alone,0.21128892,Adjective
-锻炼,exercise,0.21123849,Verb
-培新,train,0.21120456,Verb
-信心,confidence,0.21109686,Noun
-判定,determination,0.21109298,Verb
-付费,pay for,0.210227273,Verb
-借鉴,learn from,0.20993863,Verb
-拧紧,tighten,0.20928017,Verb
-伸展,stretch,0.20904919,Verb
-分拣,sort,0.209039548,Verb
-踏实,dependable,0.209039548,Adjective
-精湛,superb,0.209039548,Adjective
-强加,impose,0.20899221,Verb
-旅行家,traveler,0.20886557,Noun
-紧邻,next to,0.2084328,Verb
-划船,boat,0.2082104,Verb
-筹集,raise,0.20804097,Verb
-逻辑,logic,0.20803314,Noun
-切入,cut in,0.20778489,Verb
-开拓者,pioneer,0.20770248,Noun
-采样,take samples,0.20711936,Verb
-天马行空,a powerful and unconstrained style,0.206703911,Noun
-签约,sign the contract,0.20661157,Verb
-破碎,broken,0.20646768,Verb
-保卫,defend,0.2064546,Verb
-量变,quantitative change,0.20623515,Verb
-刻苦钻研,study hard,0.20579936,Verb
-上浮,float up,0.20571513,Verb
-深耕,deep plowing,0.20499896,Verb
-破损,damaged,0.20484454,Verb
-签订,sign,0.20470821,Verb
-筑起,build up,0.20469469,Verb
-起航,set sail,0.20408267,Verb
-环绕,surround,0.20405038,Verb
-高大,tall,0.20404614,Adjective
-拥护,support,0.20375601,Verb
-深远,profound,0.20371891,Adjective
-严密,tight,0.20334732,Adjective
-探索,explore,0.20278238,Verb
-降到,down to,0.20237817,Verb
-乐助,be happy to help others,0.20218085,Verb
-组织协调,organization and coordination,0.201117318,Noun
-聚集,gather,0.20099768,Verb
-精算,actuarial,0.20088871,Verb
-签定,sign,0.20073787,Verb
-暗访,unannounced visit,0.20022063,Verb
-贸易业,trade industry,0.19864331,Noun
-审计员,auditor,0.19796368,Noun
-求事,ask for help,0.19790366,Verb
-理赔,settlement of claim,0.197740113,Verb
-办事,work,0.197740113,Verb
-隐蔽,hidden,0.19758972,Adjective
-中计,be trapped,0.19729694,Verb
-肯吃苦,willing to endure hardship,0.19650536,Verb
-敬业,dedicated,0.19650508,Adjective
-象棋,chess,0.19642578,Noun
-勤奋学习,hardworking,0.19639334,Adjective
-稳居,retain its position,0.19615353,Verb
-中央空调,central air conditioning,0.19595097,Noun
-夸大,exaggerate,0.1959069,Verb
-开阔,open,0.194915254,Adjective
-配套,matching,0.194915254,Adjective
-精准,precise,0.194915254,Adjective
-肯上,willing to go,0.19446478,Verb
-批核,approve,0.19444834,Verb
-发财,get rich,0.19413806,Verb
-批示,give instructions,0.19324604,Verb
-欠缺,lack,0.19284482,Verb
-进仓,enter warehouse,0.19243686,Verb
-排布,arrange,0.19223169,Verb
-市场需求,market demand,0.192090395,Noun
-老兵,veteran,0.19206844,Noun
-汇集,collect,0.19201561,Verb
-解决困难,resolve issues,0.19152797,Verb
-觉醒,wake up,0.19136987,Verb
-上调,raise,0.19129715,Verb
-安治,security,0.19104982,Noun
-忠义,loyal,0.19094898,Adjective
-纠缠,entangle,0.19088599,Verb
-大胆,bold,0.19087231,Adjective
-回笼,withdrawal,0.19026383,Verb
-与时俱进,keep pace with the times,0.189944134,Verb
-国内外,domestic and foreign,0.189944134,Adjective
-关键,essential,0.189944134,Adjective
-高级顾问,senior consultant,0.189944134,Noun
-著名,famous,0.18762325,Adjective
-大牛,awesome people,0.18758422,Noun
-很快,soon,0.1875,Adjective
-胆大,bold,0.18673763,Adjective
-引荐,recommend,0.18645624,Verb
-整合,integrate,0.186440678,Verb
-无限,unlimited,0.186440678,Adjective
-随意,random,0.186440678,Verb
-聘任,hire,0.186440678,Verb
-变动,change,0.186440678,Verb
-判读,to read and discriminate,0.18630606,Verb
-泳池,swimming pool,0.18585784,Noun
-骑行,ride,0.18558142,Verb
-上交,hand in,0.18534306,Verb
-配备,be equipped with,0.18517092,Verb
-畅通,unimpeded,0.1848729,Adjective
-完备,complete,0.184357542,Verb
-供给,supply,0.184357542,Verb
-上锁,be locked,0.18401731,Verb
-批发,wholesale,0.18374261,Verb
-积极支持,actively support,0.18355115,Verb
-绕道,detour,0.18315608,Verb
-质询,challenge,0.18292172,Verb
-赔偿,compensation,0.18276054,Verb
-坐享,sit back and enjoy,0.18232639,Verb
-餐饮业,catering,0.18232382,Noun
-减持,reduce holdings,0.18196343,Verb
-打磨,polished,0.18156451,Verb
-精良,excellent,0.18123499,Adjective
-落实,carry out,0.18079096,Verb
-缴交,hand over,0.18066722,Verb
-自强,self-improvement,0.18065173,Adjective
-有志气,ambitious,0.17957315,Adjective
-行销,marketing,0.17877095,Noun
-俯瞰,overlook,0.17845711,Verb
-捕捉,capture,0.177966102,Verb
-游学,study tour,0.177966102,Verb
-减轻,reduce,0.17793817,Verb
-热忱,enthusiasm,0.17789993,Noun
-骑士,knight,0.17769575,Noun
-潜心,concentrate on,0.17751601,Verb
-减少,reduce,0.17694676,Verb
-杀毒,antivirus,0.17690318,Verb
-派送,delivery,0.17688095,Verb
-求购,buy,0.17565521,Verb
-裸露,expose,0.1756449,Verb
-落脚,settle down,0.17464108,Verb
-结交,make friends with,0.1744335,Verb
-搞钱,make money,0.17434937,Verb
-拍卖,auction,0.17428594,Verb
-危急,critical,0.17425645,Adjective
-接班,take over,0.1742463,Verb
-耐性,patience,0.17405534,Noun
-喷绘,inkjet,0.17393955,Verb
-弹性,elasticity,0.17365481,Noun
-大神,god,0.17322835,Noun
-凝聚,cohesion,0.17317314,Verb
-显赫,prominent,0.17310654,Adjective
-坚守,hold one's ground,0.17261742,Verb
-优厚,generous,0.17256382,Adjective
-欠佳,poor,0.17219441,Verb
-上渡,get on the ferry,0.17196581,Verb
-服从安排,obey the arrangement,0.17174444,Verb
-静待,wait,0.1716585,Verb
-涉猎,dabble,0.17136974,Verb
-积淀,accumulation,0.17027967,Verb
-艰难,difficult,0.17010301,Adjective
-转变,change,0.169491525,Verb
-包吃,free food,0.169491525,Verb
-诚意,sincerity,0.169491525,Noun
-领悟力,comprehension,0.169491525,Noun
-共创,co-create,0.169491525,Verb
-恶臭,stench,0.16913407,Noun
-交涉,negotiate,0.16904449,Verb
-交行,bank of communications,0.16901287,Verb
-上图,above picture,0.16855815,Verb
-移交,transfer,0.167597765,Verb
-集中,concentrated,0.16747452,Verb
-惧怕,fear,0.16732409,Verb
-掏钱,to pay,0.16645245,Verb
-讲课,lecture,0.16621048,Verb
-理货员,tally clerk,0.16591965,Noun
-抛洒,sprinkle,0.16559287,Verb
-前行,forward,0.16556837,Verb
-计划性,planned,0.16537127,Noun
-正气,righteousness,0.16519622,Noun
-烧录,burning,0.1651732,Verb
-构造,structure,0.16477679,Verb
-丰沛,plentiful,0.16431304,Adjective
-清洗,to clean,0.1630752,Verb
-烘干,dry,0.1628342,Verb
-考取,pass the exam,0.1622449,Verb
-冷暖空调,heating and air conditioning,0.162011173,Noun
-朝气,vigorous,0.162011173,Adjective
-门外汉,layman,0.16170218,Noun
-有名,famous,0.16127306,Adjective
-强烈,strong,0.16070474,Adjective
-征服,conquer,0.16068152,Verb
-起薪,starting salary,0.16042843,Noun
-领取,receive,0.1603032,Verb
-汲取,absorb,0.1589298,Verb
-较广,wider,0.15892962,Adjective
-空降,parachute,0.15872991,Verb
-交接,handover,0.15847147,Verb
-完成,finish,0.15819209,Verb
-密集,dense,0.15819209,Adjective
-廉洁,incorruptible,0.15797886,Adjective
-履行,fulfill,0.15779776,Verb
-推导,derive,0.1577561,Verb
-受气,be bullied,0.1576683,Verb
-责任心,sense of responsibility,0.1576426,Noun
-拔擢,promote,0.15761131,Verb
-深入,in-depth,0.15706659,Verb
-任务分配,task assignment,0.157024793,Noun
-品检,quality inspection,0.15664343,Noun
-抵制,resist,0.15644705,Verb
-稽核,audit,0.156424581,Verb
-上门服务,door-to-door service,0.156424581,Noun
-佼佼者,the best,0.15454065,Noun
-缺陷,defect,0.15432836,Verb
-询证,inquire,0.15430377,Verb
-拖泥带水,do things sloppily,0.15425464,Verb
-清缴,clear,0.15398056,Verb
-谋生,make a living,0.15395726,Verb
-回签,check back,0.15391501,Verb
-登高,climb,0.15382346,Verb
-批准,approve,0.153409091,Verb
-可行性,feasibility,0.153409091,Noun
-财产,property,0.153409091,Noun
-上网,go online,0.1532534,Verb
-上手,get started,0.15312841,Verb
-牵头,take the lead,0.15260372,Verb
-进取,enterprising,0.152542373,Verb
-合法,legal,0.152542373,Adjective
-挥洒,sway,0.15239432,Verb
-飞扬,fly upward,0.1518971,Verb
-忠诚,loyal,0.1516728,Adjective
-评定,assess,0.15131721,Verb
-深究,go into (a matter) seriously,0.15125016,Verb
-斡旋,mediate,0.15090924,Verb
-新锐,young and vigorous,0.1508843,Adjective
-推出,roll out,0.150837989,Verb
-试制,prototype,0.150837989,Verb
-留学,study abroad,0.150837989,Verb
-梦想,dream,0.150837989,Noun
-耐受,tolerate,0.15003375,Adjective
-平稳,smooth,0.14982601,Adjective
-极高,very high,0.14941718,Adjective
-紧急,urgent,0.14938168,Adjective
-不甘,unwilling,0.14935243,Adjective
-妥善解决,settle properly,0.14914071,Verb
-审批,approval,0.148760331,Verb
-高福利,high welfare,0.148760331,Noun
-想象力,imagination,0.14826054,Noun
-创新性,innovation,0.14798131,Noun
-酗酒,alcoholism,0.14787292,Verb
-司机,driver,0.14755942,Noun
-拼接,put together,0.14729178,Verb
-业务人员,business people,0.1469855,Noun
-编译,compile,0.14692506,Verb
-参考,refer to,0.146892655,Verb
-合规性,compliance,0.146892655,Noun
-签呈,sign,0.14667551,Verb
-求学,go to school,0.14608485,Verb
-赚大钱,make a fortune,0.14602152,Verb
-拣选,choose,0.14589837,Verb
-雏鹰,young eagle,0.14576226,Noun
-毗邻,next to,0.14536728,Adjective
-洞察,insight,0.145251397,Verb
-解除,relieve,0.14473768,Verb
-退伍军人,veteran,0.14426555,Noun
-吃亏,suffer,0.14413209,Verb
-协作,cooperate,0.14352566,Verb
-取酬,get paid,0.14328183,Verb
-服务行业,service industry,0.14290587,Noun
-健儿,athletes,0.14231436,Noun
-深厚,deep,0.1421352,Adjective
-排版,typeset,0.14184124,Verb
-上推,push up,0.14172483,Verb
-解放,liberate,0.14171181,Verb
-知名,famous,0.141242938,Adjective
-管理学,management,0.141242938,Noun
-分析,analyze,0.141242938,Verb
-搓手,rub one's hands together,0.14009395,Verb
-直达,direct,0.139664804,Verb
-接入,access,0.139664804,Verb
-确保,make sure,0.13850007,Verb
-守信,trustworthy,0.13827961,Adjective
-退伍,be discharged from military service,0.1380496,Verb
-构想,idea,0.13796816,Noun
-严苛,harsh,0.13740769,Adjective
-健行,hiking,0.13733625,Noun
-启示,enlightenment,0.13695712,Noun
-维护,maintain,0.136363636,Verb
-轻易,easy,0.13623673,Adjective
-追踪,track,0.13595293,Verb
-运营,operate,0.13559322,Verb
-额外,additional,0.13559322,Adjective
-信赖,trust,0.13551255,Verb
-进退,advance and retreat,0.13470455,Verb
-启航,set sail,0.13460775,Verb
-混入,mix in,0.13417286,Verb
-准则,guideline,0.134078212,Noun
-紧跟,follow closely,0.13403075,Verb
-便宜,cheap,0.13387785,Adjective
-骑手,the rider,0.13352694,Noun
-后勤工作,logistics,0.13352502,Noun
-低廉,low,0.13349996,Adjective
-核准,approve,0.132231405,Verb
-思考,think,0.13168337,Verb
-反思,reflect,0.13155837,Verb
-接洽,contact,0.1312217,Verb
-敦促,urge,0.1311738,Verb
-关闭,close,0.130681818,Verb
-条理性,organized,0.130681818,Adjective
-严守,strictly observe,0.13007049,Adjective
-寄送,send,0.129943503,Verb
-制作,make,0.129943503,Verb
-合作,cooperate,0.129943503,Verb
-见解,opinion,0.12934538,Verb
-扛得住,bear it,0.12923416,Verb
-厚实,thick,0.12894056,Adjective
-期望,expect,0.12849162,Verb
-构成,constitute,0.12849162,Verb
-外教,foreign teacher,0.12849162,Noun
-思路,train of thought,0.12849162,Noun
-公费旅游,incentive travel,0.12849162,Noun
-牵开,retract,0.12816051,Verb
-苛刻,harsh,0.12776088,Adjective
-深刻理解,deep understanding,0.127118644,Noun
-救生员,lifeguard,0.12604445,Noun
-品行优良,have good conduct,0.12502,Verb
-招募,recruit,0.125,Verb
-严防,take precautions against,0.12453134,Verb
-积极主动,active,0.124293785,Adjective
-碰壁,run head against a stone wall,0.1236648,Verb
-秉承,uphold,0.12366056,Verb
-估算,estimate,0.122905028,Verb
-出色,outstanding,0.122905028,Adjective
-流动,flow,0.122905028,Verb
-更新,renew,0.122905028,Verb
-精诚,sincere,0.1224613,Adjective
-虚假,fake,0.12236581,Adjective
-使劲,exert all one's strength,0.12231,Verb
-目击,witnessed,0.12219722,Verb
-核发,issued,0.12189842,Verb
-回退,go back,0.12151041,Verb
-披露,disclosure,0.12096775,Verb
-尽职,due diligence,0.12074555,Verb
-繁重,heavy,0.12068534,Adjective
-平庸,mediocre,0.12061863,Adjective
-现役军人,active duty military,0.11943297,Noun
-排斥,repel,0.11918636,Verb
-扶持,support,0.11889517,Verb
-租售,lease and sale,0.118644068,Verb
-采用,use,0.118644068,Verb
-自学能力,self-study ability,0.118644068,Noun
-情报,intelligence,0.118644068,Noun
-整编,reorganization,0.11856173,Verb
-接见,interview,0.11852487,Verb
-护航,convoy,0.11849983,Verb
-派生,derived,0.11848397,Verb
-逃避,escape,0.11788236,Verb
-集采,collect,0.11787445,Verb
-划拨,transfer,0.11733114,Verb
-正规,regular,0.117318436,Adjective
-理解力,understanding,0.117318436,Noun
-调配,deploy,0.117318436,Verb
-询价,inquiry,0.11719828,Verb
-清廉,honest,0.11706036,Adjective
-银行业,banking,0.11690834,Noun
-取样,sampling,0.1163501,Verb
-感应,induction,0.11603764,Noun
-嘈杂,noisy,0.11559685,Adjective
-精炼,refine,0.11512988,Verb
-揽收,collect,0.11511616,Verb
-独立,independent,0.114076,Adjective
-涉及,involve,0.11356623,Verb
-跳出,jump out,0.11301297,Verb
-实务,practice,0.11299435,Noun
-传授,teach,0.11299435,Verb
-拔高,pull up,0.11290083,Verb
-种植,plant,0.11272461,Verb
-交互,interact,0.11255455,Verb
-贤人,sage,0.11246532,Noun
-纠纷,dispute,0.111731844,Verb
-伙伴,partner,0.111731844,Noun
-朝阳,have a sunny exposure,0.111731844,Noun
-天才,genius,0.11167489,Noun
-盘问,cross-examination,0.111381,Verb
-环境优美,nice environment,0.11105539,Noun
-交替,alternately,0.11083466,Verb
-聚齐,get together,0.11078938,Verb
-妥当,appropriate,0.110169492,Adjective
-调查,investigate,0.110169492,Verb
-勤于,diligent,0.10948946,Adjective
-成功,success,0.10936967,Adjective
-隐匿,hide,0.10923446,Verb
-上阵,go into battle,0.10900532,Verb
-汇成,converge into,0.10890214,Verb
-激活,activate,0.10861933,Verb
-塌实,steady and sure,0.10815244,Adjective
-签发,issued,0.10797207,Verb
-争创,create,0.10730831,Verb
-满足,satisfy,0.10725035,Verb
-复杂,complex,0.10642694,Adjective
-餐饮行业,food industry,0.1062725,Noun
-骄傲,pride,0.106145251,Adjective
-明确,clear,0.106145251,Adjective
-严谨,rigorous,0.10607225,Adjective
-清算,liquidate,0.10554134,Verb
-衡量,measure,0.10553023,Verb
-良好,good,0.10546701,Adjective
-纺纱工,spinner,0.10539348,Noun
-凝练,concise,0.10508361,Verb
-吸毒,drug,0.10456761,Verb
-计划,plan,0.10427034,Noun
-保护,protect,0.10422815,Verb
-仓管员,warehouse clerk,0.10421095,Noun
-教改,education reform,0.10413683,Verb
-旺盛,exuberant,0.10407211,Adjective
-法医,forensic,0.10395268,Noun
-健全,sound,0.10306893,Adjective
-模糊,vague,0.10294255,Adjective
-稳健,steady,0.10293092,Adjective
-申办,apply to host,0.10262335,Verb
-较远,farther away,0.10231249,Adjective
-检讨,review,0.10212653,Verb
-解释,explain,0.10192936,Verb
-进货,purchase,0.10191455,Verb
-坚持,persist in,0.1018554,Verb
-探寻,explore,0.10180896,Verb
-安检,security check,0.10174025,Verb
-灵活处理,flexibly hand,0.101694915,Verb
-充足,adequate,0.101694915,Adjective
-先锋,pioneer,0.1012248,Noun
-亲临,in person,0.10111422,Verb
-划定,delineate,0.10102522,Verb
-共享,shared,0.10102337,Adjective
-巩固,consolidate,0.10083419,Verb
-自主,independent,0.10067892,Adjective
-省内外,inside and outside the province,0.100558659,Noun
-自发,spontaneous,0.10047674,Adjective
-打破,break in,0.10046348,Verb
-法律,law,0.10023589,Noun
-特殊,special,0.1001476,Adjective
-稳妥,safe,0.09994941,Adjective
-培植,cultivate,0.09958183,Verb
-蹉跎,wasted,0.09948869,Verb
-后勤保障,logistic support,0.09935853,Noun
-抢购,snap up,0.09905416,Verb
-理性,rationality,0.09823892,Noun
-坚定,firm,0.09770987,Verb
-争执,dispute,0.09746504,Verb
-交纳,pay,0.09714208,Verb
-探讨,explore,0.09699046,Verb
-积累,accumulation,0.096045198,Verb
-共同完成,complete together,0.096045198,Verb
-秘书长,secretary general,0.09586534,Noun
-确属,indeed belong,0.09543487,Verb
-小组长,group leader,0.09537839,Noun
-弥补,make up,0.09526105,Verb
-主宰,dominate,0.09519952,Verb
-坚韧,tough and tensile,0.09496642,Adjective
-画师,painter,0.09466441,Noun
-拖沓,procrastination,0.09431904,Noun
-急促,rapid,0.09322581,Adjective
-展望,outlook,0.09209999,Verb
-硬朗,tough,0.09128494,Adjective
-携带,carry,0.09094248,Verb
-重要,important,0.090909091,Adjective
-荣获,be awarded,0.090909091,Verb
-吹牛皮,brag,0.09050968,Verb
-促成,contributed to,0.09039548,Verb
-优胜,winning,0.09035764,Verb
-广告业,advertising,0.08984137,Noun
-具备,have,0.08964482,Verb
-确立,establish,0.0895689,Verb
-明白,clear,0.089385475,Adjective
-坚毅,firm and persistent,0.08913715,Adjective
-审核员,auditor,0.08895759,Noun
-值班,on duty,0.08846294,Verb
-勇毅,brave and persistent,0.08836647,Adjective
-方便,convenient,0.08834736,Adjective
-驯化,domesticated,0.08834142,Adjective
-耐劳,hard-working,0.08785092,Adjective
-可靠,reliable,0.08775426,Adjective
-配发,allotment,0.08754181,Verb
-成败,success or failure,0.08741518,Noun
-进销,restocking and selling,0.08714592,Verb
-粗犷,rough,0.08679859,Adjective
-简练,concise,0.08679194,Adjective
-清退,clear out,0.08669561,Verb
-抗拒,resist,0.08632856,Verb
-军人,soldier,0.0862781,Noun
-游泳池,swimming pool,0.08619572,Noun
-繁忙,busy,0.08520885,Adjective
-宽阔,wide,0.0848185,Adjective
-促销员,promoter,0.08464295,Noun
-强健,strong,0.08391502,Adjective
-积极态度,positive attitude,0.0838154,Noun
-广告投放,advertising,0.082644628,Noun
-守诺,keep promise,0.08260394,Verb
-消极,negative,0.08259575,Adjective
-游泳场,swimming pool,0.0821817,Noun
-引流,drainage,0.08213636,Verb
-迁徙,migrate,0.08193342,Verb
-容忍,tolerate,0.08160564,Verb
-喧哗,the noise,0.08045801,Verb
-歧视,discriminate,0.0799529,Verb
-浸泡,soak,0.07984724,Verb
-勤恳,diligent,0.07971642,Adjective
-坚信,firmly believe,0.07923935,Verb
-成功人士,successful people,0.07919854,Noun
-诚实,honest,0.079096045,Adjective
-摈弃,abandon,0.07748526,Verb
-消除,eliminate,0.07669809,Verb
-紧密,closed,0.07655973,Adjective
-贯穿,run through,0.07654514,Verb
-忠于, be loyal to,0.076271186,Verb
-充满活力,energetic,0.076271186,Adjective
-勾心斗角,intrigue against each other,0.07620709,Verb
-抉择,choose,0.07482081,Verb
-灵通,well-informed,0.07390033,Adjective
-电子商务,e-commerce,0.073446328,Noun
-诱惑,tempt,0.07337677,Verb
-诞生,be born,0.07300056,Verb
-喧嚣,noisy,0.07269274,Verb
-擅于,be good at,0.072625698,Verb
-血气,hot-blooded,0.07181162,Adjective
-查核,check,0.06983786,Verb
-透彻,lucid,0.06929205,Verb
-审计,audit,0.06888578,Verb
-话务员,operator,0.06873359,Noun
-决算,final accounts,0.06840847,Verb
-洽谈,negotiate,0.06823662,Verb
-秉持,uphold,0.06820745,Verb
-贤才,talent,0.06717663,Noun
-坚强,strong,0.06625992,Adjective
-专任教师,full-time teachers,0.06585037,Noun
-怀揣,carry,0.06566548,Verb
-理清,sort out,0.06539873,Verb
-辛勤工作,work hard,0.06476658,Verb
-勤苦,industrious and hardworking,0.06458742,Adjective
-抛开,put aside,0.06449509,Verb
-才子,wit,0.06339098,Noun
-奉献,dedicate,0.06333078,Verb
-迫切,urgent,0.06213887,Adjective
-划算,worthwhile,0.06211443,Verb
-盛名,great reputation,0.06175484,Noun
-摇摆,sway,0.06150597,Verb
-正派,upright,0.06146898,Noun
-盘存,take inventory,0.061452514,Verb
-缓存,cache,0.061452514,Verb
-协同工作,collaborative work,0.061452514,Noun
-承诺,promise,0.06074933,Verb
-忍受,bear,0.06059988,Verb
-稀缺,scarce,0.06030605,Adjective
-纯粹,pure,0.05912966,Adjective
-吹风,blow,0.05887288,Verb
-辜负,let down,0.05821281,Verb
-户外工作,work outdoors,0.05753539,Noun
-接招,take it,0.05685396,Verb
-徘徊,wander,0.05674863,Verb
-奋斗者,struggler,0.05671361,Noun
-刻盘,record,0.05644162,Verb
-关连,relevance,0.05475898,Verb
-见识,experience,0.05433208,Noun
-编制,compile,0.05355937,Verb
-遴选,select,0.05338339,Verb
-呐喊,shout,0.05317207,Verb
-初心,original intention,0.05211076,Noun
-扶贫,poverty alleviation,0.05190492,Verb
-灵活运用,flexible application,0.05189626,Noun
-记载,record,0.05169281,Verb
-受骗,be deceived,0.05108976,Verb
-广告行业,advertising industry,0.05101762,Noun
-汇编,compile,0.05091152,Verb
-支付,to pay,0.050847458,Verb
-玩转,have fun,0.05076453,Verb
-真实有效,true and effective,0.05027933,Adjective
-伙食,food,0.05027933,Noun
-通畅,unobstructed,0.049586777,Adjective
-启用,enable,0.0490492,Verb
-渴望,eager,0.04897746,Verb
-商讨,discuss,0.04688169,Verb
-讲评,comment and appraise,0.04656213,Verb
-国王,king,0.04648971,Noun
-推断,infer,0.04636766,Verb
-沉闷,boring,0.04588201,Adjective
-联想,connect in the mind,0.04560244,Verb
-开具,issued,0.045454545,Verb
-理解能力,comprehension,0.045454545,Noun
-分析师,analyst,0.045454545,Noun
-医疗险,medical insurance,0.04519774,Noun
-态度端正,correct attitude,0.044692737,Noun
-积极,positive,0.044692737,Adjective
-弥合,to bridge,0.04251331,Verb
-阐述,explain,0.041322314,Verb
-条理分明,organized,0.04042079,Adjective
-传承,inherit,0.03982212,Verb
-知晓,know,0.039772727,Verb
-公平,fair,0.03953244,Adjective
-社会保障,social security,0.039106145,Noun
-规划师,planner,0.039106145,Noun
-短暂,short,0.03828932,Adjective
-身体力行,set an example by personally taking part,0.03823652,Verb
-优秀,excellent,0.03778542,Adjective
-执著,persistent,0.03692208,Adjective
-散漫,undisciplined,0.03641636,Adjective
-忠实,loyal,0.03637376,Adjective
-赞赏,appreciate,0.03568655,Verb
-乐趣,pleasure,0.0353497,Noun
-虚伪,hypocritical,0.03534881,Adjective
-服从,obey,0.03490186,Verb
-自检,self-test,0.033898305,Verb
-分配,distribute,0.033898305,Verb
-自觉遵守,consciously obey,0.033519553,Verb
-担负,take on,0.03337272,Verb
-敬职,dedicated,0.03332112,Verb
-君子,gentleman,0.03317896,Noun
-理顺,straighten out,0.03259192,Verb
-敞开,wide open,0.03230312,Verb
-出国,go abroad,0.03225785,Verb
-郁闷,depressed,0.03224858,Adjective
-交换,exchange,0.03196514,Verb
-精确,accurate,0.03025629,Adjective
-孵化,incubate,0.02947801,Verb
-涉税,tax related,0.02942283,Verb
-传播,spread,0.028248588,Verb
-擦肩,rub shoulders,0.0280753,Verb
-纠正,correct,0.027932961,Verb
-经纪人,broker,0.027932961,Noun
-多样,diverse,0.027932961,Adjective
-卖力,work hard,0.02790223,Verb
-翻新,renovate,0.02783658,Verb
-汇缴,remittance,0.02672654,Verb
-组接,assemble,0.02658185,Verb
-轰动,sensation,0.02602525,Verb
-高尚,noble,0.025423729,Adjective
-出国游,travel abroad,0.0249003,Noun
-沉着,calm,0.02458336,Verb
-交办,hand over,0.02453696,Verb
-匹配,match,0.02449641,Verb
-录取,admission,0.02413607,Verb
-松弛,relaxed,0.02385539,Adjective
-称兄道弟,address/treat each other as brothers,0.02365841,Verb
-挽回,redeem,0.02307208,Verb
-有条理,organized,0.02259887,Adjective
-小组活动,group activity,0.02259887,Noun
-预订,booking,0.022346369,Verb
-隐含,implied,0.02209231,Verb
-邀请,invite,0.02150433,Verb
-配伍,compatibility,0.02108636,Verb
-业务员,clerk,0.02093088,Noun
-划分,divide,0.02089122,Verb
-检验员,inspectors,0.02079438,Noun
-烧烤,barbecue,0.02033969,Verb
-揭示,reveal,0.01973658,Verb
-简化,simplify,0.01971889,Verb
-拜访,visit,0.01951208,Verb
-枯燥,dull,0.01949183,Adjective
-尽责,conscientious,0.01946101,Verb
-复员军人,demobilized soldiers,0.01945395,Noun
-畅游,swim,0.0183227,Verb
-浓厚,strong,0.01825085,Adjective
-据说,reputedly,0.01815477,Verb
-建制,establishment,0.01784585,Noun
-归纳,summarize,0.01769036,Verb
-正确,correct,0.017045455,Adjective
-统计数据,count,0.017045455,Verb
-缴费,pay the fees,0.016949153,Verb
-住校,board at school,0.016949153,Verb
-上传下达,upload and release,0.016949153,Verb
-流程,process,0.016949153,Noun
-编制工作,preparation work,0.016949153,Noun
-繁荣,prosperous,0.01607869,Adjective
-抽烟,smoke,0.01607177,Verb
-抱怨,complain,0.01598451,Verb
-感悟力,perception,0.01597813,Noun
-筹备,prepare,0.01567508,Verb
-签报,signed report,0.01525816,Verb
-让步,compromise,0.01481834,Verb
-吃香,popular,0.01453052,Verb
-化解,resolve,0.01401733,Verb
-追梦,chase dreams,0.01349653,Verb
-追求,pursue,0.01327762,Verb
-帮扶,help,0.01300794,Verb
-乐于,be glad to,0.01220244,Verb
-翻身,turn over,0.01213556,Verb
-转业军人,demobilized soldiers,0.01193093,Noun
-控制情绪,control emotion,0.01148116,Verb
-复核,review,0.011363636,Verb
-缓解,ease,0.01082948,Verb
-摆脱,get rid of,0.00999293,Verb
-吸引,attract,0.00973126,Verb
-共勉,mutual encouragement,0.0095919,Verb
-吸烟,smoke,0.00922607,Verb
-谦虚,modest,0.00884226,Adjective
-丰盛,rich,0.008474576,Adjective
-颠覆,subvert,0.00831745,Verb
-国内,domestic,0.008264463,Adjective
-真实感,realism,0.0081195,Noun
-归拢,gather together,0.00810431,Verb
-至尊,supreme,0.00800336,Adjective
-精于,be proficient in,0.00776565,Adjective
-强调,emphasize,0.00743025,Verb
-高发,high incidence,0.00667166,Verb
-奉行,pursue,0.00606935,Verb
-解冻,thaw,0.00601765,Verb
-签名,sign,0.00581962,Verb
-接收,take over,0.00580739,Verb
-合格,qualified,0.005649718,Adjective
-营业部,sales department,0.005586592,Noun
-执着,persistent,0.00531186,Adjective
-抛弃,abandon,0.00504762,Verb
-繁华,bustling,0.00381338,Adjective
-求变,seek change,0.00377432,Verb
-苦闷,depressed,0.00353993,Adjective
-协助,assist,0.00346447,Verb
-烦扰,bother,0.00345083,Verb
-庆幸,rejoice,0.00300427,Verb
-煮熟,cooked,0.00224406,Verb
-上课,attend class,0.00221433,Verb
-慎密,careful,0.00193476,Adjective
-捐献,donate,0.00178595,Verb
-顾及,take into account,0.00176602,Verb
-休养,recuperate,0.0007404,Verb
-倡导,advocate,0.00030856,Verb
+先生,sir,2,n.
+男员工,male employees,2,n.
+男生,boy,2,n.
+男人,man,2,n.
+男孩,boy,2,n.
+爸爸,father,2,n.
+父亲节,Father's Day,1.50601833,n.
+工程施工,engineering construct,1.463687151,v.
+理工科,science and engineering,1.245762712,n.
+力度,intensity,1.223463687,n.
+工地,construction site,1.161016949,n.
+武术,martial arts,1.150837989,n.
+工程部,engineering department,1.150837989,n.
+汽配,auto parts,1.140495868,n.
+大叔,uncle,1.1059741,n.
+建筑,architecture,1.09039548,n.
+教官,instructor,1.033898305,n.
+机械加工,mechanical process,1.008474576,v.
+电路设计,circuit design,0.977653631,v.
+浇注,pour,0.94398847,v.
+力量,power,0.927374302,n.
+焊接,weld,0.916201117,v.
+加气,refill,0.89434031,v.
+建筑行业,construction industry,0.89430592,n.
+跆拳道,taekwondo,0.877094972,n.
+建材行业,building materials industry,0.849162011,n.
+硬性,rigid,0.826815642,adj.
+装机,install an equipment,0.813559322,v.
+承压,under pressure,0.80017436,v.
+承建,undertake construction,0.79619928,v.
+电控,electric control,0.79338843,n.
+学徒工,apprentice,0.788135593,n.
+领导力,leadership,0.776859504,n.
+企业家,entrepreneur,0.776536313,n.
+技术部,technology department,0.771186441,n.
+前端开发,front-end development,0.765363128,n.
+犯罪,crime,0.765363128,v.
+接盘,take over,0.75496923,v.
+油费,oil fee,0.754237288,n.
+勘测,survey,0.754189944,v.
+建筑业,construction industry,0.75274658,n.
+化工行业,chemical industry,0.7424582,n.
+创业精神,entrepreneurship,0.73643684,n.
+压铸,die-casting,0.73444623,v.
+焊装,weld,0.73103216,v.
+抢修,rush to repair,0.727272727,v.
+起重,lift,0.72198001,v.
+刮削,scrape,0.71318622,v.
+校长,principal,0.709497207,n.
+能源行业,energy industry,0.70870344,n.
+总经理,general manager,0.698324022,n.
+工程师,engineer,0.69565828,n.
+制造业,manufacturing,0.6875,n.
+接电,power on,0.68632939,v.
+大力,vigorous,0.681818182,adj.
+安防,security,0.681564246,n.
+装卸工,stevedore,0.68083358,n.
+敢打敢拼,dare to fight,0.67957538,adj.
+冲劲,aggressive,0.672316384,adj.
+打爆,explode,0.66677062,v.
+竣工,complete,0.661016949,v.
+配送,distribute,0.659217877,v.
+围护,surround to guard,0.65728314,v.
+勇敢,brave,0.652892562,adj.
+高层,high-level,0.649717514,n.
+机械行业,machinery industry,0.64947876,n.
+软件测试,software test,0.648044693,v.
+工程预算,project budget,0.644067797,n.
+建造,build,0.63271204,v.
+抢险,emergency rescue,0.62670665,v.
+接卸,unload,0.6256967,v.
+汽车产业,automobile industry,0.61672742,n.
+组队,organize a team,0.61452514,v.
+商务,business affairs,0.611570248,n.
+混炼,mix,0.61049997,v.
+逆变,inversion,0.60525676,n.
+高手,past master,0.597765363,n.
+排烟,smoke exhaust,0.59406887,v.
+巡视,patrol,0.593220339,v.
+健身,bodybuilding,0.590909091,v.
+拳击,box,0.59040813,v.
+爆炸,blast,0.59036546,v.
+装配工,fitter,0.59028771,n.
+切削,cut,0.58932543,v.
+拼搏,struggle hard,0.58753646,v.
+野外,field,0.585227273,n.
+力劲,strength,0.58273192,n.
+奋战,fight hard,0.58118609,v.
+激烈,fierce,0.581005587,adj.
+涉密,classified,0.57967092,adj.
+混日子,muddle along,0.576271186,v.
+房地产,real estate,0.576271186,n.
+减薄,thin,0.57255044,v.
+协同作战,fight in coordination,0.57217171,v.
+逻辑性,logic,0.570621469,adj.
+院长,dean,0.569832402,n.
+聚能,gather energy,0.56877493,v.
+监理员,supervisor,0.56585751,n.
+节能,energy conservation,0.56427883,v.
+驻守,station,0.56424581,v.
+开展业务,conduct business,0.56424581,v.
+操作能力,operational ability,0.56424581,n.
+铸造,mold,0.56299402,v.
+不畏,fearless,0.56079469,adj.
+承揽,undertake,0.56045389,v.
+打垮,defeat,0.55858465,v.
+爆破,blast,0.55775362,v.
+锻造,forging,0.55568393,v.
+管理者,manager,0.553719008,n.
+闪展,flash show,0.55350319,v.
+高薪,high salary,0.553072626,n.
+强大,powerful,0.55263152,adj.
+停车,parking,0.548022599,v.
+挖掘,tap,0.547486034,v.
+体罚,corporal punishment,0.547486034,n.
+软件设计,software design,0.547486034,v.
+魄力,boldness,0.5462547,n.
+安全员,safety officer,0.54527979,n.
+依仗,rely on,0.54502968,v.
+强劲,strong,0.53997825,adj.
+股东,shareholder,0.536723164,n.
+拼博,go all out in work,0.53472624,v.
+照明设计,lighting design,0.533898305,v.
+排污,drain sewage,0.53350318,v.
+地勘,geological survey,0.53155701,v.
+外勤,work done outside the office or in the field,0.52892562,v.
+外派,expatriate,0.525423729,v.
+艰巨,difficult,0.5254069,adj.
+程序员,programmer,0.52263606,n.
+主动,initiative,0.519553073,adj.
+刻蚀,etch,0.51927586,v.
+干劲,enthusiasm,0.517045455,adj.
+开拓精神,pioneering spirit,0.517045455,n.
+供暖,heating,0.51700521,v.
+筹建,prepare to build,0.516949153,v.
+焊工,welder,0.51431923,n.
+拦截,intercept,0.5138683,v.
+数学,math,0.511363636,n.
+驻扎,stationed,0.51093482,v.
+坠落,fall,0.51050218,v.
+电力行业,power industry,0.50968544,n.
+血气方刚,vigorous,0.50893195,adj.
+筑造,build,0.50360629,v.
+气浮,air flotation,0.50356368,v.
+巡逻,patrol,0.50293392,v.
+荣誉感,sense of honor,0.50229463,n.
+喷射,inject,0.50224915,v.
+驾驶,drive,0.49843842,v.
+架子鼓,drum kit,0.497206704,n.
+财富,wealth,0.494318182,n.
+回佣,rebate,0.49425769,v.
+值班员,watchman,0.49314033,n.
+禁运,embargo,0.49185988,v.
+超强,extremely strong,0.491525424,n.
+厮杀,fight,0.49069109,v.
+组装,assemble,0.48889331,v.
+拖欠,in arrears,0.487603306,v.
+求败,seek defeat,0.48715402,v.
+熔化,melt,0.48545567,v.
+夯实,tamp,0.48526559,v.
+好手,adept,0.48389853,n.
+监理,supervise and manage,0.483050847,n.
+权利,right,0.482954545,n.
+装卸,load and unload,0.48239561,v.
+地勤,ground crew,0.4808467,n.
+可靠性,reliability,0.480225989,n.
+依靠,rely on,0.47785872,v.
+壮大,grow,0.47705592,v.
+航天事业,aerospace industry,0.47601269,n.
+灵活机动,flexible,0.47580811,adj.
+精英,elites,0.474860335,n.
+强悍,intrepid,0.47475956,adj.
+健身房,gym,0.474576271,n.
+户外,outdoor,0.474576271,adj.
+耗损,consume,0.47451252,v.
+探测,detect,0.47409236,v.
+创造性,creativity,0.47107438,n.
+涂装,paint,0.46906106,v.
+加固,reinforce,0.4680716,v.
+接地,grounding,0.46614972,v.
+持股,shareholding,0.466101695,n.
+很强,very strong,0.465909091,adj.
+自动化,automation,0.465909091,n.
+律师,lawyer,0.465909091,n.
+回收,recycle,0.46462053,v.
+开发,develop,0.463687151,v.
+管理人员,manager,0.463687151,n.
+技术支持,technical support,0.463276836,n.
+接头,meet up,0.46230269,v.
+勇闯,go bravely,0.46228889,v.
+羽毛球馆,badminton court,0.46220746,n.
+机务,maintenance personnel,0.45896427,n.
+违规,violate the rules,0.458100559,v.
+负责人,principal,0.458100559,n.
+操作技能,operational skills,0.458100559,n.
+拆装,disassemble,0.457627119,v.
+厉行节约,economize,0.4570066,v.
+击穿,breakdown,0.45686033,v.
+探伤,flaw detection,0.45648537,v.
+攀爬,climb,0.45446637,v.
+决心,determination,0.45283836,n.
+人工智能,artificial intelligence,0.452513966,n.
+家电业,home appliances industry,0.45111835,n.
+耗用,consume,0.44876016,v.
+提拔,promote to a higher job,0.446327684,v.
+兴达,mastery,0.44628774,n.
+技术工,technician,0.44622937,n.
+修理,repair,0.44613053,v.
+扑救,save,0.44228779,v.
+迅捷,quick,0.44079542,adj.
+破冰,break the ice,0.44077938,v.
+接货,pick up,0.44072647,v.
+人才,talents,0.44047446,n.
+检举,report,0.44013141,v.
+劈开,split,0.43826272,v.
+研发部门,r & d department,0.43812749,n.
+创新能力,creativity,0.438016529,n.
+反应力,reaction,0.43789147,n.
+带领,lead,0.4375,v.
+烟草行业,tobacco industry,0.4372643,n.
+群雄,warlords,0.43692213,n.
+严控,strict control,0.43445193,v.
+卸货,unload,0.43282273,v.
+抛光,polish,0.43220339,v.
+动漫,cartoon,0.429752066,n.
+减速,slow down,0.42763371,v.
+决策,make a decision,0.426136364,v.
+招商,attract investment in business,0.424581006,v.
+应付,handle,0.424581006,v.
+降噪,reduce noise,0.4244737,v.
+争辩,argue,0.42441021,v.
+挑战,challenge,0.421487603,v.
+燃烧,burn,0.42103839,v.
+拼得,struggle,0.42081327,v.
+积极合作,actively cooperate,0.41974832,v.
+建仓,open a position,0.41947558,v.
+畏惧,fear,0.41922767,v.
+模具设计,mold design,0.418994413,n.
+磨炼,hone,0.41781547,v.
+迫降,forced landing,0.41755788,v.
+自主化,autonomy,0.41700771,n.
+深挖,dig deep,0.41580238,v.
+野心,ambition,0.41563633,n.
+回转,turn around,0.41528232,v.
+服务业,service industry,0.41387932,n.
+销售主管,sales executive,0.41322314,n.
+有权,have the right to,0.412429379,v.
+加热,heating,0.41194611,v.
+维修,repair,0.4112089,v.
+轰炸,bombing,0.40991652,v.
+士气,morale,0.40988605,n.
+数据处理,data processing,0.407821229,n.
+韧劲,tenacity,0.40682034,n.
+极强,extremely strong,0.406779661,adj.
+突出者,capable person,0.406779661,n.
+巡防,patrol,0.40616924,v.
+精馏,distillation,0.40537795,v.
+电子行业,IT,0.40418697,n.
+纠偏,correct,0.40375547,v.
+部署,deploy,0.403409091,v.
+故障诊断,troubleshooting,0.402234637,n.
+承受力,capability of adapting oneself to,0.40103568,n.
+采购,purchase,0.40020839,v.
+巨大,huge,0.40014972,adj.
+强抗,strong resistance,0.39995307,v.
+破坏,destroy,0.3982331,v.
+取证,obtain evidence,0.39620303,v.
+依托,rely on,0.39588847,v.
+责任感,sense of responsibility,0.395480226,n.
+派驻,accredit,0.39460534,v.
+整改,rectify and reform,0.39368769,v.
+涉嫌,be a suspect,0.39337059,v.
+减员,depletion of numbers,0.3927448,v.
+艰苦,hard,0.3926781,adj.
+就位,in place,0.39245843,v.
+对接,dock,0.3923285,v.
+拼劲,work hard,0.39205588,v.
+商业,business,0.391061453,n.
+配混,compound,0.39098471,v.
+治理,govern,0.39079319,v.
+获利,profit,0.38983401,v.
+豪华,luxury,0.389830508,adj.
+执行力,execution,0.389830508,n.
+毅力,perseverance,0.38869375,n.
+派遣,send,0.38768751,v.
+极大,great,0.38731106,adj.
+指挥,command,0.38700936,v.
+预算员,budget clerk,0.38623976,n.
+装配,assemble,0.38623109,v.
+逃生,escape,0.38579955,v.
+潜能,potential,0.38547486,n.
+庞大,huge,0.38547486,adj.
+创新,innovation,0.38459348,n.
+作风正派,be upright in daily behavior,0.384180791,adj.
+伺服,servo,0.38371613,v.
+贯通,run through,0.38322376,v.
+破解,uncover,0.38295728,v.
+散热,cooling,0.38266257,v.
+卷绕,roll up,0.38237753,v.
+后勤部门,logistics department,0.3815014,n.
+授权,authorize,0.381355932,v.
+刺激,stimulate,0.381355932,v.
+思维,thinking,0.381355932,n.
+工艺员,craftsman,0.3807154,n.
+风控,risk control,0.379888268,n.
+推卸责任,shirk responsibility,0.37974407,v.
+固化,solidify,0.37948462,v.
+打捞,salvage,0.3777436,v.
+计取,calculate,0.37491229,v.
+恶劣,bad,0.37470914,adj.
+搬移,move,0.37457653,v.
+腐蚀,corrode,0.37448445,v.
+家电,home appliances,0.374301676,n.
+排放,discharge,0.37423493,v.
+配载,stowage,0.37408905,v.
+查勘,survey,0.37369225,v.
+操作电脑,operate computer,0.372881356,v.
+缺编,missing,0.37277672,v.
+激励,excitation,0.37181632,v.
+作业员,operator,0.37080333,n.
+率领,lead,0.37070544,v.
+获悉,learned,0.37040224,v.
+对抗,confront,0.37000055,v.
+高涨,upsurge,0.369726,v.
+广阔,broad,0.36960375,adj.
+违反,violate,0.369318182,v.
+青年,youth,0.368715084,n.
+进攻性,aggressiveness,0.36858394,n.
+逆袭,counterattack,0.36701668,v.
+领航者,leader,0.36649554,n.
+消防员,firemen,0.365618,n.
+创办,found,0.36440678,v.
+体能,physical fitness,0.36386822,n.
+处理,deal with,0.363636364,v.
+取决,depends on,0.36056898,v.
+遏制,curb,0.36026986,v.
+规避,avoid,0.36018002,v.
+优异,excellent,0.35880483,adj.
+考察,study,0.357541899,v.
+跑道,runway,0.35739953,n.
+号召,call for,0.35713883,v.
+进驻,stationed,0.35712541,v.
+发展壮大,develop and grow,0.355932203,n.
+威猛,mighty,0.35549043,adj.
+降低,reduce,0.35410474,v.
+灵活性,flexibility,0.35392937,n.
+精密,precise,0.35384562,adj.
+篮球场,basketball court,0.35275083,n.
+骚扰,harass,0.35230177,v.
+广进,broad,0.35176137,adj.
+优秀人才,outstanding talents,0.351562,n.
+开拓,open up,0.35097464,v.
+交于,delivered to,0.35052678,v.
+勇于,dare to,0.35044077,v.
+驾御,control,0.35028567,v.
+轮滑,roller skating,0.350282486,n.
+挤压,extrude,0.34968126,v.
+切磋,learn from each other,0.34963769,v.
+克制,restraint from,0.34945609,v.
+排水,drain,0.34915419,v.
+推动,promote,0.34870865,v.
+拼命,desperately,0.3482611,v.
+接好,pick up,0.34814916,v.
+快速,fast,0.347107438,n.
+排产,schedule,0.34704662,v.
+欲望,desire,0.346368715,n.
+解封,unblock,0.34619176,v.
+获益,benefit from,0.34546072,v.
+分拨,allocate,0.3449494,v.
+飞跃,leap,0.34491913,v.
+巡察,inspect,0.34480407,v.
+散装,bulk,0.34445168,v.
+紧抓,hold tight,0.34364395,v.
+截至,up to,0.34305596,v.
+肯干,willing to work,0.34298405,v.
+搬运,carry,0.34185891,v.
+完好性,integrity,0.34179557,n.
+家具行业,furniture industry,0.34175289,n.
+加工能力,processing capacity,0.33977096,n.
+自满,complacent,0.33941204,adj.
+闯荡,break out,0.33870824,v.
+拿到,got,0.33838324,v.
+敏捷,agile,0.33750436,adj.
+韧性,toughness,0.33710154,n.
+抱负,ambition,0.33707546,n.
+联营,joint venture,0.33600076,v.
+举起,lift,0.33549517,v.
+指派,assign,0.335195531,n.
+放逐,exile,0.3341604,v.
+强制,force,0.33393891,v.
+团队精神,team spirit,0.33352955,n.
+滚动,scroll,0.33350083,v.
+众志成城,unite as one,0.33343223,adj.
+较快,faster,0.33337432,adj.
+切割,cut,0.33319104,v.
+质检员,quality inspector,0.33191869,n.
+激化,intensify,0.33132123,v.
+狂奔,run about wildly,0.33078235,v.
+工人,worker,0.33012901,n.
+集聚,agglomerate,0.33012617,v.
+进网,into the net,0.32990154,v.
+危机,crisis,0.329608939,n.
+快速增长,rapid growth,0.329608939,n.
+闹事,make trouble,0.32955212,v.
+申诉,appeal,0.32945433,v.
+上牌,register,0.32923981,v.
+践行,practice,0.32915317,v.
+朝阳产业,uprising industry,0.3289055,n.
+承接,undertake,0.32880248,v.
+派出,send,0.32872069,v.
+进有,into there,0.32768831,v.
+头脑灵活,smart,0.327683616,adj.
+降职,demote,0.32704869,v.
+查封,close down,0.32655364,v.
+排名,rank,0.3256647,v.
+应对,respond,0.324022346,v.
+实际操作,actual operation,0.324022346,n.
+激情,passion,0.324022346,n.
+督导,supervise and manage,0.324022346,n.
+游泳馆,swimming pool,0.32308917,n.
+饲料行业,feed industry,0.32295378,n.
+浩瀚,vast,0.32266281,adj.
+进军,march into,0.32251799,v.
+追究,held accountable,0.322094,v.
+配置,configure,0.322033898,v.
+业务主管,business executives,0.322033898,n.
+施展,display,0.322033898,n.
+保修,guarantee to keep in good repair,0.32177887,v.
+抢占,seize,0.32060777,v.
+克服,overcome,0.32038206,v.
+上船,get on board,0.32036089,v.
+敬业精神,professionalism,0.32007325,n.
+进取心,enterprising spirit,0.31992036,n.
+解聘,fire,0.31984564,v.
+驰骋,gallop,0.31983377,v.
+保险业,insurance,0.31892299,n.
+离心,be at odds with the leadership,0.31882834,v.
+崛起,rise,0.31824045,v.
+征战,go on an expedition,0.31679924,v.
+操纵,manipulate,0.31664518,v.
+预警,early warning,0.316384181,n.
+副校长,vice-chancellor,0.316384181,n.
+卸载,uninstall,0.31624661,v.
+盈亏,profit and loss,0.314049587,n.
+逃脱,escape,0.31331595,v.
+截止,cut off,0.3131379,v.
+意志力,willpower,0.3129277,n.
+设施,facility,0.312849162,n.
+空调,air conditioner,0.312849162,n.
+企图心,intentions,0.3125,n.
+接驳,connect,0.3119793,v.
+操控,control,0.31125389,v.
+泄露,divulge,0.3109543,v.
+爬行,crawl,0.30857902,v.
+埋没,bury,0.3080102,v.
+跟踪,track,0.30726257,v.
+供应,supply,0.30726257,v.
+减低,reduce,0.30695033,v.
+虎将,a brave general,0.30604459,n.
+思辨,speculative,0.30584663,v.
+集散,collect and distribute,0.30577656,v.
+组建,set up,0.30542551,v.
+操作员,operator,0.305084746,n.
+奋斗,struggle,0.30492109,v.
+受挫,frustrated,0.30448614,v.
+服装行业,garment industry,0.30383101,n.
+修缮,repair,0.30110896,v.
+危害,harm,0.299435028,v.
+泄气,discouraged,0.29908908,v.
+坚守岗位,stick to the post,0.29868046,v.
+警示,warning,0.29812809,v.
+救生,life-saving,0.29791859,v.
+事业心,professionalism,0.29737413,n.
+接连,one after another,0.29709845,v.
+掉队,fall behind,0.29651705,v.
+领袖,leader,0.29466067,n.
+获取,obtain,0.29458792,v.
+奔腾,surge forward,0.29446573,v.
+攻破,break through,0.29423616,v.
+浩大,vast,0.29416822,adj.
+销售业,sales industry,0.29408952,n.
+签署,sign,0.293785311,v.
+正义,justice,0.29367764,n.
+搭建,build,0.29271102,v.
+拖动,drag,0.29232946,v.
+犯错,make a mistake,0.29210019,v.
+展览业,exhibition industry,0.2916425,n.
+便利,convenient,0.29078726,adj.
+市场营销,marketing,0.290502793,n.
+拿下,win,0.28977978,v.
+错开,stagger,0.28812565,v.
+较低,lower,0.28710864,adj.
+上涨,rise,0.28649803,v.
+判断力,judgment,0.286464,n.
+会展业,exhibition industry,0.28610953,n.
+要强,be anxious to outdo other,0.2858655,adj.
+悠久,long,0.28537822,adj.
+奋进,forge ahead,0.28495911,v.
+精通,master,0.284916201,v.
+拔尖,top,0.28468522,adj.
+搬迁,move,0.28459259,v.
+足球场,football field,0.28425217,n.
+水电工,electrician,0.28368556,n.
+驾驭,control,0.28173938,v.
+接车,pick up,0.28143264,v.
+通报,inform,0.279661017,v.
+求知欲,curiosity,0.279661017,n.
+人才资源,human resources,0.27944986,n.
+策划者,planner,0.27936705,n.
+丰厚,rich,0.279329609,adj.
+加薪,increase sb's wages,0.279329609,v.
+开辟,open up,0.27924444,v.
+挤出,extrude,0.27895761,v.
+超越,go beyond,0.27858777,v.
+帅气,handsome,0.27842366,adj.
+拖延,procrastinate,0.27839484,v.
+吃苦,endure hardship,0.27798692,v.
+淘汰,disuse,0.27787536,v.
+承受,bear,0.27782339,v.
+先进,advanced,0.27774543,adj.
+老大,boss,0.27769824,n.
+压榨,press,0.27734041,v.
+刻苦,work hard,0.2763546,v.
+当兵,be a soldier,0.27609733,v.
+疲劳,tired,0.27512037,adj.
+明锐,bright and sharp,0.27504028,adj.
+申明,declare,0.27441054,v.
+振翅,flap wings,0.27434048,v.
+接手,take over,0.27394139,v.
+疯狂,crazy,0.27387442,adj.
+接到,receive,0.27386074,v.
+冗余,redundant,0.27380038,adj.
+沉淀,settle out,0.273743017,v.
+筹划,plan,0.273743017,v.
+激进,radical,0.27337886,v.
+打拼,work hard,0.27306324,v.
+战士,warrior,0.27280723,n.
+熟练,skilled,0.27254039,adj.
+退缩,flinch,0.2720732,v.
+履约,performance,0.2718412,v.
+押运员,fulfill the agreement,0.27166628,n.
+围棋,Go,0.27159537,n.
+激发,arouse,0.271186441,v.
+跨部门,cross-departmental,0.271186441,adj.
+携行,travel with,0.27073169,v.
+清除,clear,0.27042787,v.
+排出,discharge,0.26991673,v.
+追逐,chase,0.26937405,v.
+签批,sign off,0.26905299,v.
+壮阔,magnificent,0.26895999,adj.
+参谋,give advice,0.26835138,v.
+进入,enter,0.2682497,v.
+监测员,monitor,0.26749831,n.
+管理工作,management work,0.267045455,n.
+扎实,solid,0.26669426,adj.
+侵权,infringe on a person's rights ,0.2663098,v.
+炼制,refine,0.26429851,v.
+聚合,aggregate,0.26362896,v.
+安卫,security,0.26284376,n.
+保卫处,security office,0.262774,n.
+稳固,stable,0.26272361,adj.
+筹措,raise money,0.26269607,v.
+重大,major,0.26253977,adj.
+借助,with the help of,0.26218195,v.
+监视,monitor,0.26195989,v.
+排除,exclude,0.26155349,v.
+征兵,conscription,0.25914217,v.
+复用,reuse,0.25887598,v.
+巡检,patrol inspection,0.25882569,v.
+求实,realistic,0.25873661,v.
+乒乓球桌,table tennis table,0.25847685,n.
+精修,refine,0.25802148,v.
+厉害,awesome,0.25774665,adj.
+剥削,exploit,0.2565951,v.
+自由,free,0.25614491,adj.
+强化,strengthen,0.25592205,v.
+谋求,seek,0.25569748,v.
+经受,withstand,0.25512435,v.
+竞聘,to compete a position,0.2549266,v.
+前进,go ahead,0.254237288,v.
+迁移,migrate,0.25362303,v.
+起飞,take off,0.25322652,v.
+启发,inspire,0.25319032,v.
+调度员,dispatcher,0.2526537,n.
+牢固,firm,0.25194987,v.
+接转,transfer,0.25174297,v.
+精熟,proficient,0.25142869,adj.
+管辖,have jurisdiction over,0.251396648,v.
+商办,business,0.251302,v.
+优越,superior,0.25130036,adj.
+不务正业,be derelict in duty and run irrelevant business,0.25113434,v.
+勤杂,handy-man,0.25098617,n.
+盲目,blindly,0.24914989,adj.
+运动场,playground,0.24867431,n.
+练手,practice,0.2483388,v.
+摸索,grope,0.24792027,v.
+攻克,capture,0.24741991,v.
+勤奋,diligent,0.24715764,adj.
+捍卫,defend,0.2469379,v.
+质疑,doubt,0.24667713,v.
+碰撞,collision,0.24627036,v.
+资源管理,resource management,0.245810056,n.
+工商管理,business management,0.245810056,n.
+接替,succeed,0.244994,v.
+辉煌,brilliant,0.2446347,adj.
+精耕,intensive farming,0.24422729,v.
+便捷,convenient,0.2437861,adj.
+精进,sophisticate,0.24364716,adj.
+拒收,refuse to accept,0.24363079,v.
+沉下,sink,0.24307443,v.
+战友,comrade,0.24300291,n.
+高效,efficient,0.242937853,adj.
+勤政,the industrious administration,0.24272889,n.
+奔波,run around,0.24197007,v.
+绕行,bypass,0.24194665,v.
+使命,mission,0.24138733,n.
+教育界,education,0.24042122,n.
+技术员,technician,0.24006848,n.
+较强,stronger,0.23982488,adj.
+举报,tip-off,0.2396763,v.
+深化,deepen,0.239669421,v.
+才华,talent,0.239669421,n.
+上报,report,0.23951639,v.
+划付,transfer,0.23946521,v.
+销毁,destroy,0.23922857,v.
+弯曲,bend,0.23892176,v.
+取货,pick up,0.23891926,v.
+检定,test,0.23867254,v.
+划走,scratch away,0.23795933,v.
+商谈,discuss,0.237288136,v.
+伟大,great,0.237288136,n.
+妨碍,get in the way,0.23681026,v.
+充裕,ample,0.23563894,adj.
+倾斜,tilt,0.23561625,v.
+敞开大门,open the door,0.23544267,v.
+膨化,puffed,0.2349711,adj.
+上升,rise,0.234636872,v.
+竞争机制,competitive mechanism,0.234636872,n.
+审价,appraisal,0.23443535,v.
+虚心学习,learn from,0.23441874,v.
+担保,guarantee,0.2342318,v.
+奔跑,run,0.23407973,v.
+闯关,break through,0.2339536,v.
+杰出,outstanding,0.23379768,adj.
+发扬,carry forward,0.23359383,v.
+年轻有为,young and promising,0.23258601,adj.
+排错,troubleshoot,0.23257531,v.
+锐利,sharp,0.23226956,adj.
+牛人,awesome people,0.23217547,n.
+雄鹰,eagle,0.23194939,n.
+潜心研究,dive into research,0.23165242,v.
+森严,strict,0.23083642,adj.
+牵引,traction,0.23031562,v.
+参天大树,towering trees,0.23010435,n.
+联手,team up,0.2297186,v.
+纯熟,proficient,0.22963589,adj.
+审计师,auditor,0.22942795,n.
+增值,increase your own value,0.229050279,v.
+累积,accumulate,0.229050279,v.
+交付,deliver,0.229050279,v.
+贯彻,implement,0.229050279,v.
+新生力量,young blood,0.22881671,n.
+沸腾,boiling,0.22869147,v.
+开盘,opening,0.2285454,v.
+过失,fault,0.22800134,v.
+涉足,set foot in,0.22769402,v.
+捐款,donate,0.227345,v.
+较高,higher,0.22728688,adj.
+开展,carry out,0.227272727,v.
+严格控制,strict control,0.227272727,v.
+取回,retrieve,0.22668154,v.
+上载,upload,0.22576884,v.
+上缴,turn in,0.22547465,v.
+接合,join,0.22475389,v.
+警卫,the guard,0.22474643,n.
+哀嚎,howling,0.22445848,v.
+采取,take,0.223463687,v.
+研讨,seminar,0.223463687,v.
+荣誉,honor,0.223140496,n.
+食品行业,food industry,0.22279475,n.
+毁损,damage,0.22233682,v.
+觉悟,consciousness,0.22210456,v.
+批发业,wholesale industry,0.22174189,n.
+擂台,ring (for martial contests),0.22167121,n.
+打球,to play,0.22135175,v.
+回报,return,0.22123662,n.
+探知,detect,0.22110959,v.
+鉴定,identify,0.220338983,v.
+较大,bigger,0.21992998,adj.
+羽毛球场,badminton court,0.21979841,n.
+自立,stand on one's own feet,0.21964574,adj.
+推理,infer,0.21947589,v.
+履职,perform duties,0.21848002,v.
+感知力,perception,0.21823978,n.
+办学,start a school,0.217877095,v.
+较短,shorter,0.21786684,adj.
+开创,create,0.21706006,v.
+教书育人,teach and educate people,0.21696573,v.
+迁改,relocate,0.21638855,v.
+鼓舞,inspire,0.21624656,v.
+起伏,ups and downs,0.21575175,v.
+侵入,invade,0.21556826,v.
+争取,strive for,0.214876033,v.
+作风严谨,rigorous style,0.214689266,n.
+质押,pledge,0.21468205,v.
+致远,achieve lofty ideals,0.21454793,adj.
+自负,conceited,0.21326952,adj.
+勤杂工,handy-man,0.21325353,n.
+深造,further study,0.21258328,v.
+外出,go out,0.21225572,v.
+运筹,logistics,0.21209803,v.
+思辩,debate,0.21192048,v.
+自信心,self-confidence,0.211864407,n.
+市场部,marketing department,0.211864407,n.
+上进,motivated,0.2117147,v.
+孤身,alone,0.21128892,adj.
+锻炼,exercise,0.21123849,v.
+培新,train,0.21120456,v.
+信心,confidence,0.21109686,n.
+判定,determination,0.21109298,v.
+付费,pay for,0.210227273,v.
+借鉴,learn from,0.20993863,v.
+拧紧,tighten,0.20928017,v.
+伸展,stretch,0.20904919,v.
+分拣,sort,0.209039548,v.
+踏实,dependable,0.209039548,adj.
+精湛,superb,0.209039548,adj.
+强加,impose,0.20899221,v.
+旅行家,traveler,0.20886557,n.
+紧邻,next to,0.2084328,v.
+划船,boat,0.2082104,v.
+筹集,raise,0.20804097,v.
+逻辑,logic,0.20803314,n.
+切入,cut in,0.20778489,v.
+开拓者,pioneer,0.20770248,n.
+采样,take samples,0.20711936,v.
+天马行空,a powerful and unconstrained style,0.206703911,n.
+签约,sign the contract,0.20661157,v.
+破碎,broken,0.20646768,v.
+保卫,defend,0.2064546,v.
+量变,quantitative change,0.20623515,v.
+刻苦钻研,study hard,0.20579936,v.
+上浮,float up,0.20571513,v.
+深耕,deep plowing,0.20499896,v.
+破损,damaged,0.20484454,v.
+签订,sign,0.20470821,v.
+筑起,build up,0.20469469,v.
+起航,set sail,0.20408267,v.
+环绕,surround,0.20405038,v.
+高大,tall,0.20404614,adj.
+拥护,support,0.20375601,v.
+深远,profound,0.20371891,adj.
+严密,tight,0.20334732,adj.
+探索,explore,0.20278238,v.
+降到,down to,0.20237817,v.
+乐助,be happy to help others,0.20218085,v.
+组织协调,organization and coordination,0.201117318,n.
+聚集,gather,0.20099768,v.
+精算,actuarial,0.20088871,v.
+签定,sign,0.20073787,v.
+暗访,unannounced visit,0.20022063,v.
+贸易业,trade industry,0.19864331,n.
+审计员,auditor,0.19796368,n.
+求事,ask for help,0.19790366,v.
+理赔,settlement of claim,0.197740113,v.
+办事,work,0.197740113,v.
+隐蔽,hidden,0.19758972,adj.
+中计,be trapped,0.19729694,v.
+肯吃苦,willing to endure hardship,0.19650536,v.
+敬业,dedicated,0.19650508,adj.
+象棋,chess,0.19642578,n.
+勤奋学习,hardworking,0.19639334,adj.
+稳居,retain its position,0.19615353,v.
+中央空调,central air conditioning,0.19595097,n.
+夸大,exaggerate,0.1959069,v.
+开阔,open,0.194915254,adj.
+配套,matching,0.194915254,adj.
+精准,precise,0.194915254,adj.
+肯上,willing to go,0.19446478,v.
+批核,approve,0.19444834,v.
+发财,get rich,0.19413806,v.
+批示,give instructions,0.19324604,v.
+欠缺,lack,0.19284482,v.
+进仓,enter warehouse,0.19243686,v.
+排布,arrange,0.19223169,v.
+市场需求,market demand,0.192090395,n.
+老兵,veteran,0.19206844,n.
+汇集,collect,0.19201561,v.
+解决困难,resolve issues,0.19152797,v.
+觉醒,wake up,0.19136987,v.
+上调,raise,0.19129715,v.
+安治,security,0.19104982,n.
+忠义,loyal,0.19094898,adj.
+纠缠,entangle,0.19088599,v.
+大胆,bold,0.19087231,adj.
+回笼,withdrawal,0.19026383,v.
+与时俱进,keep pace with the times,0.189944134,v.
+国内外,domestic and foreign,0.189944134,adj.
+关键,essential,0.189944134,adj.
+高级顾问,senior consultant,0.189944134,n.
+著名,famous,0.18762325,adj.
+大牛,awesome people,0.18758422,n.
+很快,soon,0.1875,adj.
+胆大,bold,0.18673763,adj.
+引荐,recommend,0.18645624,v.
+整合,integrate,0.186440678,v.
+无限,unlimited,0.186440678,adj.
+随意,random,0.186440678,v.
+聘任,hire,0.186440678,v.
+变动,change,0.186440678,v.
+判读,to read and discriminate,0.18630606,v.
+泳池,swimming pool,0.18585784,n.
+骑行,ride,0.18558142,v.
+上交,hand in,0.18534306,v.
+配备,be equipped with,0.18517092,v.
+畅通,unimpeded,0.1848729,adj.
+完备,complete,0.184357542,v.
+供给,supply,0.184357542,v.
+上锁,be locked,0.18401731,v.
+批发,wholesale,0.18374261,v.
+积极支持,actively support,0.18355115,v.
+绕道,detour,0.18315608,v.
+质询,challenge,0.18292172,v.
+赔偿,compensation,0.18276054,v.
+坐享,sit back and enjoy,0.18232639,v.
+餐饮业,catering,0.18232382,n.
+减持,reduce holdings,0.18196343,v.
+打磨,polished,0.18156451,v.
+精良,excellent,0.18123499,adj.
+落实,carry out,0.18079096,v.
+缴交,hand over,0.18066722,v.
+自强,self-improvement,0.18065173,adj.
+有志气,ambitious,0.17957315,adj.
+行销,marketing,0.17877095,n.
+俯瞰,overlook,0.17845711,v.
+捕捉,capture,0.177966102,v.
+游学,study tour,0.177966102,v.
+减轻,reduce,0.17793817,v.
+热忱,enthusiasm,0.17789993,n.
+骑士,knight,0.17769575,n.
+潜心,concentrate on,0.17751601,v.
+减少,reduce,0.17694676,v.
+杀毒,antivirus,0.17690318,v.
+派送,delivery,0.17688095,v.
+求购,buy,0.17565521,v.
+裸露,expose,0.1756449,v.
+落脚,settle down,0.17464108,v.
+结交,make friends with,0.1744335,v.
+搞钱,make money,0.17434937,v.
+拍卖,auction,0.17428594,v.
+危急,critical,0.17425645,adj.
+接班,take over,0.1742463,v.
+耐性,patience,0.17405534,n.
+喷绘,inkjet,0.17393955,v.
+弹性,elasticity,0.17365481,n.
+大神,god,0.17322835,n.
+凝聚,cohesion,0.17317314,v.
+显赫,prominent,0.17310654,adj.
+坚守,hold one's ground,0.17261742,v.
+优厚,generous,0.17256382,adj.
+欠佳,poor,0.17219441,v.
+上渡,get on the ferry,0.17196581,v.
+服从安排,obey the arrangement,0.17174444,v.
+静待,wait,0.1716585,v.
+涉猎,dabble,0.17136974,v.
+积淀,accumulation,0.17027967,v.
+艰难,difficult,0.17010301,adj.
+转变,change,0.169491525,v.
+包吃,free food,0.169491525,v.
+诚意,sincerity,0.169491525,n.
+领悟力,comprehension,0.169491525,n.
+共创,co-create,0.169491525,v.
+恶臭,stench,0.16913407,n.
+交涉,negotiate,0.16904449,v.
+交行,bank of communications,0.16901287,v.
+上图,above picture,0.16855815,v.
+移交,transfer,0.167597765,v.
+集中,concentrated,0.16747452,v.
+惧怕,fear,0.16732409,v.
+掏钱,to pay,0.16645245,v.
+讲课,lecture,0.16621048,v.
+理货员,tally clerk,0.16591965,n.
+抛洒,sprinkle,0.16559287,v.
+前行,forward,0.16556837,v.
+计划性,planned,0.16537127,n.
+正气,righteousness,0.16519622,n.
+烧录,burning,0.1651732,v.
+构造,structure,0.16477679,v.
+丰沛,plentiful,0.16431304,adj.
+清洗,to clean,0.1630752,v.
+烘干,dry,0.1628342,v.
+考取,pass the exam,0.1622449,v.
+冷暖空调,heating and air conditioning,0.162011173,n.
+朝气,vigorous,0.162011173,adj.
+门外汉,layman,0.16170218,n.
+有名,famous,0.16127306,adj.
+强烈,strong,0.16070474,adj.
+征服,conquer,0.16068152,v.
+起薪,starting salary,0.16042843,n.
+领取,receive,0.1603032,v.
+汲取,absorb,0.1589298,v.
+较广,wider,0.15892962,adj.
+空降,parachute,0.15872991,v.
+交接,handover,0.15847147,v.
+完成,finish,0.15819209,v.
+密集,dense,0.15819209,adj.
+廉洁,incorruptible,0.15797886,adj.
+履行,fulfill,0.15779776,v.
+推导,derive,0.1577561,v.
+受气,be bullied,0.1576683,v.
+责任心,sense of responsibility,0.1576426,n.
+拔擢,promote,0.15761131,v.
+深入,in-depth,0.15706659,v.
+任务分配,task assignment,0.157024793,n.
+品检,quality inspection,0.15664343,n.
+抵制,resist,0.15644705,v.
+稽核,audit,0.156424581,v.
+上门服务,door-to-door service,0.156424581,n.
+佼佼者,the best,0.15454065,n.
+缺陷,defect,0.15432836,v.
+询证,inquire,0.15430377,v.
+拖泥带水,do things sloppily,0.15425464,v.
+清缴,clear,0.15398056,v.
+谋生,make a living,0.15395726,v.
+回签,check back,0.15391501,v.
+登高,climb,0.15382346,v.
+批准,approve,0.153409091,v.
+可行性,feasibility,0.153409091,n.
+财产,property,0.153409091,n.
+上网,go online,0.1532534,v.
+上手,get started,0.15312841,v.
+牵头,take the lead,0.15260372,v.
+进取,enterprising,0.152542373,v.
+合法,legal,0.152542373,adj.
+挥洒,sway,0.15239432,v.
+飞扬,fly upward,0.1518971,v.
+忠诚,loyal,0.1516728,adj.
+评定,assess,0.15131721,v.
+深究,go into (a matter) seriously,0.15125016,v.
+斡旋,mediate,0.15090924,v.
+新锐,young and vigorous,0.1508843,adj.
+推出,roll out,0.150837989,v.
+试制,prototype,0.150837989,v.
+留学,study abroad,0.150837989,v.
+梦想,dream,0.150837989,n.
+耐受,tolerate,0.15003375,adj.
+平稳,smooth,0.14982601,adj.
+极高,very high,0.14941718,adj.
+紧急,urgent,0.14938168,adj.
+不甘,unwilling,0.14935243,adj.
+妥善解决,settle properly,0.14914071,v.
+审批,approval,0.148760331,v.
+高福利,high welfare,0.148760331,n.
+想象力,imagination,0.14826054,n.
+创新性,innovation,0.14798131,n.
+酗酒,alcoholism,0.14787292,v.
+司机,driver,0.14755942,n.
+拼接,put together,0.14729178,v.
+业务人员,business people,0.1469855,n.
+编译,compile,0.14692506,v.
+参考,refer to,0.146892655,v.
+合规性,compliance,0.146892655,n.
+签呈,sign,0.14667551,v.
+求学,go to school,0.14608485,v.
+赚大钱,make a fortune,0.14602152,v.
+拣选,choose,0.14589837,v.
+雏鹰,young eagle,0.14576226,n.
+毗邻,next to,0.14536728,adj.
+洞察,insight,0.145251397,v.
+解除,relieve,0.14473768,v.
+退伍军人,veteran,0.14426555,n.
+吃亏,suffer,0.14413209,v.
+协作,cooperate,0.14352566,v.
+取酬,get paid,0.14328183,v.
+服务行业,service industry,0.14290587,n.
+健儿,athletes,0.14231436,n.
+深厚,deep,0.1421352,adj.
+排版,typeset,0.14184124,v.
+上推,push up,0.14172483,v.
+解放,liberate,0.14171181,v.
+知名,famous,0.141242938,adj.
+管理学,management,0.141242938,n.
+分析,analyze,0.141242938,v.
+搓手,rub one's hands together,0.14009395,v.
+直达,direct,0.139664804,v.
+接入,access,0.139664804,v.
+确保,make sure,0.13850007,v.
+守信,trustworthy,0.13827961,adj.
+退伍,be discharged from military service,0.1380496,v.
+构想,idea,0.13796816,n.
+严苛,harsh,0.13740769,adj.
+健行,hiking,0.13733625,n.
+启示,enlightenment,0.13695712,n.
+维护,maintain,0.136363636,v.
+轻易,easy,0.13623673,adj.
+追踪,track,0.13595293,v.
+运营,operate,0.13559322,v.
+额外,additional,0.13559322,adj.
+信赖,trust,0.13551255,v.
+进退,advance and retreat,0.13470455,v.
+启航,set sail,0.13460775,v.
+混入,mix in,0.13417286,v.
+准则,guideline,0.134078212,n.
+紧跟,follow closely,0.13403075,v.
+便宜,cheap,0.13387785,adj.
+骑手,the rider,0.13352694,n.
+后勤工作,logistics,0.13352502,n.
+低廉,low,0.13349996,adj.
+核准,approve,0.132231405,v.
+思考,think,0.13168337,v.
+反思,reflect,0.13155837,v.
+接洽,contact,0.1312217,v.
+敦促,urge,0.1311738,v.
+关闭,close,0.130681818,v.
+条理性,organized,0.130681818,adj.
+严守,strictly observe,0.13007049,adj.
+寄送,send,0.129943503,v.
+制作,make,0.129943503,v.
+合作,cooperate,0.129943503,v.
+见解,opinion,0.12934538,v.
+扛得住,bear it,0.12923416,v.
+厚实,thick,0.12894056,adj.
+期望,expect,0.12849162,v.
+构成,constitute,0.12849162,v.
+外教,foreign teacher,0.12849162,n.
+思路,train of thought,0.12849162,n.
+公费旅游,incentive travel,0.12849162,n.
+牵开,retract,0.12816051,v.
+苛刻,harsh,0.12776088,adj.
+深刻理解,deep understanding,0.127118644,n.
+救生员,lifeguard,0.12604445,n.
+品行优良,have good conduct,0.12502,v.
+招募,recruit,0.125,v.
+严防,take precautions against,0.12453134,v.
+积极主动,active,0.124293785,adj.
+碰壁,run head against a stone wall,0.1236648,v.
+秉承,uphold,0.12366056,v.
+估算,estimate,0.122905028,v.
+出色,outstanding,0.122905028,adj.
+流动,flow,0.122905028,v.
+更新,renew,0.122905028,v.
+精诚,sincere,0.1224613,adj.
+虚假,fake,0.12236581,adj.
+使劲,exert all one's strength,0.12231,v.
+目击,witnessed,0.12219722,v.
+核发,issued,0.12189842,v.
+回退,go back,0.12151041,v.
+披露,disclosure,0.12096775,v.
+尽职,due diligence,0.12074555,v.
+繁重,heavy,0.12068534,adj.
+平庸,mediocre,0.12061863,adj.
+现役军人,active duty military,0.11943297,n.
+排斥,repel,0.11918636,v.
+扶持,support,0.11889517,v.
+租售,lease and sale,0.118644068,v.
+采用,use,0.118644068,v.
+自学能力,self-study ability,0.118644068,n.
+情报,intelligence,0.118644068,n.
+整编,reorganization,0.11856173,v.
+接见,interview,0.11852487,v.
+护航,convoy,0.11849983,v.
+派生,derived,0.11848397,v.
+逃避,escape,0.11788236,v.
+集采,collect,0.11787445,v.
+划拨,transfer,0.11733114,v.
+正规,regular,0.117318436,adj.
+理解力,understanding,0.117318436,n.
+调配,deploy,0.117318436,v.
+询价,inquiry,0.11719828,v.
+清廉,honest,0.11706036,adj.
+银行业,banking,0.11690834,n.
+取样,sampling,0.1163501,v.
+感应,induction,0.11603764,n.
+嘈杂,noisy,0.11559685,adj.
+精炼,refine,0.11512988,v.
+揽收,collect,0.11511616,v.
+独立,independent,0.114076,adj.
+涉及,involve,0.11356623,v.
+跳出,jump out,0.11301297,v.
+实务,practice,0.11299435,n.
+传授,teach,0.11299435,v.
+拔高,pull up,0.11290083,v.
+种植,plant,0.11272461,v.
+交互,interact,0.11255455,v.
+贤人,sage,0.11246532,n.
+纠纷,dispute,0.111731844,v.
+伙伴,partner,0.111731844,n.
+朝阳,have a sunny exposure,0.111731844,n.
+天才,genius,0.11167489,n.
+盘问,cross-examination,0.111381,v.
+环境优美,nice environment,0.11105539,n.
+交替,alternately,0.11083466,v.
+聚齐,get together,0.11078938,v.
+妥当,appropriate,0.110169492,adj.
+调查,investigate,0.110169492,v.
+勤于,diligent,0.10948946,adj.
+成功,success,0.10936967,adj.
+隐匿,hide,0.10923446,v.
+上阵,go into battle,0.10900532,v.
+汇成,converge into,0.10890214,v.
+激活,activate,0.10861933,v.
+塌实,steady and sure,0.10815244,adj.
+签发,issued,0.10797207,v.
+争创,create,0.10730831,v.
+满足,satisfy,0.10725035,v.
+复杂,complex,0.10642694,adj.
+餐饮行业,food industry,0.1062725,n.
+骄傲,pride,0.106145251,adj.
+明确,clear,0.106145251,adj.
+严谨,rigorous,0.10607225,adj.
+清算,liquidate,0.10554134,v.
+衡量,measure,0.10553023,v.
+良好,good,0.10546701,adj.
+纺纱工,spinner,0.10539348,n.
+凝练,concise,0.10508361,v.
+吸毒,drug,0.10456761,v.
+计划,plan,0.10427034,n.
+保护,protect,0.10422815,v.
+仓管员,warehouse clerk,0.10421095,n.
+教改,education reform,0.10413683,v.
+旺盛,exuberant,0.10407211,adj.
+法医,forensic,0.10395268,n.
+健全,sound,0.10306893,adj.
+模糊,vague,0.10294255,adj.
+稳健,steady,0.10293092,adj.
+申办,apply to host,0.10262335,v.
+较远,farther away,0.10231249,adj.
+检讨,review,0.10212653,v.
+解释,explain,0.10192936,v.
+进货,purchase,0.10191455,v.
+坚持,persist in,0.1018554,v.
+探寻,explore,0.10180896,v.
+安检,security check,0.10174025,v.
+灵活处理,flexibly hand,0.101694915,v.
+充足,adequate,0.101694915,adj.
+先锋,pioneer,0.1012248,n.
+亲临,in person,0.10111422,v.
+划定,delineate,0.10102522,v.
+共享,shared,0.10102337,adj.
+巩固,consolidate,0.10083419,v.
+自主,independent,0.10067892,adj.
+省内外,inside and outside the province,0.100558659,n.
+自发,spontaneous,0.10047674,adj.
+打破,break in,0.10046348,v.
+法律,law,0.10023589,n.
+特殊,special,0.1001476,adj.
+稳妥,safe,0.09994941,adj.
+培植,cultivate,0.09958183,v.
+蹉跎,wasted,0.09948869,v.
+后勤保障,logistic support,0.09935853,n.
+抢购,snap up,0.09905416,v.
+理性,rationality,0.09823892,n.
+坚定,firm,0.09770987,v.
+争执,dispute,0.09746504,v.
+交纳,pay,0.09714208,v.
+探讨,explore,0.09699046,v.
+积累,accumulation,0.096045198,v.
+共同完成,complete together,0.096045198,v.
+秘书长,secretary general,0.09586534,n.
+确属,indeed belong,0.09543487,v.
+小组长,group leader,0.09537839,n.
+弥补,make up,0.09526105,v.
+主宰,dominate,0.09519952,v.
+坚韧,tough and tensile,0.09496642,adj.
+画师,painter,0.09466441,n.
+拖沓,procrastination,0.09431904,n.
+急促,rapid,0.09322581,adj.
+展望,outlook,0.09209999,v.
+硬朗,tough,0.09128494,adj.
+携带,carry,0.09094248,v.
+重要,important,0.090909091,adj.
+荣获,be awarded,0.090909091,v.
+吹牛皮,brag,0.09050968,v.
+促成,contributed to,0.09039548,v.
+优胜,winning,0.09035764,v.
+广告业,advertising,0.08984137,n.
+具备,have,0.08964482,v.
+确立,establish,0.0895689,v.
+明白,clear,0.089385475,adj.
+坚毅,firm and persistent,0.08913715,adj.
+审核员,auditor,0.08895759,n.
+值班,on duty,0.08846294,v.
+勇毅,brave and persistent,0.08836647,adj.
+方便,convenient,0.08834736,adj.
+驯化,domesticated,0.08834142,adj.
+耐劳,hard-working,0.08785092,adj.
+可靠,reliable,0.08775426,adj.
+配发,allotment,0.08754181,v.
+成败,success or failure,0.08741518,n.
+进销,restocking and selling,0.08714592,v.
+粗犷,rough,0.08679859,adj.
+简练,concise,0.08679194,adj.
+清退,clear out,0.08669561,v.
+抗拒,resist,0.08632856,v.
+军人,soldier,0.0862781,n.
+游泳池,swimming pool,0.08619572,n.
+繁忙,busy,0.08520885,adj.
+宽阔,wide,0.0848185,adj.
+促销员,promoter,0.08464295,n.
+强健,strong,0.08391502,adj.
+积极态度,positive attitude,0.0838154,n.
+广告投放,advertising,0.082644628,n.
+守诺,keep promise,0.08260394,v.
+消极,negative,0.08259575,adj.
+游泳场,swimming pool,0.0821817,n.
+引流,drainage,0.08213636,v.
+迁徙,migrate,0.08193342,v.
+容忍,tolerate,0.08160564,v.
+喧哗,the noise,0.08045801,v.
+歧视,discriminate,0.0799529,v.
+浸泡,soak,0.07984724,v.
+勤恳,diligent,0.07971642,adj.
+坚信,firmly believe,0.07923935,v.
+成功人士,successful people,0.07919854,n.
+诚实,honest,0.079096045,adj.
+摈弃,abandon,0.07748526,v.
+消除,eliminate,0.07669809,v.
+紧密,closed,0.07655973,adj.
+贯穿,run through,0.07654514,v.
+忠于, be loyal to,0.076271186,v.
+充满活力,energetic,0.076271186,adj.
+勾心斗角,intrigue against each other,0.07620709,v.
+抉择,choose,0.07482081,v.
+灵通,well-informed,0.07390033,adj.
+电子商务,e-commerce,0.073446328,n.
+诱惑,tempt,0.07337677,v.
+诞生,be born,0.07300056,v.
+喧嚣,noisy,0.07269274,v.
+擅于,be good at,0.072625698,v.
+血气,hot-blooded,0.07181162,adj.
+查核,check,0.06983786,v.
+透彻,lucid,0.06929205,v.
+审计,audit,0.06888578,v.
+话务员,operator,0.06873359,n.
+决算,final accounts,0.06840847,v.
+洽谈,negotiate,0.06823662,v.
+秉持,uphold,0.06820745,v.
+贤才,talent,0.06717663,n.
+坚强,strong,0.06625992,adj.
+专任教师,full-time teachers,0.06585037,n.
+怀揣,carry,0.06566548,v.
+理清,sort out,0.06539873,v.
+辛勤工作,work hard,0.06476658,v.
+勤苦,industrious and hardworking,0.06458742,adj.
+抛开,put aside,0.06449509,v.
+才子,wit,0.06339098,n.
+奉献,dedicate,0.06333078,v.
+迫切,urgent,0.06213887,adj.
+划算,worthwhile,0.06211443,v.
+盛名,great reputation,0.06175484,n.
+摇摆,sway,0.06150597,v.
+正派,upright,0.06146898,n.
+盘存,take inventory,0.061452514,v.
+缓存,cache,0.061452514,v.
+协同工作,collaborative work,0.061452514,n.
+承诺,promise,0.06074933,v.
+忍受,bear,0.06059988,v.
+稀缺,scarce,0.06030605,adj.
+纯粹,pure,0.05912966,adj.
+吹风,blow,0.05887288,v.
+辜负,let down,0.05821281,v.
+户外工作,work outdoors,0.05753539,n.
+接招,take it,0.05685396,v.
+徘徊,wander,0.05674863,v.
+奋斗者,struggler,0.05671361,n.
+刻盘,record,0.05644162,v.
+关连,relevance,0.05475898,v.
+见识,experience,0.05433208,n.
+编制,compile,0.05355937,v.
+遴选,select,0.05338339,v.
+呐喊,shout,0.05317207,v.
+初心,original intention,0.05211076,n.
+扶贫,poverty alleviation,0.05190492,v.
+灵活运用,flexible application,0.05189626,n.
+记载,record,0.05169281,v.
+受骗,be deceived,0.05108976,v.
+广告行业,advertising industry,0.05101762,n.
+汇编,compile,0.05091152,v.
+支付,to pay,0.050847458,v.
+玩转,have fun,0.05076453,v.
+真实有效,true and effective,0.05027933,adj.
+伙食,food,0.05027933,n.
+通畅,unobstructed,0.049586777,adj.
+启用,enable,0.0490492,v.
+渴望,eager,0.04897746,v.
+商讨,discuss,0.04688169,v.
+讲评,comment and appraise,0.04656213,v.
+国王,king,0.04648971,n.
+推断,infer,0.04636766,v.
+沉闷,boring,0.04588201,adj.
+联想,connect in the mind,0.04560244,v.
+开具,issued,0.045454545,v.
+理解能力,comprehension,0.045454545,n.
+分析师,analyst,0.045454545,n.
+医疗险,medical insurance,0.04519774,n.
+态度端正,correct attitude,0.044692737,n.
+积极,positive,0.044692737,adj.
+弥合,to bridge,0.04251331,v.
+阐述,explain,0.041322314,v.
+条理分明,organized,0.04042079,adj.
+传承,inherit,0.03982212,v.
+知晓,know,0.039772727,v.
+公平,fair,0.03953244,adj.
+社会保障,social security,0.039106145,n.
+规划师,planner,0.039106145,n.
+短暂,short,0.03828932,adj.
+身体力行,set an example by personally taking part,0.03823652,v.
+优秀,excellent,0.03778542,adj.
+执著,persistent,0.03692208,adj.
+散漫,undisciplined,0.03641636,adj.
+忠实,loyal,0.03637376,adj.
+赞赏,appreciate,0.03568655,v.
+乐趣,pleasure,0.0353497,n.
+虚伪,hypocritical,0.03534881,adj.
+服从,obey,0.03490186,v.
+自检,self-test,0.033898305,v.
+分配,distribute,0.033898305,v.
+自觉遵守,consciously obey,0.033519553,v.
+担负,take on,0.03337272,v.
+敬职,dedicated,0.03332112,v.
+君子,gentleman,0.03317896,n.
+理顺,straighten out,0.03259192,v.
+敞开,wide open,0.03230312,v.
+出国,go abroad,0.03225785,v.
+郁闷,depressed,0.03224858,adj.
+交换,exchange,0.03196514,v.
+精确,accurate,0.03025629,adj.
+孵化,incubate,0.02947801,v.
+涉税,tax related,0.02942283,v.
+传播,spread,0.028248588,v.
+擦肩,rub shoulders,0.0280753,v.
+纠正,correct,0.027932961,v.
+经纪人,broker,0.027932961,n.
+多样,diverse,0.027932961,adj.
+卖力,work hard,0.02790223,v.
+翻新,renovate,0.02783658,v.
+汇缴,remittance,0.02672654,v.
+组接,assemble,0.02658185,v.
+轰动,sensation,0.02602525,v.
+高尚,noble,0.025423729,adj.
+出国游,travel abroad,0.0249003,n.
+沉着,calm,0.02458336,v.
+交办,hand over,0.02453696,v.
+匹配,match,0.02449641,v.
+录取,admission,0.02413607,v.
+松弛,relaxed,0.02385539,adj.
+称兄道弟,address/treat each other as brothers,0.02365841,v.
+挽回,redeem,0.02307208,v.
+有条理,organized,0.02259887,adj.
+小组活动,group activity,0.02259887,n.
+预订,booking,0.022346369,v.
+隐含,implied,0.02209231,v.
+邀请,invite,0.02150433,v.
+配伍,compatibility,0.02108636,v.
+业务员,clerk,0.02093088,n.
+划分,divide,0.02089122,v.
+检验员,inspectors,0.02079438,n.
+烧烤,barbecue,0.02033969,v.
+揭示,reveal,0.01973658,v.
+简化,simplify,0.01971889,v.
+拜访,visit,0.01951208,v.
+枯燥,dull,0.01949183,adj.
+尽责,conscientious,0.01946101,v.
+复员军人,demobilized soldiers,0.01945395,n.
+畅游,swim,0.0183227,v.
+浓厚,strong,0.01825085,adj.
+据说,reputedly,0.01815477,v.
+建制,establishment,0.01784585,n.
+归纳,summarize,0.01769036,v.
+正确,correct,0.017045455,adj.
+统计数据,count,0.017045455,v.
+缴费,pay the fees,0.016949153,v.
+住校,board at school,0.016949153,v.
+上传下达,upload and release,0.016949153,v.
+流程,process,0.016949153,n.
+编制工作,preparation work,0.016949153,n.
+繁荣,prosperous,0.01607869,adj.
+抽烟,smoke,0.01607177,v.
+抱怨,complain,0.01598451,v.
+感悟力,perception,0.01597813,n.
+筹备,prepare,0.01567508,v.
+签报,signed report,0.01525816,v.
+让步,compromise,0.01481834,v.
+吃香,popular,0.01453052,v.
+化解,resolve,0.01401733,v.
+追梦,chase dreams,0.01349653,v.
+追求,pursue,0.01327762,v.
+帮扶,help,0.01300794,v.
+乐于,be glad to,0.01220244,v.
+翻身,turn over,0.01213556,v.
+转业军人,demobilized soldiers,0.01193093,n.
+控制情绪,control emotion,0.01148116,v.
+复核,review,0.011363636,v.
+缓解,ease,0.01082948,v.
+摆脱,get rid of,0.00999293,v.
+吸引,attract,0.00973126,v.
+共勉,mutual encouragement,0.0095919,v.
+吸烟,smoke,0.00922607,v.
+谦虚,modest,0.00884226,adj.
+丰盛,rich,0.008474576,adj.
+颠覆,subvert,0.00831745,v.
+国内,domestic,0.008264463,adj.
+真实感,realism,0.0081195,n.
+归拢,gather together,0.00810431,v.
+至尊,supreme,0.00800336,adj.
+精于,be proficient in,0.00776565,adj.
+强调,emphasize,0.00743025,v.
+高发,high incidence,0.00667166,v.
+奉行,pursue,0.00606935,v.
+解冻,thaw,0.00601765,v.
+签名,sign,0.00581962,v.
+接收,take over,0.00580739,v.
+合格,qualified,0.005649718,adj.
+营业部,sales department,0.005586592,n.
+执着,persistent,0.00531186,adj.
+抛弃,abandon,0.00504762,v.
+繁华,bustling,0.00381338,adj.
+求变,seek change,0.00377432,v.
+苦闷,depressed,0.00353993,adj.
+协助,assist,0.00346447,v.
+烦扰,bother,0.00345083,v.
+庆幸,rejoice,0.00300427,v.
+煮熟,cooked,0.00224406,v.
+上课,attend class,0.00221433,v.
+慎密,careful,0.00193476,adj.
+捐献,donate,0.00178595,v.
+顾及,take into account,0.00176602,v.
+休养,recuperate,0.0007404,v.
+倡导,advocate,0.00030856,v.
