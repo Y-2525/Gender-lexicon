@@ -1,4 +1,307 @@
 ﻿Gender words in Chinese,Gender words in English,Gender scores,Part of Speech
+美丽,Beautiful,-1.396694215,adj.
+细心,Careful,-1.245810056,adj.
+单纯,Simple,-1.106145251,adj.
+敏感,Sensitive,-1.008474576,adj.
+可爱,Cute,-0.96699276,adj.
+美观,Beautiful,-0.893854749,adj.
+俏皮,Pretty And Cute,-0.82433505,adj.
+甜美,Sweet,-0.81536729,adj.
+漂亮,Pretty,-0.78605512,adj.
+艳丽,Gorgeous,-0.76313089,adj.
+体弱,Frail,-0.754237288,adj.
+端庄,Dignified,-0.75271731,adj.
+清新,Fresh,-0.69851341,adj.
+精致,Delicate,-0.69779928,adj.
+温柔,Gentle,-0.69699601,adj.
+迷人,Charming,-0.67766992,adj.
+知书达礼,Cultured,-0.67453795,adj.
+细腻,Exquisite,-0.64065687,adj.
+善良,Kind,-0.619318182,adj.
+细致,Meticulous,-0.61919143,adj.
+好看,Good-Looking,-0.61096793,adj.
+幸福,Happiness,-0.59936912,n.
+贴心,Intimate,-0.59885469,adj.
+娇贵,Delicate,-0.59633605,adj.
+雅致,Elegant,-0.58039674,adj.
+耐看,Good-Looking,-0.57729504,adj.
+优雅,Grace,-0.57381905,adj.
+用心,Attentive,-0.558659218,adj.
+快乐,Happiness,-0.53222386,adj.
+清雅,Elegant,-0.52698576,adj.
+怀孕,Became Pregnant,-0.52165591,v.
+动听,Pleasant To Listen To,-0.5121948,adj.
+优美,Graceful,-0.50181087,adj.
+愉悦,Happy,-0.498627,adj.
+得体,Decent,-0.49540282,adj.
+仔细,Careful,-0.494318182,adj.
+柔和,Soft,-0.48143301,adj.
+魅力,Charm,-0.480446927,n.
+尤佳,Excellent,-0.479338843,adj.
+乐活,Lifestyles Of Health And Sustainability,-0.46929509,adj.
+伶俐,Smart,-0.46496459,adj.
+周到,Thoughtful,-0.46350598,adj.
+丰满,Chubby,-0.45680001,adj.
+舒服,Comfortable,-0.45358084,adj.
+健康,Health,-0.45178241,n.
+欢乐,Joy,-0.44474599,n.
+活泼,Lively,-0.43718225,adj.
+珍爱,Cherish,-0.43116,v.
+好吃,Tasty,-0.42506823,adj.
+青春活力,Young And Energetic,-0.41514915,adj.
+脾气好,Have A Good Temper,-0.41290505,adj.
+善待,Be Kind,-0.41138829,v.
+愉快,Joy,-0.41000093,adj.
+健谈,Talkative,-0.4015272,adj.
+开心,Happy,-0.40105946,adj.
+拘谨,Cautious,-0.39965549,adj.
+亲和,Affinity,-0.38711592,adj.
+惊喜,Surprise,-0.38378229,adj.
+性格开朗,A Cheerful Disposition,-0.38364225,n.
+室内,Indoor,-0.380165289,adj.
+听话,Obedient,-0.37792638,adj.
+搞笑,Funny,-0.37636766,adj.
+口齿清楚,Have Clear Enunciation,-0.372881356,n.
+美好,Good,-0.37019782,adj.
+完美,Perfect,-0.36993944,adj.
+亲爱,Dear,-0.368888,adj.
+快快乐乐,Happy,-0.36508233,adj.
+大方,Generous,-0.36251611,adj.
+有趣,Interesting,-0.36111948,adj.
+洁癖,Cleanliness,-0.35966589,n.
+最美,The Most Beautiful,-0.35743863,adj.
+性格内向,Introverted,-0.3563156,adj.
+懵懂,Ignorant,-0.35278255,adj.
+幽默,Humor,-0.3523554,n.
+诚恳,Sincere,-0.34993217,adj.
+清凉,Cool,-0.3486448,adj.
+肥胖,Obesity,-0.34843528,adj.
+性格外向,Extroverted,-0.34815388,adj.
+精美,Fine,-0.34606654,adj.
+丰俭,Frugal,-0.34287476,adj.
+亲切,Kind,-0.33768356,adj.
+勤快,Diligent,-0.33471276,adj.
+感性,Sensitive,-0.33302568,adj.
+谨慎,Cautious,-0.329608939,adj.
+忧愁,Sad,-0.32760193,adj.
+浓郁,Full-Bodied,-0.32468481,adj.
+欢快,Happy,-0.32441688,adj.
+心善,Kindness,-0.32276467,adj.
+文明礼貌,Civility And Courtesy,-0.32130912,n.
+匀称,Well-Proportioned,-0.31663101,adj.
+聪明,Clever,-0.31165028,adj.
+严肃认真,Serious,-0.31143892,adj.
+忠厚,Honest,-0.30832349,adj.
+亲善,Goodwill,-0.30757163,adj.
+耐心,Patience,-0.30717834,n.
+聪慧,Intelligent,-0.30328278,adj.
+邋遢,Sloppy,-0.30322351,adj.
+体恤,Sympathized with,-0.30252149,v.
+悦耳,Melodious,-0.29770917,adj.
+迥异,Very Different,-0.29337515,adj.
+真诚,Sincere,-0.2932827,adj.
+难过,Sad,-0.29247392,adj.
+尊贵,Distinguished,-0.29184273,adj.
+难搞,Difficult to deal with,-0.29178398,v.
+身孕,Pregnancy,-0.2883412,n.
+明亮,Bright,-0.28791502,adj.
+感恩,Grateful,-0.28322514,adj.
+合拍,In Step,-0.27647577,adj.
+团结,Unite,-0.27456333,adj.
+好听,Pleasant To Hear,-0.27259384,adj.
+能说会道,Articulate,-0.26706785,adj.
+轻松,Easy,-0.26620544,adj.
+人性化,Humanity,-0.26025299,n.
+尴尬,Awkward,-0.25786586,adj.
+融洽,Harmony,-0.25751819,n.
+幽默诙谐,Humorous,-0.2572699,adj.
+焦虑,Anxiety,-0.25416617,adj.
+醒目,Eye-Catching,-0.25212598,adj.
+爽朗,Hearty,-0.25083547,adj.
+滋补,replenishing,-0.24860682,v.
+整洁,Tidy,-0.24680378,adj.
+低调,Low-Profile,-0.24603251,adj.
+惬意,Cozy,-0.24429921,adj.
+沉稳,Steady,-0.24398319,adj.
+大舌头,A Thick-Tongued Person,-0.2439491,n.
+机灵,Clever,-0.24370639,adj.
+喜悦,Joy,-0.24293868,n.
+好奇,Curious,-0.24005958,adj.
+受欢迎,Popular,-0.23972239,adj.
+保守,Conservative,-0.23941468,adj.
+随和,Amiable,-0.238636364,adj.
+好玩,Fun,-0.23802955,adj.
+平易近人,Easy To Get Along With,-0.23567133,adj.
+舒心,Comfortable,-0.23441461,adj.
+谦恭,Humble,-0.23105662,adj.
+专用,Dedicated,-0.228813559,adj.
+轻轻松松,Easily,-0.22768094,adj.
+忙碌,Busy,-0.22345462,adj.
+谦逊,Humble,-0.22059018,adj.
+轻松自由,Easy And Free,-0.21941285,adj.
+谦和,Humble,-0.21689443,adj.
+温和,Mild,-0.21572385,adj.
+平淡,Dull,-0.21291348,adj.
+奢华,Luxurious,-0.21250062,adj.
+亲密,Close,-0.20975821,adj.
+敏感性,Sensitivity,-0.20946708,n.
+灵活,Flexible,-0.209039548,adj.
+热闹,Boisterous,-0.20807052,adj.
+健美,Strong And Handsome,-0.20408084,adj.
+仪表堂堂,Dignified In Appearance,-0.20304315,n.
+烦恼,Be Worried,-0.20015967,v.
+慎重,Careful,-0.1995195,adj.
+流行,Popular,-0.19836217,adj.
+低俗,Vulgar,-0.19488197,adj.
+幽雅,Quiet And Tastefully Laid Out,-0.19406663,adj.
+陌生,Strange,-0.19318153,adj.
+诚挚,Sincere,-0.19207797,adj.
+关切,Concern,-0.19057172,adj.
+珍惜,Cherish,-0.18911715,adj.
+严肃,Serious,-0.1883928,adj.
+专属,Exclusive,-0.184357542,adj.
+平和,Peaceful,-0.18388187,adj.
+年轻,Young,-0.17952945,adj.
+舒适,Comfortable,-0.17622504,adj.
+矫情,Hypocritical,-0.17617852,adj.
+独特,Unique,-0.17372427,adj.
+简洁,Concise,-0.17349157,adj.
+友好,Friendly,-0.1728935,adj.
+知恩,Be Grateful,-0.17132664,v.
+豁达,Open And Clear,-0.17129198,adj.
+端正,Upright,-0.17010625,v.
+情绪稳定,Emotionally Stable,-0.16923961,adj.
+灵动,Agile,-0.16817228,adj.
+彷徨,Hesitating,-0.16625433,adj.
+稳重,Steady,-0.16386151,adj.
+饱满,Full,-0.16142945,adj.
+有钱,Rich,-0.1594912,adj.
+宽容,Tolerant,-0.15784863,adj.
+解说,Commentate,-0.15775722,adj.
+俱佳,Excellent,-0.15561952,adj.
+奇怪,Strangeness,-0.15479462,adj.
+任性,Capricious,-0.15115053,adj.
+担当,In Charge,-0.14964933,v.
+苦恼,Distress,-0.14870822,n.
+犯困,Be Sleepy,-0.14802039,v.
+窘迫,Embarrassed,-0.14765902,adj.
+困惑,Puzzled,-0.1474284,adj.
+自闭,Autistic,-0.14633496,adj.
+繁复,Complicated,-0.14454845,adj.
+强为,Strong For,-0.13949567,v.
+主见,Opinionated,-0.13576724,adj.
+如意,Wishful,-0.1345423,adj.
+睿智,Wise,-0.13213642,adj.
+好动,Active,-0.13170347,adj.
+心细,Careful,-0.13159774,adj.
+奇妙,Wonderful,-0.13154317,adj.
+缜密,Meticulous,-0.13131672,adj.
+阔绰,Extravagant,-0.12809675,adj.
+贫穷,Poverty,-0.1273376,n.
+单独,Alone,-0.127118644,adj.
+谙熟,Be Familiar With,-0.12342529,v.
+和谐,Harmony,-0.122905028,v.
+平常,Usually,-0.11897825,adj.
+妥善,Proper,-0.11893083,adj.
+友爱,Friendliness,-0.11671446,n.
+奢侈,Luxury,-0.11620825,n.
+平安,Safety,-0.11199675,adj.
+干净,Clean,-0.11185334,adj.
+放心,Rest Assured,-0.106145251,v.
+更佳,Better,-0.10576523,adj.
+乏味,Tedious,-0.1049791,adj.
+冷静,Calm,-0.10203324,adj.
+孤独,Lonely,-0.10190279,adj.
+透明,Transparent,-0.101694915,adj.
+聪敏,Smart,-0.10083366,adj.
+可敬,Respectable,-0.09914598,adj.
+巧妙,Clever,-0.09836088,adj.
+寂寞,Loneliness,-0.09543518,n.
+富有,Rich,-0.09234341,adj.
+鲜明,Distinct,-0.09176225,adj.
+热心,Enthusiastic,-0.08989611,adj.
+境内,Within the Territory,-0.089385475,n.
+宽松,Loose,-0.088441,adj.
+饱含,Be Full Of,-0.08753519,v.
+敞亮,Light And Spacious,-0.08557331,adj.
+乐观,Optimism,-0.08554633,adj.
+赋有,Endowed With,-0.08510122,v.
+鸟语花香,Singing Birds And Fragrance Of Flowers,-0.08481722,n.
+机敏,Smart,-0.084745763,adj.
+富足,Rich,-0.08333867,adj.
+友善,Friendly,-0.07852838,adj.
+独到,Unique,-0.07795612,adj.
+守时,Be Punctual,-0.076271186,adj.
+浮躁,Impetuous,-0.07407605,adj.
+紧张,Nervous,-0.0720666,adj.
+神秘,Mystery,-0.07157414,adj.
+干练,Capable,-0.07116874,adj.
+勤劳,Diligent,-0.07103187,adj.
+直率,Outspoken,-0.06987875,adj.
+新颖,Novel,-0.06973799,adj.
+繁杂,Complicated,-0.06779438,adj.
+勤俭,Thrifty,-0.06597683,adj.
+繁琐,Cumbersome,-0.06570235,adj.
+靠谱,Reliable,-0.06375369,adj.
+简单,Simple,-0.06340634,adj.
+坦诚,Candid,-0.06304789,adj.
+假大空,Engage In False Big And Empty Talks,-0.06202001,n.
+耀眼,Dazzling,-0.06178765,adj.
+简明,Concise,-0.06163012,adj.
+稳定,Stabilize,-0.061452514,adj.
+激动,Excited,-0.06026539,adj.
+怯场,Stage Fright,-0.0600061,v.
+富裕,Rich,-0.05664021,adj.
+辛苦,Hard,-0.05419569,adj.
+厚大,Thick,-0.05319786,adj.
+优渥,Generous,-0.05221912,adj.
+平等,Equality,-0.05082453,adj.
+包容,Tolerate,-0.05077316,adj.
+清白,Clean,-0.05009193,adj.
+乐善,Goodness,-0.0500491,adj.
+开放,Open,-0.04968716,adj.
+呆滞,Sluggish,-0.049617,adj.
+敏锐,Keen,-0.04867447,adj.
+品行好,Good Conduct,-0.04461934,n.
+不愁,Not Worry,-0.04388066,v.
+热情,Enthusiasm,-0.04243139,n.
+充满热情,Full Of Enthusiasm,-0.0423828,adj.
+热爱,Love,-0.04227594,v.
+成熟,Mature,-0.04179116,adj.
+外向,Outgoing,-0.04161861,adj.
+活力,Hold In Esteem,-0.03982084,adj.
+怀着,Be Filled With,-0.03707966,v.
+清晰,Clear,-0.03211256,adj.
+偏高,High,-0.02772719,adj.
+极富,Extremely Rich,-0.02737855,adj.
+泼辣,Pungent,-0.02634813,adj.
+较佳,Better,-0.02585111,adj.
+内向,Introverted,-0.02550239,adj.
+可疑,Suspicious,-0.02510393,adj.
+火爆,Hot,-0.02154178,adj.
+开明,Enlightened,-0.02129677,adj.
+厌倦,Be Bored,-0.02082263,v.
+癫狂,Madness,-0.01929123,adj.
+活着,Alive,-0.01909174,v.
+安稳,Stable,-0.01850431,adj.
+较真,TRUE,-0.01743673,adj.
+平凡,Ordinary,-0.017045455,adj.
+充盈,Filling,-0.01668184,adj.
+害怕,Fear,-0.01641171,v.
+着重,Emphatically,-0.01635053,adj.
+兴奋,Excited,-0.01393725,adj.
+明晰,Clear,-0.01299996,v.
+极易,Extremely Easy,-0.01214949,adj.
+容易,Easy,-0.01202928,adj.
+清醒,Awake,-0.01087685,adj.
+热诚,Sincerely,-0.00932307,adj.
+颓废,Decadent,-0.00591828,adj.
+预期,Expectation,-0.005586592,n.
+极佳,Excellent,-0.00503715,adj.
+简易,Simple,-0.00427671,adj.
+传奇,Legend,-0.00209243,n.
+娴熟,Skilled,-0.00190655,adj.
+丰富,Rich,-0.00072389,adj.
 姨妈假,Menstrual Leave,-2,n.
 生子,Give Birth,-2,n.
 女生宿舍,Female Dormitory,-2,n.
@@ -13,689 +316,541 @@
 女士,Miss,-2,n.
 美容,Beauty,-1.642458101,n.
 育婴师,Infant Care,-1.581920904,n.
-美丽,Beautiful,-1.396694215,adj.
 古筝,Guzheng,-1.368715084,n.
 奶茶,Milk Tea,-1.279329609,n.
 护理学,Nursing Major,-1.279329609,n.
-细心,Careful,-1.245810056,adj.
 舞蹈,Dance,-1.206703911,n.
 文秘,Secretary,-1.169491525,n.
 护理,Nursing,-1.15819209,n.
 护师,Nurse,-1.152542373,n.
 宝宝,Baby,-1.145251397,n.
-单纯,Simple,-1.106145251,adj.
 气质,Temperament,-1.079096045,n.
 服装,Clothing,-1.044692737,n.
 师范类,Teacher Training,-1.033519553,n.
-敏感,Sensitive,-1.008474576,adj.
-可爱,Cute,-0.96699276,adj.
 客服,Customer Service,-0.966101695,n.
 妈妈,Mother,-0.95034707,n.
 商务礼仪,Business Etiquette,-0.949152542,n.
 宝贝,Baby,-0.93220339,n.
-陪护,Escort,-0.923728814,v.
 文艺活动,Cultural Activity,-0.897727273,n.
-美观,Beautiful,-0.893854749,adj.
-装扮,Dress Up,-0.87083901,v.
 医护,Medical Care,-0.854748603,n.
 护士,Nurse,-0.83732862,n.
 奢侈品,Luxury,-0.830508475,n.
-俏皮,Pretty And Cute,-0.82433505,adj.
 家庭,Family,-0.82122905,n.
-甜美,Sweet,-0.81536729,adj.
 保育员,Nurse,-0.80912824,n.
-生小孩,Give Birth To A Child,-0.8061386,n.
-卸妆,Remove Makeup,-0.80053156,v.
+生小孩,Give Birth To A Child,-0.8061386,v.
 形象气质,Image Temperament,-0.798882682,n.
 色彩,Color,-0.787709497,n.
-漂亮,Pretty,-0.78605512,adj.
 彩妆,Makeup,-0.78601563,n.
 骨感,Skinny,-0.77956372,n.
-配饰,Accessories,-0.77666958,v.
-护发,Hair Care,-0.77333117,v.
-艳丽,Gorgeous,-0.76313089,adj.
-育才,Cultivate Talents,-0.762711864,n.
+育才,Cultivate Talents,-0.762711864,v.
 甜品,Dessert,-0.75669354,n.
 蝴蝶结,Bow-Knot,-0.75538552,n.
-体弱,Frail,-0.754237288,adj.
 会计专业,Accounting,-0.754237288,n.
-端庄,Dignified,-0.75271731,adj.
 主播,Streamer,-0.748603352,n.
-服装设计,Clothing Design,-0.748603352,n.
+服装设计,Clothing Design,-0.748603352,v.
 人母,Mother,-0.74840807,n.
-美化,Beautify,-0.74301676,n.
-照顾,Take Care Of,-0.73911144,v.
+美化,Beautify,-0.74301676,v.
 仪态,Deportment,-0.73418813,n.
 美学,Aesthetics,-0.726256983,n.
-呵护,Take Care Of,-0.72130804,v.
 形象,Image,-0.717514124,n.
 儿童,Child,-0.715083799,n.
 接待工作,Reception,-0.711864407,n.
-清新,Fresh,-0.69851341,adj.
-精致,Delicate,-0.69779928,adj.
-温柔,Gentle,-0.69699601,adj.
 姐姐,Elder Sister,-0.69657433,n.
 准妈妈,Mother-To-Be,-0.68985208,n.
 孩子,Kid,-0.686440678,n.
-迷人,Charming,-0.67766992,adj.
-新婚,Newly Married,-0.67766956,v.
-知书达礼,Cultured,-0.67453795,adj.
 营业员,Salesperson,-0.672316384,n.
-做饭,Cook,-0.670391061,v.
-着装,Dress,-0.66384315,v.
 美食,Food,-0.661016949,n.
 六一儿童节,Children'S Day,-0.659217877,n.
 茶话会,Tea Party,-0.64356398,n.
-细腻,Exquisite,-0.64065687,adj.
 护士长,Head Nurse,-0.63247339,n.
 安静,Quiet,-0.620111732,n.
-善良,Kind,-0.619318182,adj.
-细致,Meticulous,-0.61919143,adj.
-记帐,Bookkeeping,-0.618644068,n.
+记帐,Bookkeeping,-0.618644068,v.
 婚恋,Marriage,-0.61851465,n.
-好看,Good-Looking,-0.61096793,adj.
 生日礼品,Birthday Gift,-0.603351955,n.
-幸福,Happiness,-0.59936912,adj.
-贴心,Intimate,-0.59885469,adj.
-染发,Hair Dye,-0.5973147,v.
-娇贵,Delicate,-0.59633605,adj.
 咨询服务,Consulting Service,-0.593220339,n.
-美术设计,Art Design,-0.587570621,v.
 儿童节,Children'S Day,-0.58677686,n.
-雅致,Elegant,-0.58039674,adj.
-育儿,Parenting,-0.57885248,n.
-耐看,Good-Looking,-0.57729504,adj.
+育儿,Parenting,-0.57885248,v.
 厨房,Kitchen,-0.576271186,n.
-优雅,Grace,-0.57381905,adj.
-用心,Attentive,-0.558659218,adj.
 姐妹,Sisters,-0.55363258,n.
 婴儿,Baby,-0.550847458,n.
 审美观念,Aesthetic Standards,-0.54946448,n.
 成本会计,Cost Accounting,-0.541899441,n.
 甜点,Dessert,-0.54060083,n.
 专业英语,Professional English,-0.536312849,n.
-讲究卫生,Pay Attention To Hygiene,-0.53507485,n.
+讲究卫生,Pay Attention To Hygiene,-0.53507485,v.
 特护,Special Nurse,-0.53402856,n.
 婚嫁,Marriage,-0.53327716,n.
-快乐,Happiness,-0.53222386,adj.
 营养师,Nutritionist,-0.53034154,n.
-清雅,Elegant,-0.52698576,adj.
-怀孕,Pregnant,-0.52165591,adj.
-拼盘,Make Dish,-0.51630661,v.
 珍珠奶茶,Bubble Tea,-0.51362949,n.
-动听,Pleasant To Listen To,-0.5121948,adj.
+婚姻,Marriage,-0.50749294,n.
+假发,Wig,-0.50308508,n.
+服务员,Waiter/Waitress,-0.50043741,n.
+生日蛋糕,Birthday Cake,-0.497206704,n.
+助教,Teaching Assistant,-0.487603306,n.
+审美观,Aesthetics,-0.4818461,n.
+潮流,Trend,-0.480446927,n.
+领班,Foreman,-0.480225989,n.
+蓓蕾,Bud,-0.47297351,n.
+夫妻,Couple,-0.46642578,n.
+医生,Doctor,-0.46493564,n.
+家长会,Parents' Meeting,-0.463687151,n.
+产假,Maternity Leave,-0.46163189,n.
+点心,Dessert,-0.45371056,n.
+红娘,A Nonprofitmaking Woman Go-Between For Lovers,-0.45316504,n.
+牙医,Dentist,-0.43791607,n.
+礼物,Gift,-0.435028249,n.
+营养学,Nutrition,-0.431818182,n.
+优先,Priority,-0.430167598,v.
+光棍节,Singles Day,-0.42787053,n.
+亲情,Kinship,-0.424581006,n.
+萝莉,Little Girl,-0.4123024,n.
+欢喜,Joy,-0.40863729,n.
+鉴赏力,Taste,-0.40008142,n.
+文体活动,Recreational And Sports Activities,-0.397727273,n.
+妇女节,Women'S Day,-0.39203456,n.
+休闲,Casual,-0.391061453,n.
+贴图,Stickers,-0.391061453,n.
+教学服务,Teaching Service,-0.388429752,n.
+急诊,Emergency,-0.38658218,n.
+婚假,Marriage Leave,-0.38116296,n.
+文员,Clerk,-0.38077702,n.
+日化,Daily Chemical,-0.378531073,n.
+集体婚礼,A Group Wedding,-0.37844697,n.
+医师,Doctor,-0.37300302,n.
+心动,Heartbeat,-0.36349563,v.
+举止,Manner,-0.363128492,n.
+童趣,Childlike,-0.35977157,n.
+初恋,First Love,-0.35467835,n.
+貂蝉,Diao Chan,-0.35082838,n.
+情人节,Valentine'S Day,-0.34895134,n.
+爱心,Love,-0.34572264,n.
+趣味,Taste,-0.34529065,n.
+伤感情,Hurt Sb.'S Feelings,-0.34261516,v.
+家属,Family Members,-0.340782123,n.
+亲和力,Affinity,-0.33795645,n.
+身体健康,In Good Health,-0.33635723,n.
+亲切感,Intimacy,-0.33517887,n.
+会计,Accounting,-0.33260315,n.
+派对,The Party,-0.32480779,n.
+柴米油盐,"Diesel, Rice, Oil And Salt",-0.31702306,n.
+按摩,Massage,-0.31673847,v.
+礼品,Gift,-0.31605464,n.
+保洁,Cleaning Staff,-0.3120011,n.
+人力资源部,Human Resources Department,-0.310734463,n.
+编辑出版,Editing And Publishing,-0.30751886,v.
+娱乐室,Recreation Room,-0.30401581,n.
+秘书,Secretary,-0.30367058,n.
+丧礼,Funeral,-0.30340279,n.
+导播,Director,-0.30054561,n.
+娱乐活动,Entertainment,-0.299435028,n.
+文娱活动,Recreational Activities,-0.296089385,n.
+懒人,The Lazy,-0.29295834,n.
+情怀,Feelings,-0.29213512,n.
+教师节,Teachers' Day,-0.28974554,n.
+旁白,Narration,-0.28715621,n.
+高见,Brilliant Idea,-0.28600443,n.
+过日子,Get Along,-0.2849237,v.
+口腔,Mouth,-0.284916201,n.
+感情,Emotion,-0.27555487,n.
+联络感情,Make Friendly Contacts,-0.27430804,n.
+保育,Conserve,-0.26167313,v.
+玻璃心,Snowflake,-0.26155615,n.
+同伴,Companion,-0.26002211,n.
+文字,Word,-0.259887006,n.
+聚餐,Dinner,-0.2578083,n.
+孝敬,Filial Piety,-0.25213627,v.
+新生,Newborn,-0.251396648,n.
+保教,Health Care And Education Of Babies And Children,-0.24728135,v.
+摄影师,Photographer,-0.24236096,n.
+演员,Actor,-0.24002615,n.
+会诊,Consulte,-0.23941009,v.
+丧葬,Funeral,-0.23897115,n.
+庆典活动,Celebration,-0.22911221,n.
+饮水,Drinking Water,-0.229050279,n.
+偏见,Bias,-0.22642561,n.
+性格,Character,-0.223463687,n.
+急救,First Aid,-0.22282955,n.
+前台,Front Desk,-0.21855403,n.
+咖啡,Coffee,-0.217877095,n.
+语言表达,Language Expression,-0.21669451,v.
+朋友,Friend,-0.21316806,n.
+跟单员,Merchandiser,-0.2129275,n.
+匠心,Ingenuity,-0.20826871,n.
+服从分配,Obey The Assignment,-0.203389831,v.
+商务谈判,Business Negotiation,-0.20142563,v.
+后勤,Logistics,-0.198863636,n.
+节假日,Holidays,-0.195530726,n.
+天使,Angel,-0.18661903,n.
+培训班,Training Course,-0.186440678,n.
+入学,Enter A School,-0.184357542,v.
+公共卫生,Public Health,-0.184357542,n.
+烹调师,Cook,-0.18228667,n.
+现金管理,Cash Management,-0.181818182,v.
+导演,Director,-0.1796098,n.
+咖啡师,Coffee Maker,-0.17763562,n.
+书写能力,Writing Ability,-0.17575329,n.
+特殊教育,Special Education,-0.175141243,n.
+辅助性,Auxiliary,-0.173184358,n.
+费心,Bother,-0.1695822,v.
+包容心,Tolerance,-0.16621169,n.
+启蒙,Enlightening,-0.16351999,v.
+医保,Medical Insurance,-0.162011173,n.
+素养,Literacy,-0.162011173,n.
+配偶,Spouse,-0.15986871,n.
+玩笑,Joke,-0.15457313,v.
+银行,Bank,-0.152542373,n.
+会计人员,Accounting Staff,-0.15034729,n.
+保健医,Public Health Physician,-0.148760331,n.
+礼包,Gift Packs,-0.14616845,n.
+大红包,Big Red Envelope,-0.14553559,n.
+自然,Nature,-0.144067797,n.
+双人间,Double Room,-0.14062103,n.
+中秋,Mid-Autumn Festival,-0.140495868,n.
+约定,Make An Appointment,-0.139664804,v.
+驾照,Driving License,-0.13665798,n.
+因材施教,Teach Students In Accordance With Their Aptitude,-0.13636989,v.
+操守,Ethics,-0.130681818,n.
+单身公寓,Single-Apartment,-0.13019865,n.
+基本工资,Basic Wage,-0.129943503,n.
+会计员,Accountant,-0.12950479,n.
+行政部,Administration Department,-0.12849162,n.
+记账员,Accounted,-0.12797937,n.
+理化,Physicochemical,-0.12298218,n.
+环游世界,Travel Around The World,-0.12250984,v.
+知己,Confidant,-0.12247011,n.
+人事,Personnel,-0.12223735,n.
+假日,Holiday,-0.119318182,n.
+人情味儿,Human Kindness,-0.1179934,n.
+义工,Volunteer,-0.11403382,n.
+人事管理,Human Resource Management,-0.11232532,v.
+户外活动,Outdoor Activities,-0.11178343,n.
+文化氛围,Cultural Atmosphere,-0.111731844,n.
+文化,Culture,-0.111731844,n.
+档案,Archives,-0.111731844,n.
+道德,Morality,-0.110169492,n.
+人事行政,Personnel Administration,-0.09818288,n.
+青睐,Favor,-0.09711506,v.
+优才,Talent,-0.09669087,n.
+红包,Red Envelope,-0.09460892,n.
+教学管理,Teaching Management,-0.09039548,v.
+公益,Public Welfare,-0.09039548,n.
+拍档,Partner,-0.08997822,n.
+劳动节,International Workers' Day,-0.08343355,n.
+理财,Financial Management,-0.07825024,v.
+传真,Fax,-0.07756515,n.
+管理员,Administrator,-0.07688699,n.
+心怀,Harbor,-0.076271186,v.
+高考,The National College Entrance Examination,-0.07571264,n.
+享乐,Enjoy,-0.07491875,v.
+药学,Pharmacy,-0.073446328,n.
+品牌,Brand,-0.073446328,n.
+保洁员,Cleaners,-0.07221827,n.
+咸鱼,Man Without Dreams,-0.07087101,n.
+铺垫,Foreshadowing,-0.068181818,v.
+攻略,Strategy,-0.06743235,n.
+配比,Proportion,-0.06310463,n.
+自我,Self,-0.062146893,n.
+医学,Medicine,-0.059322034,n.
+窖酒,Chinese Baijiu,-0.05806568,n.
+取向,Orientation,-0.05762294,n.
+村官,Village Official,-0.04978627,n.
+统计资料,Statistical Data,-0.049586777,n.
+狂欢,Carnival,-0.04931228,n.
+教学检查,Teaching Inspection,-0.045454545,n.
+教育家,Educator,-0.04479066,n.
+和解,Reconciled,-0.04289125,v.
+人心,Popularity,-0.0415506,n.
+保管员,Custodian,-0.04119543,n.
+优惠政策,Preferential Policies,-0.039548023,n.
+洗碗工,Dishwasher,-0.03716766,n.
+药剂师,Pharmacist,-0.0369896,n.
+工伤保险,Injury Insurance,-0.03340975,n.
+艺术家,Artist,-0.03081492,n.
+爱玩,Love To Play,-0.02956157,v.
+涵养,Conservation,-0.02921769,n.
+会计师,Accountant,-0.02750165,n.
+复苏,Recover,-0.02735172,v.
+文明,Civilization,-0.022346369,n.
+洗衣机,Washing Machine,-0.02213968,n.
+尊奉,Worship,-0.02181087,v.
+度假,Spend One's Holiday,-0.02111294,v.
+顾虑,Concern,-0.02012795,v.
+萌芽,Bud,-0.01910652,n.
+社会保险,Social Insurance,-0.017045455,n.
+品行端正,Proper Behavior,-0.016949153,n.
+口才,Eloquence,-0.016949153,n.
+灵魂,Soul,-0.01623082,n.
+传菜员,Waiter,-0.01594024,n.
+村医,Village Doctor,-0.01510686,n.
+药师,Pharmacist,-0.01357036,n.
+动画,Animation,-0.011173184,n.
+乒乓球室,Table Tennis Room,-0.00876568,n.
+精气神,"Essence,Energy,Spirit",-0.00828116,n.
+采购员,Purchaser,-0.00784066,n.
+门卫,Doorman,-0.00572212,n.
+小伙伴,Buddy,-0.00541962,n.
+摇篮,Cradle,-0.00345192,n.
+技师,Machinist,-0.00208656,n.
+陪护,Escort,-0.923728814,v.
+装扮,Dress Up,-0.87083901,v.
+卸妆,Remove Makeup,-0.80053156,v.
+配饰,Accessories,-0.77666958,v.
+护发,Hair Care,-0.77333117,v.
+照顾,Take Care Of,-0.73911144,v.
+呵护,Take Care Of,-0.72130804,v.
+新婚,Newly Married,-0.67766956,v.
+做饭,Cook,-0.670391061,v.
+着装,Dress,-0.66384315,v.
+染发,Hair Dye,-0.5973147,v.
+美术设计,Art Design,-0.587570621,v.
+拼盘,Make Dish,-0.51630661,v.
 喂养,Feed,-0.51119456,v.
 洗澡,Bath,-0.50987015,v.
 陪衬,Set Off By Contrast,-0.50838411,v.
 做作,Behave In An Affected Way,-0.50778406,v.
-婚姻,Marriage,-0.50749294,n.
 选美,Beauty Pageant,-0.50676418,v.
 抚触,Touch,-0.50515405,v.
-假发,Wig,-0.50308508,n.
-优美,Graceful,-0.50181087,adj.
-服务员,Waiter/Waitress,-0.50043741,n.
-愉悦,Happy,-0.498627,adj.
-生日蛋糕,Birthday Cake,-0.497206704,n.
 欢唱,Sing Merrily,-0.49622321,v.
-得体,Decent,-0.49540282,adj.
-仔细,Careful,-0.494318182,adj.
 直播,Live Streaming,-0.491620112,v.
 欣赏,Appreciate,-0.4878398,v.
-助教,Teaching Assistant,-0.487603306,n.
 家里,At Home,-0.48603352,v.
 结婚,Marry,-0.48246562,v.
-审美观,Aesthetics,-0.4818461,n.
-柔和,Soft,-0.48143301,adj.
 恋爱,In Love,-0.48103253,v.
 配搭,Match,-0.48067143,v.
-魅力,Charm,-0.480446927,adj.
-潮流,Trend,-0.480446927,n.
-领班,Foreman,-0.480225989,n.
-尤佳,Excellent,-0.479338843,adj.
-蓓蕾,Bud,-0.47297351,n.
-乐活,Lifestyles Of Health And Sustainability,-0.46929509,adj.
-夫妻,Couple,-0.46642578,n.
-伶俐,Smart,-0.46496459,adj.
-医生,Doctor,-0.46493564,n.
 恭贺,Congratulate,-0.46381212,v.
-家长会,Parents' Meeting,-0.463687151,n.
-周到,Thoughtful,-0.46350598,adj.
-产假,Maternity Leave,-0.46163189,n.
 编排,Arrange,-0.46121977,v.
-丰满,Chubby,-0.45680001,adj.
 起居,Daily Life,-0.45550845,v.
 完婚,Get Married,-0.45428033,v.
-点心,Dessert,-0.45371056,n.
-舒服,Comfortable,-0.45358084,adj.
-红娘,A Nonprofitmaking Woman Go-Between For Lovers,-0.45316504,n.
-健康,Healthy,-0.45178241,adj.
 欢笑,Laugh,-0.4510429,v.
 鉴赏,Appreciate,-0.4489117,v.
 关爱,Care,-0.44621353,v.
-欢乐,Joy,-0.44474599,adj.
 跑调,Out Of Tune,-0.44241683,v.
-牙医,Dentist,-0.43791607,n.
 互敬,Mutual Respect,-0.43745454,v.
-活泼,Lively,-0.43718225,adj.
 逛街,Go Shopping,-0.43651421,v.
-礼物,Gift,-0.435028249,n.
-营养学,Nutrition,-0.431818182,n.
-珍爱,Cherish,-0.43116,adj.
-优先,Priority,-0.430167598,n.
 打折,Discount,-0.429378531,v.
-光棍节,Singles Day,-0.42787053,n.
-好吃,Tasty,-0.42506823,adj.
-亲情,Kinship,-0.424581006,n.
 养发,Hair Care,-0.41955101,v.
-青春活力,Young And Energetic,-0.41514915,adj.
-脾气好,Have A Good Temper,-0.41290505,adj.
-萝莉,Little Girl,-0.4123024,n.
-善待,Be Kind,-0.41138829,adj.
 相伴,Be Accompanied,-0.4102358,v.
-愉快,Joy,-0.41000093,adj.
-欢喜,Joy,-0.40863729,n.
 就诊,See A Doctor,-0.4073001,v.
 配餐,Catering,-0.40703858,v.
 核算,Business Accounting,-0.406779661,v.
-健谈,Talkative,-0.4015272,adj.
-开心,Happy,-0.40105946,adj.
 打理,Take Care Of,-0.40071641,v.
 谈恋爱,Fall In Love,-0.40069793,v.
-鉴赏力,Taste,-0.40008142,n.
-拘谨,Cautious,-0.39965549,adj.
 照护,Take Care Of,-0.39939648,v.
-文体活动,Recreational And Sports Activities,-0.397727273,n.
-妇女节,Women'S Day,-0.39203456,n.
 修饰,Modify,-0.39115818,v.
-休闲,Casual,-0.391061453,n.
-贴图,Stickers,-0.391061453,n.
 对账,Account Check,-0.389830508,v.
 配图,With Pictures,-0.38902229,v.
-教学服务,Teaching Service,-0.388429752,n.
 做主,Host,-0.38789437,v.
 减肥,Lose Weight,-0.38771649,v.
-亲和,Affinity,-0.38711592,adj.
-急诊,Emergency,-0.38658218,n.
 品尝,Taste,-0.38463676,v.
-惊喜,Surprise,-0.38378229,adj.
-性格开朗,A Cheerful Disposition,-0.38364225,adj.
-婚假,Marriage Leave,-0.38116296,n.
-文员,Clerk,-0.38077702,n.
-室内,Indoor,-0.380165289,adj.
 请客,Stand Treat,-0.37909477,v.
-日化,Daily Chemical,-0.378531073,n.
-集体婚礼,A Group Wedding,-0.37844697,n.
 配戴,Wear,-0.37826223,v.
-听话,Obedient,-0.37792638,adj.
 吃饭,Have A Meal,-0.37737357,v.
-搞笑,Funny,-0.37636766,adj.
-医师,Doctor,-0.37300302,n.
-口齿清楚,Have Clear Enunciation,-0.372881356,adj.
-美好,Good,-0.37019782,adj.
-完美,Perfect,-0.36993944,adj.
-亲爱,Dear,-0.368888,adj.
 聊天,Chat,-0.368715084,v.
-快快乐乐,Happy,-0.36508233,adj.
 咨询,Consult,-0.36440678,v.
-心动,Heartbeat,-0.36349563,n.
-举止,Manner,-0.363128492,n.
-大方,Generous,-0.36251611,adj.
 感受,Feel,-0.36202884,v.
-有趣,Interesting,-0.36111948,adj.
-童趣,Childlike,-0.35977157,n.
-洁癖,Cleanliness,-0.35966589,adj.
 听从,Obey,-0.357541899,v.
-最美,The Most Beautiful,-0.35743863,adj.
-性格内向,Introverted,-0.3563156,adj.
 聆听,Listen To,-0.35526405,v.
-初恋,First Love,-0.35467835,n.
-懵懂,Ignorant,-0.35278255,adj.
 宛如,Like,-0.35269321,v.
-幽默,Humor,-0.3523554,adj.
-貂蝉,Diao Chan,-0.35082838,n.
-诚恳,Sincere,-0.34993217,adj.
-情人节,Valentine'S Day,-0.34895134,n.
-清凉,Cool,-0.3486448,adj.
-肥胖,Obesity,-0.34843528,adj.
-性格外向,Extroverted,-0.34815388,adj.
 解读,Interpret,-0.34708924,v.
-精美,Fine,-0.34606654,adj.
-爱心,Love,-0.34572264,n.
-趣味,Taste,-0.34529065,n.
 懒得,Be Lazy To,-0.34336267,v.
-丰俭,Frugal,-0.34287476,adj.
 观赏,Watch,-0.34278508,v.
-伤感情,Hurt Sb.'S Feelings,-0.34261516,n.
 跳舞,Dance,-0.34100866,v.
-家属,Family Members,-0.340782123,n.
 挑选,Choose,-0.338983051,v.
 倾听,Listen,-0.33845633,v.
-亲和力,Affinity,-0.33795645,n.
-亲切,Kind,-0.33768356,adj.
 关顾,Take Care Of,-0.33728554,v.
 不妨一试,It Is As Well To Try,-0.3370944,v.
-身体健康,In Good Health,-0.33635723,n.
 归档,Archive,-0.335195531,v.
-亲切感,Intimacy,-0.33517887,n.
-勤快,Diligent,-0.33471276,adj.
-感性,Sensitive,-0.33302568,adj.
-会计,Accounting,-0.33260315,n.
 涉外,Foreign,-0.33079728,v.
-谨慎,Cautious,-0.329608939,adj.
-忧愁,Sad,-0.32760193,adj.
 玩耍,Play,-0.32672246,v.
 讨好,Ingratiate Oneself With,-0.32657795,v.
 打量,Look Up,-0.32633684,v.
-派对,The Party,-0.32480779,n.
-浓郁,Full-Bodied,-0.32468481,adj.
-欢快,Happy,-0.32441688,adj.
 喜欢,Like,-0.324022346,v.
-心善,Kindness,-0.32276467,adj.
 祝愿,Wish,-0.32139855,v.
-文明礼貌,Civility And Courtesy,-0.32130912,adj.
 着想,Consider,-0.32085706,v.
-柴米油盐,"Diesel, Rice, Oil And Salt",-0.31702306,n.
-按摩,Massage,-0.31673847,n.
-匀称,Well-Proportioned,-0.31663101,adj.
-礼品,Gift,-0.31605464,n.
 治疗,Treat,-0.31453157,v.
 煮茶,Boiling Tea,-0.31434363,v.
-保洁,Cleaning,-0.3120011,n.
-聪明,Clever,-0.31165028,adj.
 宠爱,Dote On,-0.31145024,v.
-严肃认真,Serious,-0.31143892,adj.
 巡诊,Patrol,-0.31092669,v.
-人力资源部,Human Resources Department,-0.310734463,n.
-忠厚,Honest,-0.30832349,adj.
-亲善,Goodwill,-0.30757163,adj.
-编辑出版,Editing And Publishing,-0.30751886,n.
-耐心,Patience,-0.30717834,adj.
 错过,Miss,-0.3070255,v.
 接待,Recept,-0.30437143,v.
-娱乐室,Recreation Room,-0.30401581,n.
-秘书,Secretary,-0.30367058,n.
-丧礼,Funeral,-0.30340279,n.
-聪慧,Intelligent,-0.30328278,adj.
-邋遢,Sloppy,-0.30322351,adj.
-体恤,Sympathetic,-0.30252149,adj.
 喜爱,Favorite,-0.30237177,v.
 谈心,Talk Heart To Heart,-0.30196875,v.
-导播,Director,-0.30054561,n.
-娱乐活动,Entertainment,-0.299435028,n.
 联欢,Get-Together,-0.29940236,v.
 查房,Make The Rounds Of The Wards,-0.29885258,v.
 回眸,Look Back,-0.29849255,v.
-悦耳,Melodious,-0.29770917,adj.
 担心,Worry,-0.296089385,v.
-文娱活动,Recreational Activities,-0.296089385,n.
-迥异,Very Different,-0.29337515,adj.
-真诚,Sincere,-0.2932827,adj.
-懒人,The Lazy,-0.29295834,n.
 接送,Pick Up,-0.29254462,v.
-难过,Sad,-0.29247392,adj.
-情怀,Feelings,-0.29213512,n.
-尊贵,Distinguished,-0.29184273,adj.
-难搞,Difficult,-0.29178398,adj.
 对待,Treat,-0.29096729,v.
 喜好,Like,-0.290502793,v.
 邂逅,Encounter,-0.29013118,v.
 陪同,Accompany,-0.289772727,v.
-教师节,Teachers' Day,-0.28974554,n.
 期盼,Look Forward To,-0.28936193,v.
 撰稿,Write,-0.28905581,v.
-身孕,Pregnant,-0.2883412,adj.
-明亮,Bright,-0.28791502,adj.
-旁白,Narration,-0.28715621,n.
-高见,Brilliant Idea,-0.28600443,n.
-过日子,Get Along,-0.2849237,n.
-口腔,Mouth,-0.284916201,n.
-感恩,Grateful,-0.28322514,adj.
 操心,Worry,-0.27901607,v.
-合拍,In Step,-0.27647577,adj.
-感情,Emotion,-0.27555487,n.
-团结,Unite,-0.27456333,adj.
-联络感情,Make Friendly Contacts,-0.27430804,n.
 养成,Develop,-0.27265524,v.
-好听,Pleasant To Hear,-0.27259384,adj.
 审订,Review,-0.27162833,v.
-能说会道,Articulate,-0.26706785,adj.
 搭配,Match,-0.26673776,v.
-轻松,Easy,-0.26620544,adj.
-保育,Conservation,-0.26167313,n.
-玻璃心,Sensitive,-0.26155615,n.
 评改,Review,-0.2614495,v.
 精读,Intensive Reading,-0.26116161,v.
-人性化,Humanize,-0.26025299,adj.
-同伴,Companion,-0.26002211,n.
-文字,Word,-0.259887006,n.
 书写,Write,-0.259887006,v.
 任教,Teach,-0.259887006,v.
 牵手,Hold Hands,-0.25977852,v.
-尴尬,Awkward,-0.25786586,adj.
-聚餐,Dinner,-0.2578083,n.
-融洽,Harmony,-0.25751819,adj.
-幽默诙谐,Humorous,-0.2572699,adj.
 配给,Ration,-0.25704907,v.
 打伞,Hold Up An Umbrella,-0.25626277,v.
-焦虑,Anxiety,-0.25416617,adj.
-孝敬,Filial Piety,-0.25213627,n.
-醒目,Eye-Catching,-0.25212598,adj.
-新生,Newborn,-0.251396648,n.
 爱护,Cherish,-0.25087256,v.
-爽朗,Hearty,-0.25083547,adj.
-滋补,Tonic,-0.24860682,adj.
-保教,Health Care And Education Of Babies And Children,-0.24728135,n.
 演奏,Play,-0.24706696,v.
-整洁,Tidy,-0.24680378,adj.
-低调,Low-Profile,-0.24603251,adj.
 采编,Edit,-0.245810056,v.
-惬意,Cozy,-0.24429921,adj.
-沉稳,Steady,-0.24398319,adj.
-大舌头,A Thick-Tongued Person,-0.2439491,adj.
-机灵,Clever,-0.24370639,adj.
-喜悦,Joy,-0.24293868,adj.
-摄影师,Photographer,-0.24236096,n.
 洗浴,Take A Bath,-0.24232313,v.
 烹饪,Cooking,-0.24209249,v.
 相得益彰,Bring Out The Best In Each Other,-0.24134541,v.
 品牌设计,Brand Design,-0.240223464,v.
-好奇,Curious,-0.24005958,adj.
-演员,Actor,-0.24002615,n.
-受欢迎,Popular,-0.23972239,adj.
 慰问,Sympathy,-0.239669421,v.
-保守,Keep,-0.23941468,adj.
-会诊,Consultation,-0.23941009,n.
-丧葬,Funeral,-0.23897115,n.
-随和,Amiable,-0.238636364,adj.
 细谈,Talk In Detail,-0.23835656,v.
-好玩,Fun,-0.23802955,adj.
-平易近人,Easy To Get Along With,-0.23567133,adj.
 推拿,Massage,-0.23534177,v.
 关注,Focus On,-0.23457646,v.
-舒心,Comfortable,-0.23441461,adj.
 尽孝,Treat One'S Parents With Filial Piety,-0.23404291,v.
-谦恭,Humble,-0.23105662,adj.
 互爱,Mutual Love,-0.23096065,v.
 交谈,Chat,-0.23088546,v.
 发脾气,Get Angry,-0.23085142,v.
 配对,Pair,-0.23000125,v.
 专心,Concentrate,-0.22967387,v.
 记得,Remember,-0.22966668,v.
-庆典活动,Celebration,-0.22911221,n.
-饮水,Drinking Water,-0.229050279,n.
-专用,Dedicated,-0.228813559,adj.
 羡慕,Admire,-0.22810405,v.
-轻轻松松,Easily,-0.22768094,adj.
 嬉水,Play In Water,-0.22667615,v.
-偏见,Bias,-0.22642561,n.
-性格,Character,-0.223463687,n.
-忙碌,Busy,-0.22345462,adj.
-急救,First Aid,-0.22282955,n.
-谦逊,Humble,-0.22059018,adj.
 修护,Repair,-0.21970082,v.
 欢聚,Get Together,-0.21942075,v.
-轻松自由,Easy And Free,-0.21941285,adj.
 采血,Blood Collection,-0.21908917,v.
-前台,Front Desk,-0.21855403,n.
 馈赠,Gift,-0.21806443,v.
 收集整理,Collect,-0.217877095,v.
-咖啡,Coffee,-0.217877095,n.
 审读,Review,-0.21733781,v.
-谦和,Humble,-0.21689443,adj.
-语言表达,Language Expression,-0.21669451,n.
 进餐,Meal,-0.21604638,v.
-温和,Mild,-0.21572385,adj.
 共鸣,Resonance,-0.21474708,v.
 修剪,Prune,-0.21444094,v.
-朋友,Friend,-0.21316806,n.
-跟单员,Merchandiser,-0.2129275,n.
-平淡,Dull,-0.21291348,adj.
-奢华,Luxurious,-0.21250062,adj.
 收费,Toll,-0.211864407,v.
 觉得,Feel,-0.21180196,v.
 告诉,Tell,-0.21138533,v.
-亲密,Close,-0.20975821,adj.
 迷恋,Obsessed With,-0.20970074,v.
-敏感性,Sensitivity,-0.20946708,adj.
 安心,Feel At Ease,-0.209039548,v.
-灵活,Flexible,-0.209039548,adj.
-匠心,Ingenuity,-0.20826871,n.
-热闹,Boisterous,-0.20807052,adj.
 勾选,Tick,-0.2060097,v.
 解答,Answer,-0.20498218,v.
 拍照,Photograph,-0.20497796,v.
 拍摄,Shoot,-0.20494907,v.
 探视,Visit,-0.20468825,v.
 期待,Expect,-0.20419746,v.
-健美,Strong And Handsome,-0.20408084,adj.
-服从分配,Obey The Assignment,-0.203389831,n.
 编辑,Edit,-0.203389831,v.
-仪表堂堂,Dignified In Appearance,-0.20304315,adj.
 谅解,Understanding,-0.20295835,v.
 打扰,Disturb,-0.20287108,v.
 进修,Study,-0.20198606,v.
 相聚,Get Together,-0.20178303,v.
-商务谈判,Business Negotiation,-0.20142563,n.
 优待,Preferential Treatment,-0.20083469,v.
 妥善处理,Properly Handle,-0.20023987,v.
-烦恼,Trouble,-0.20015967,adj.
-慎重,Careful,-0.1995195,adj.
-后勤,Logistics,-0.198863636,n.
-流行,Popular,-0.19836217,adj.
 撮合,Make A Match,-0.19797093,v.
 录制,Record,-0.19716163,v.
 就餐,Dining,-0.19648962,v.
-节假日,Holidays,-0.195530726,n.
 解剖,Anatomy,-0.19551346,v.
 上班,Work,-0.19532963,v.
-低俗,Vulgar,-0.19488197,adj.
-幽雅,Quiet And Tastefully Laid Out,-0.19406663,adj.
 在意,Care,-0.1932175,v.
-陌生,Strange,-0.19318153,adj.
 审计工作,Audit,-0.192090395,v.
-诚挚,Sincere,-0.19207797,adj.
-关切,Concern,-0.19057172,adj.
 烹调,Cook,-0.19049686,v.
 做好,Do Well,-0.1903962,v.
-珍惜,Cherish,-0.18911715,adj.
 邀约,Invite,-0.18848461,v.
-严肃,Serious,-0.1883928,adj.
 接听,Answer,-0.18837781,v.
 相逢,Meet,-0.18733964,v.
-天使,Angel,-0.18661903,n.
 协调,Coordinate,-0.186440678,v.
-培训班,Training Course,-0.186440678,n.
 引见,Introduce,-0.1855721,v.
-专属,Exclusive,-0.184357542,adj.
-入学,Admission,-0.184357542,n.
-公共卫生,Public Health,-0.184357542,n.
 回盘,Return,-0.18391023,v.
-平和,Peaceful,-0.18388187,adj.
 庆生,Birthday,-0.18363249,v.
 配制,Prepare,-0.18319343,v.
 绽放,Bloom,-0.18303287,v.
-烹调师,Cook,-0.18228667,n.
 翻译,Translate,-0.18195658,v.
-现金管理,Cash Management,-0.181818182,n.
-导演,Director,-0.1796098,n.
 憧憬,Look Forward To,-0.17959536,v.
-年轻,Young,-0.17952945,adj.
-咖啡师,Coffee Maker,-0.17763562,n.
 抢救,Rescue,-0.17705753,v.
-舒适,Comfortable,-0.17622504,adj.
-矫情,Hypocritical,-0.17617852,adj.
 遵从,Obey,-0.17603531,v.
-书写能力,Writing Ability,-0.17575329,n.
-特殊教育,Special Education,-0.175141243,n.
-独特,Unique,-0.17372427,adj.
-简洁,Concise,-0.17349157,adj.
-辅助性,Auxiliary,-0.173184358,n.
-友好,Friendly,-0.1728935,adj.
-知恩,Grateful,-0.17132664,adj.
-豁达,Open And Clear,-0.17129198,adj.
 询问,Ask,-0.17052961,v.
-端正,Decorous,-0.17010625,adj.
-费心,Bother,-0.1695822,n.
 批改,Correct,-0.16940693,v.
-情绪稳定,Emotionally Stable,-0.16923961,adj.
 观察,Observe,-0.16830053,v.
-灵动,Agile,-0.16817228,adj.
 告别,Farewell,-0.1679764,v.
 契合,Fit,-0.16787996,v.
 爱惜,Cherish,-0.16726429,v.
-彷徨,Hesitating,-0.16625433,adj.
-包容心,Tolerance,-0.16621169,n.
 拍出,Shot Out,-0.16484508,v.
 核对,Check,-0.16449615,v.
 探望,Visit,-0.16440535,v.
 打扫,Clean,-0.16396788,v.
-稳重,Steady,-0.16386151,adj.
-启蒙,Enlightenment,-0.16351999,n.
-医保,Medical Insurance,-0.162011173,n.
-素养,Literacy,-0.162011173,n.
-饱满,Full,-0.16142945,adj.
-配偶,Spouse,-0.15986871,n.
-有钱,Rich,-0.1594912,adj.
 审阅,Review,-0.15884017,v.
 养护,Conservate,-0.15844698,v.
 团聚,Reunion,-0.15824655,v.
-宽容,Tolerant,-0.15784863,adj.
-解说,Commentate,-0.15775722,adj.
 关心,Care,-0.15735392,v.
 养生,Preserve One'S Health,-0.15657158,v.
 睡眠,Sleep,-0.156424581,v.
 报账,Reimbursement,-0.156424581,v.
-俱佳,Excellent,-0.15561952,adj.
-奇怪,Strangeness,-0.15479462,adj.
-玩笑,Joke,-0.15457313,n.
 镇定,Calm Down,-0.15438469,v.
 降暑,Cooling Down,-0.15280922,v.
-银行,Bank,-0.152542373,n.
 画图,Draw,-0.152542373,v.
 从容,Take It Easy,-0.15230882,v.
 热卖,Selling,-0.15223158,v.
-任性,Capricious,-0.15115053,adj.
 共存,Coexist,-0.15059658,v.
-会计人员,Accounting Staff,-0.15034729,n.
-担当,In Charge,-0.14964933,adj.
 享用,Enjoy,-0.14953887,v.
-保健医,Public Health Physician,-0.148760331,n.
-苦恼,Distressed,-0.14870822,adj.
-犯困,Sleepy,-0.14802039,adj.
 兼备,Have Both,-0.14787886,v.
 签收,Sign For,-0.14784228,v.
 编审,Editor,-0.14780225,v.
-窘迫,Embarrassed,-0.14765902,adj.
-困惑,Puzzled,-0.1474284,adj.
 回忆,Remember,-0.14724192,v.
-自闭,Autistic,-0.14633496,adj.
-礼包,Gift Packs,-0.14616845,n.
-大红包,Big Red Envelope,-0.14553559,n.
 问候,Greet,-0.145251397,v.
-繁复,Complicated,-0.14454845,adj.
 诠释,Interpretation,-0.14442551,v.
 庆祝,Celebrate,-0.14437622,v.
-自然,Nature,-0.144067797,n.
 精选,Featured,-0.14210515,v.
 排课,Schedule,-0.142045455,v.
-双人间,Double Room,-0.14062103,n.
-中秋,Mid-Autumn Festival,-0.140495868,n.
 建账,Create An Account,-0.14030095,v.
 构图,Composition,-0.14026202,v.
 待续,To Be Continued,-0.14014742,v.
-约定,Agreement,-0.139664804,n.
-强为,Strong For,-0.13949567,adj.
 饲养,Feed,-0.13911959,v.
 摆放,Display,-0.13891365,v.
 编撰,Compile,-0.1386293,v.
 逛逛,Stroll Around,-0.13837292,v.
 摄取,Ingest,-0.13763105,v.
 钻牛角尖,Digging Into A Dead End,-0.13695221,v.
-驾照,Driving License,-0.13665798,n.
-因材施教,Teach Students In Accordance With Their Aptitude,-0.13636989,n.
 沟通了解,Communicate And Understand,-0.136363636,v.
-主见,Opinionated,-0.13576724,adj.
-如意,Wishful,-0.1345423,adj.
 鉴别,Treat Unfairly,-0.13420409,v.
 亏待,Mistreat,-0.13411466,v.
 用餐,Have A Meal,-0.134078212,v.
-睿智,Wise,-0.13213642,adj.
-好动,Active,-0.13170347,adj.
-心细,Careful,-0.13159774,adj.
-奇妙,Wonderful,-0.13154317,adj.
-缜密,Meticulous,-0.13131672,adj.
-操守,Ethics,-0.130681818,n.
 佩戴,Wear,-0.13049237,v.
-单身公寓,Single-Apartment,-0.13019865,n.
-基本工资,Basic Wage,-0.129943503,n.
 临场发挥,Wing It,-0.12956426,v.
-会计员,Accountant,-0.12950479,n.
 颇具,Quite,-0.12907472,v.
-行政部,Administration Department,-0.12849162,n.
 兼具,Have Both,-0.12838514,v.
-阔绰,Extravagant,-0.12809675,adj.
-记账员,Accounted,-0.12797937,n.
-贫穷,Poverty,-0.1273376,adj.
 借还,Borrow,-0.12730771,v.
 供养,Support,-0.12727104,v.
-单独,Alone,-0.127118644,adj.
 擅长,Be Good At,-0.12590529,v.
 混淆,Confuse,-0.12487269,v.
-谙熟,Familiar With,-0.12342529,adj.
-理化,Physicochemical,-0.12298218,n.
-和谐,Harmonious,-0.122905028,adj.
 接发,Hair Extension,-0.12289778,v.
-环游世界,Travel Around The World,-0.12250984,n.
-知己,Confidant,-0.12247011,n.
-人事,Personnel,-0.12223735,n.
 呼吸,Breathe,-0.12203316,v.
 检视,View,-0.12098341,v.
-假日,Holiday,-0.119318182,n.
-平常,Usually,-0.11897825,adj.
-妥善,Proper,-0.11893083,adj.
 谦让,Modestly Decline,-0.11868864,v.
 审视,Examine,-0.11867177,v.
 退费,Refund,-0.118644068,v.
 理货,Tally,-0.118644068,v.
 询盘,Inquiry,-0.11834567,v.
 怀有,Harbor,-0.1183377,v.
-人情味儿,Human Kindness,-0.1179934,n.
 开玩笑,Joke,-0.117814,v.
-友爱,Friendliness,-0.11671446,adj.
 评断,Inference,-0.11637717,v.
-奢侈,Luxury,-0.11620825,adj.
 蜕变,Metamorphosis,-0.1154854,v.
 专注,Concentrate On,-0.11408561,v.
-义工,Volunteer,-0.11403382,n.
 录像,Video,-0.11352162,v.
 理解,Understand,-0.1127708,v.
 成长,Grow Up,-0.11255952,v.
-人事管理,Human Resource Management,-0.11232532,n.
 吃饱,Satiated,-0.11225695,v.
-平安,Safety,-0.11199675,adj.
-干净,Clean,-0.11185334,adj.
-户外活动,Outdoor Activities,-0.11178343,n.
 欢迎,Welcome,-0.11174744,v.
-文化氛围,Cultural Atmosphere,-0.111731844,n.
-文化,Culture,-0.111731844,n.
 绘制,Draw,-0.111731844,v.
-档案,Archives,-0.111731844,n.
 弯腰,Bend Over,-0.11129714,v.
 感悟,Perception,-0.1108648,v.
 坐班,Be On Duty,-0.110169492,v.
-道德,Morality,-0.110169492,n.
 沉浸,Immerse,-0.10979786,v.
 搞好,Do Well,-0.10929779,v.
 平面设计,Graphic Design,-0.107344633,v.
 自助,Self Help,-0.10653925,v.
 申领,Claim,-0.10624102,v.
-放心,Rest Assured,-0.106145251,adj.
 尊敬,Respect,-0.10583831,v.
-更佳,Better,-0.10576523,adj.
 慰唁,Condolences,-0.10543079,v.
 解惑,Dispel Doubts,-0.10518354,v.
 期许,Hope,-0.10509615,v.
-乏味,Tedious,-0.1049791,adj.
 作主,Decide,-0.10429876,v.
 模仿,Imitate,-0.10407028,v.
 理发,Haircut,-0.10396967,v.
@@ -703,64 +858,37 @@
 观看,Watch,-0.10316827,v.
 治愈,Cure,-0.10301556,v.
 计较,Care About,-0.10208849,v.
-冷静,Calm,-0.10203324,adj.
-孤独,Lonely,-0.10190279,adj.
-透明,Transparent,-0.101694915,adj.
 接纳,Accept,-0.10164501,v.
 感染,Infect,-0.10083678,v.
-聪敏,Smart,-0.10083366,adj.
 宴请,Banquet,-0.09984972,v.
 兼顾,Take Into Account,-0.09984684,v.
-可敬,Respectable,-0.09914598,adj.
-巧妙,Clever,-0.09836088,adj.
-人事行政,Personnel Administration,-0.09818288,n.
 漂白,Bleach,-0.09726823,v.
-青睐,Favor,-0.09711506,n.
 见习,Trainee,-0.09679467,v.
-优才,Talent,-0.09669087,n.
 接种,Inoculate,-0.09664789,v.
 省心,Don'T Worry,-0.09600497,v.
-寂寞,Lonely,-0.09543518,adj.
 约访,Make An Appointment,-0.094972067,v.
 保持良好,Keep It Up Well,-0.094972067,v.
-红包,Red Envelope,-0.09460892,n.
 护送,Escort,-0.09404622,v.
 请来,Invite,-0.09365641,v.
 编订,Compile,-0.09338833,v.
 汇算,Settlement,-0.093220339,v.
 求证,Prove,-0.09302408,v.
 焕发,Glow,-0.09265785,v.
-富有,Rich,-0.09234341,adj.
-鲜明,Distinct,-0.09176225,adj.
 萌动,Sprout,-0.09069568,v.
 满意,Satisfy,-0.09067789,v.
 担忧,Worry About,-0.09051925,v.
-教学管理,Teaching Management,-0.09039548,n.
-公益,Public Welfare,-0.09039548,n.
-拍档,Partner,-0.08997822,n.
-热心,Enthusiastic,-0.08989611,adj.
 回馈,Give Back,-0.08982474,v.
 缴款,Payment,-0.0898225,v.
-境内,Within The Territory,-0.089385475,adj.
 团购,Group Buy,-0.08909742,v.
 公认,Accepted,-0.08887247,v.
 散发,Exude,-0.08855668,v.
 紧扣,Clasp Tightly,-0.08846484,v.
-宽松,Loose,-0.088441,adj.
-饱含,Be Full Of,-0.08753519,adj.
 采访,The Interview,-0.08721775,v.
 盼望,Look Forward To,-0.08626645,v.
-敞亮,Light And Spacious,-0.08557331,adj.
-乐观,Optimism,-0.08554633,adj.
 孕育,Bred,-0.08541956,v.
-赋有,Endowed With,-0.08510122,adj.
-鸟语花香,Singing Birds And Fragrance Of Flowers,-0.08481722,adj.
 接触,Touch,-0.084745763,v.
-机敏,Smart,-0.084745763,adj.
 希望,Hope,-0.083798883,v.
 回执,Receipt,-0.08374571,v.
-劳动节,International Workers' Day,-0.08343355,n.
-富足,Rich,-0.08333867,adj.
 遵行,Obey,-0.08270188,v.
 感知,Perception,-0.07977717,v.
 结转,Carry Over,-0.07972597,v.
@@ -769,37 +897,17 @@
 婉拒,Politely Decline,-0.07901194,v.
 牵挂,Care,-0.07887078,v.
 审校,Examine And Proofread,-0.07852918,v.
-友善,Friendly,-0.07852838,adj.
-理财,Financial Management,-0.07825024,n.
 评选,Choose Through Public Appraisal,-0.07807818,v.
-独到,Unique,-0.07795612,adj.
-传真,Fax,-0.07756515,n.
 编纂,Edit,-0.07732046,v.
-管理员,Administrator,-0.07688699,n.
-守时,Be Punctual,-0.076271186,adj.
-心怀,Harbor,-0.076271186,n.
 烧饭,Cook,-0.0761134,v.
 培养,Nourish,-0.07587897,v.
-高考,The National College Entrance Examination,-0.07571264,n.
-享乐,Pleasure,-0.07491875,n.
-浮躁,Impetuous,-0.07407605,adj.
 蹲下,Squat Down,-0.07354425,v.
-药学,Pharmacy,-0.073446328,n.
-品牌,Brand,-0.073446328,n.
 热烈欢迎,Give Sb. A Warm Welcome,-0.072625698,v.
-保洁员,Cleaners,-0.07221827,n.
 欢送,Farewell,-0.07221728,v.
-紧张,Nervous,-0.0720666,adj.
 漂泊,Drift,-0.07172415,v.
 把关,Check,-0.07168179,v.
-神秘,Mystery,-0.07157414,adj.
-干练,Capable,-0.07116874,adj.
-勤劳,Diligent,-0.07103187,adj.
 摄像,Camera Shooting,-0.07092161,v.
-咸鱼,Man Without Dreams,-0.07087101,n.
-直率,Outspoken,-0.06987875,adj.
 勾兑,Blend,-0.06978058,v.
-新颖,Novel,-0.06973799,adj.
 了解,Learn,-0.06952452,v.
 互转,Interchange,-0.0694923,v.
 遵循,Follow,-0.06942923,v.
@@ -810,256 +918,148 @@
 喜歡,Like,-0.06826184,v.
 求助,Ask For Help,-0.0682172,v.
 收录,Include,-0.068181818,v.
-铺垫,Foreshadowing,-0.068181818,n.
 平面布置,Plan Layout,-0.06779661,v.
-繁杂,Complicated,-0.06779438,adj.
-攻略,Strategy,-0.06743235,n.
 沟通,Communicate,-0.0671652,v.
 回顾,Review,-0.067039106,v.
 拒绝,Reject,-0.06626809,v.
 保管,Custody,-0.066115702,v.
-勤俭,Thrifty,-0.06597683,adj.
-繁琐,Cumbersome,-0.06570235,adj.
 享受,Enjoy,-0.06550919,v.
 禁忌,Taboo,-0.06516387,v.
 回评,Feedback,-0.06499161,v.
 拥抱,Embrace,-0.06416067,v.
-靠谱,Reliable,-0.06375369,adj.
-简单,Simple,-0.06340634,adj.
-配比,Proportion,-0.06310463,n.
-坦诚,Candid,-0.06304789,adj.
 接近,Near,-0.06291041,v.
 破蛋,Broken Egg,-0.06241744,v.
 恪守,Scrupulously Abide By,-0.06222339,v.
 描述,Describe,-0.062146893,v.
-自我,Self,-0.062146893,n.
 受伤,Be Injured,-0.06212625,v.
-假大空,Engage In False Big And Empty Talks,-0.06202001,adj.
-耀眼,Dazzling,-0.06178765,adj.
-简明,Concise,-0.06163012,adj.
-稳定,Stabilize,-0.061452514,adj.
 调休,Time Off,-0.061452514,v.
 分辨,Distinguish,-0.06145141,v.
-激动,Excited,-0.06026539,adj.
 探访,Visit,-0.06023357,v.
 彰显,Highlight,-0.06019631,v.
-怯场,Stage Fright,-0.0600061,adj.
 知悉,Know,-0.05947288,v.
 评课,Assessment,-0.05942119,v.
-医学,Medicine,-0.059322034,n.
 就座,Take A Seat,-0.05898835,v.
 发芽,Sprout,-0.05873805,v.
-窖酒,Chinese Baijiu,-0.05806568,n.
-取向,Orientation,-0.05762294,n.
 缺少,Lack,-0.05761602,v.
 摆拍,Posing,-0.05758969,v.
 呼入,Call In,-0.05717066,v.
 见证,Witness,-0.05678958,v.
 截图,Screenshot,-0.05676262,v.
 倾向,Tendency,-0.05674137,v.
-富裕,Rich,-0.05664021,adj.
 重复,Repeat,-0.056497175,v.
 谨防,Beware,-0.05633762,v.
 汇出,Export,-0.0560289,v.
 庆贺,Celebrate,-0.0558685,v.
 烹制,Cook,-0.05438385,v.
-辛苦,Hard,-0.05419569,adj.
 含有,Contain,-0.05406448,v.
 行万里路,Learning By Traveling,-0.05402387,v.
 交待,Explain,-0.05387379,v.
 就医,Medical Treatment,-0.05382111,v.
 配有,With,-0.05360479,v.
-厚大,Thick,-0.05319786,adj.
 萃取,Extract,-0.05300213,v.
 捐赠,Donate,-0.0529716,v.
-优渥,Generous,-0.05221912,adj.
 烘烤,Bake,-0.05220997,v.
 摄制,Film,-0.05186506,v.
 翻书,Flip Book,-0.05114166,v.
 相信,Believe,-0.050847458,v.
-平等,Equality,-0.05082453,adj.
-包容,Tolerate,-0.05077316,adj.
 浇水,Water,-0.05072225,v.
 挽留,Retain,-0.05068814,v.
 编写,Write,-0.05035722,v.
 诉求,Demand,-0.05027933,v.
 疏导,Divert,-0.05027933,v.
-清白,Clean,-0.05009193,adj.
-乐善,Goodness,-0.0500491,adj.
-村官,Village Official,-0.04978627,n.
 烘焙,Bake,-0.0497797,v.
 筹办,Organize,-0.04968975,v.
-开放,Open,-0.04968716,adj.
-呆滞,Sluggish,-0.049617,adj.
 取暖,Keep Warm,-0.049586777,v.
 交往,Contact,-0.049586777,v.
-统计资料,Statistical Data,-0.049586777,n.
-狂欢,Carnival,-0.04931228,n.
 清扫,Clean Up,-0.0490817,v.
-敏锐,Keen,-0.04867447,adj.
 织布,Weave,-0.04864955,v.
 安居,Live In Peace,-0.04862562,v.
 划转,Transfer,-0.04798978,v.
 纠结,Tangled,-0.04652706,v.
 炒作,Hype,-0.04642399,v.
 借阅,Borrow,-0.04586634,v.
-教学检查,Teaching Inspection,-0.045454545,n.
 隐忍,Forbearance,-0.04530196,v.
 考证,Research,-0.04519774,v.
-教育家,Educator,-0.04479066,n.
 自测,Self Test,-0.044692737,v.
 缔造,Create,-0.04466641,v.
-品行好,Good Conduct,-0.04461934,adj.
 归集,Collect,-0.04446308,v.
 模拟,Simulate,-0.04408289,v.
 酷爱,Love,-0.04399208,v.
-不愁,No Worries,-0.04388066,adj.
 心理压力,Psychological Pressure,-0.04313016,v.
 判别,Distinguish,-0.04311859,v.
 审评,Review,-0.04296366,v.
-和解,Reconciliation,-0.04289125,n.
 删减,Delete,-0.04288035,v.
-热情,Enthusiasm,-0.04243139,adj.
-充满热情,Full Of Enthusiasm,-0.0423828,adj.
-热爱,Love,-0.04227594,adj.
 审定,Authorize,-0.04211621,v.
-成熟,Mature,-0.04179116,adj.
 守旧,Conservative,-0.04178304,v.
-外向,Outgoing,-0.04161861,adj.
-人心,Popularity,-0.0415506,n.
-保管员,Custodian,-0.04119543,n.
 领购,Pick Up,-0.04052946,v.
 判断,Judge,-0.04010952,v.
-活力,Hold In Esteem,-0.03982084,adj.
 推崇,Respect,-0.03980666,v.
 练习,Practice,-0.039772727,v.
 营造,Create,-0.039772727,v.
-优惠政策,Preferential Policies,-0.039548023,n.
 放假,Have A Holiday,-0.039106145,v.
 互帮互助,Help Each Other,-0.039106145,v.
 缺失,Missing,-0.03839402,v.
 反哺,Feed Back,-0.03827322,v.
-洗碗工,Dishwasher,-0.03716766,n.
-怀着,Be Filled With,-0.03707966,adj.
-药剂师,Pharmacist,-0.0369896,n.
 织造,Weave,-0.03633855,v.
 结对,Pair Up,-0.03602207,v.
 畅谈,Talk Freely,-0.03402585,v.
 购进,Purchase,-0.033898305,v.
-工伤保险,Injury Insurance,-0.03340975,n.
 求职,Job Hunting,-0.03288525,v.
 举行,Held,-0.03251445,v.
 排班,Schedule,-0.03232413,v.
-清晰,Clear,-0.03211256,adj.
 编修,Edit,-0.03192314,v.
 签字,Sign,-0.03183957,v.
 缴存,Deposit,-0.03158106,v.
 接轨,In Line,-0.03127892,v.
 涵盖,Cover,-0.0310789,v.
 依赖,Rely,-0.03099488,v.
-艺术家,Artist,-0.03081492,n.
 休息,Rest,-0.03028385,v.
 扫地,Sweep The Floor,-0.03026173,v.
 采摘,Pick,-0.02972922,v.
-爱玩,Love To Play,-0.02956157,n.
 放松,Relax,-0.02927295,v.
-涵养,Conservation,-0.02921769,n.
 剔除,Remove,-0.02904142,v.
 露脸,Show Up,-0.02884768,v.
 界面设计,Interface Design,-0.027932961,v.
-偏高,High,-0.02772719,adj.
-会计师,Accountant,-0.02750165,n.
-极富,Extremely Rich,-0.02737855,adj.
-复苏,Recovery,-0.02735172,n.
 在乎,Care,-0.02712738,v.
 请假,Ask For Leave,-0.02677248,v.
-泼辣,Pungent,-0.02634813,adj.
 携手,Hand In Hand,-0.02589218,v.
-较佳,Better,-0.02585111,adj.
-内向,Introverted,-0.02550239,adj.
-可疑,Suspicious,-0.02510393,adj.
 检查,Examine,-0.024793388,v.
 赠送,Gift,-0.02259887,v.
 报销,Reimburse,-0.022346369,v.
-文明,Civilization,-0.022346369,n.
-洗衣机,Washing Machine,-0.02213968,n.
-尊奉,Worship,-0.02181087,n.
-火爆,Hot,-0.02154178,adj.
-开明,Enlightened,-0.02129677,adj.
-度假,Vacation,-0.02111294,n.
-厌倦,Bored,-0.02082263,adj.
-顾虑,Concern,-0.02012795,n.
 互评,Peer Evaluation,-0.01958828,v.
 耽误,Hold Up,-0.01951168,v.
-癫狂,Madness,-0.01929123,adj.
-萌芽,Bud,-0.01910652,n.
-活着,Alive,-0.01909174,adj.
-安稳,Stable,-0.01850431,adj.
-较真,True,-0.01743673,adj.
-平凡,Ordinary,-0.017045455,adj.
-社会保险,Social Insurance,-0.017045455,n.
 收发,Send And Receive,-0.016949153,v.
 互助,Help Each Other,-0.016949153,v.
 抽查,Spot Check,-0.016949153,v.
-品行端正,Proper Behavior,-0.016949153,n.
-口才,Eloquence,-0.016949153,n.
-充盈,Filling,-0.01668184,adj.
 解难,Solve Problems,-0.01643625,v.
-害怕,Fear,-0.01641171,adj.
-着重,Emphatically,-0.01635053,adj.
 排列,Arrangement,-0.01632672,v.
-灵魂,Soul,-0.01623082,n.
 称赞,Commend,-0.01605966,v.
 言传身教,Precepts And Deeds,-0.01600973,v.
-传菜员,Waiter,-0.01594024,n.
 拜见,Meet,-0.01551159,v.
 耕耘,Cultivate,-0.01535274,v.
-村医,Village Doctor,-0.01510686,n.
 散养,Free-Range Parenting,-0.01493792,v.
 同享,Share,-0.01436325,v.
 育成,Bred,-0.01408707,v.
-兴奋,Excited,-0.01393725,adj.
-药师,Pharmacist,-0.01357036,n.
 交割,Delivery,-0.01336707,v.
 警惕,Alert,-0.01304683,v.
-明晰,Clear,-0.01299996,adj.
-极易,Extremely Easy,-0.01214949,adj.
-容易,Easy,-0.01202928,adj.
 筛选,Filter,-0.01172774,v.
 归类,Classify,-0.011363636,v.
 初审,First Trial,-0.011173184,v.
 补休,Compensatory Time Off,-0.011173184,v.
-动画,Animation,-0.011173184,n.
-清醒,Awake,-0.01087685,adj.
 恢复,Recover,-0.01070042,v.
-热诚,Sincerely,-0.00932307,adj.
 讲解,Explain,-0.00923668,v.
-乒乓球室,Table Tennis Room,-0.00876568,n.
 回归,Return,-0.00873531,v.
 计收,Charge,-0.00844885,v.
 引领,To Lead,-0.00833212,v.
-精气神,"Essence,Energy,Spirit",-0.00828116,n.
 查验,Check,-0.008264463,v.
-采购员,Purchaser,-0.00784066,n.
 简述,Brief Description,-0.00686041,v.
 渲染,Render,-0.00613296,v.
-颓废,Decadent,-0.00591828,adj.
-门卫,Doorman,-0.00572212,n.
 接受,Accept,-0.005586592,v.
 鼓励,Encourage,-0.005586592,v.
-预期,Expected,-0.005586592,adj.
 相遇,Meet,-0.00552445,v.
-小伙伴,Buddy,-0.00541962,n.
-极佳,Excellent,-0.00503715,adj.
 获评,Awarded,-0.00478292,v.
 居住,Live,-0.00476226,v.
-简易,Simple,-0.00427671,adj.
 追溯,Trace Back,-0.00354053,v.
-摇篮,Cradle,-0.00345192,n.
-传奇,Legend,-0.00209243,adj.
-技师,Machinist,-0.00208656,n.
-娴熟,Skilled,-0.00190655,adj.
 缴销,Surrender,-0.00085743,v.
-丰富,Rich,-0.00072389,adj.
 遵照,Comply With,-0.00051993,v.
 善于,Be Good At,-0.00044326,v.
